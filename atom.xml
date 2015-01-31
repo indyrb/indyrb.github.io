@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[IndyRB.org]]></title>
+  <link href="http://indyrb.github.io/atom.xml" rel="self"/>
+  <link href="http://indyrb.github.io/"/>
+  <updated>2015-01-30T22:56:44-05:00</updated>
+  <id>http://indyrb.github.io/</id>
+  <author>
+    <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Does This Thing Work?]]></title>
+    <link href="http://indyrb.github.io/posts/2015/01/27/does-this-thing-work/"/>
+    <updated>2015-01-27T20:58:29-05:00</updated>
+    <id>http://indyrb.github.io/posts/2015/01/27/does-this-thing-work</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Presentations for Indy.rb Meetup October 8]]></title>
+    <link href="http://indyrb.github.io/posts/2014/10/08/presentations-for-indy-dot-rb-meetup-october-8/"/>
+    <updated>2014-10-08T22:03:47-04:00</updated>
+    <id>http://indyrb.github.io/posts/2014/10/08/presentations-for-indy-dot-rb-meetup-october-8</id>
+    <content type="html"><![CDATA[<p>Presentations for Indy.rb Meetup October 8, 2014</p>
+
+<p><a href="http://twitter.com/kyleashipley">Kyle Shipley</a> - McBain: Let&rsquo;s Get Enumerable</p>
+
+<p>1h : 5m Watch Now /
+<a href="http://presentations.kyleshipley.com/ruby_enumerable/">Slides</a></p>
+
+<p><a href="http://twitter.com/mileszs">Miles Sterrett</a> - Sonic Pi</p>
+
+<p>27m : 54s <a href="http://podcast.404dev.com/episodes/080_Miles_Sterrett_-_Sonic_Pi.mp4">Watch Now</a> / <a href="http://sonic-pi.net">Sonic Pi</a></p>
+]]></content>
+  </entry>
+  
+</feed>

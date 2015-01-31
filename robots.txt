@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://indyrb.github.io/sitemap.xml 

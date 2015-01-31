@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://indyrb.github.io/posts/2015/01/27/does-this-thing-work/</loc>
+    <lastmod>2015-01-27T20:58:29-05:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://indyrb.github.io/posts/2014/10/08/presentations-for-indy-dot-rb-meetup-october-8/</loc>
+    <lastmod>2014-10-08T22:03:47-04:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://indyrb.github.io/blog/archives/</loc>
+    <lastmod>2015-01-30T22:56:44-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://indyrb.github.io/</loc>
+    <lastmod>2015-01-30T22:56:44-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>
