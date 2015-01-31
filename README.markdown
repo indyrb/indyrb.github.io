@@ -3,6 +3,9 @@
 The source code for the site is in this source branch. The master branch is generated
 and updated when you run 'rake deploy'. The master branch comes from a git repo initialized in the _deploy directory and the source from the git repo on the root directory of the project.
 
+[This site](http://blog.zerosharp.com/clone-your-octopress-to-blog-from-two-places/) is the
+source of much of this info and goes into more detail.
+
 To get started, first you need to clone the source branch:
 
     git clone -b source https://github.com/indyrb/indyrb.github.io.git indyrb
