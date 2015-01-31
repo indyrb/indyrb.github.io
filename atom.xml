@@ -4,7 +4,7 @@
   <title><![CDATA[IndyRB.org]]></title>
   <link href="http://indyrb.github.io/atom.xml" rel="self"/>
   <link href="http://indyrb.github.io/"/>
-  <updated>2015-01-31T00:59:26-05:00</updated>
+  <updated>2015-01-31T01:01:19-05:00</updated>
   <id>http://indyrb.github.io/</id>
   <author>
     <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
@@ -12,15 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Does This Thing Work?]]></title>
-    <link href="http://indyrb.github.io/posts/2015/01/27/does-this-thing-work/"/>
-    <updated>2015-01-27T20:58:29-05:00</updated>
-    <id>http://indyrb.github.io/posts/2015/01/27/does-this-thing-work</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Presentations for Indy.rb Meetup October 8]]></title>
