@@ -1,3 +1,65 @@
+## Indy.rb
+
+The source code for the site is in this source branch. The master branch is generated
+and updated when you run 'rake deploy'. The master branch comes from a git repo initialized in the _deploy directory and the source from the git repo on the root directory of the project.
+
+To get started, first you need to clone the source branch:
+
+    git clone -b source https://github.com/indyrb/indyrb.github.io.git indyrb
+
+then install:
+
+    cd indyrb
+    bundle install
+    rake setup_github_pages
+
+this will prompt for the repo URL (https://github.com/indyrb/indyrb.github.io.git)
+
+Now you will clone the _deploy branch (the current generated site):
+
+    git clone https://github.com/indyrb/indyrb.github.io.git _deploy
+
+Then you should be set!
+
+Before trying to deploy an update, be sure to pull the latest from both source and master:
+
+    cd indyrb
+    git pull origin source
+
+    cd ./_deploy
+    git pull origin master
+
+Then you can deploy:
+
+    rake generate
+    rake deploy
+
+and commit the changes to source:
+
+    git add .
+    git commit -am "`date`"
+    git push origin source
+
+Some commands from [This helpful site](http://blog.revolunet.com/blog/2013/04/15/octopress-cheatsheet/)
+
+    # create a new post
+    rake new_post['Title of the post']
+
+    # create a new page
+    rake new_page['Title of the page']
+
+    # preview your work
+    rake preview
+
+    # publish it
+    rake generate && rake deploy
+
+    # commit and backup(automatic message)
+    git commit -am "`date`" && git push origin source
+
+The docs linked to below go into more detail and the Rakefile in source is a helpful read as far as knowing what a task is doing.
+
+
 ## Octopress 3.0
 
 Note: Octopress 3.0 is in development at https://github.com/octopress/octopress
@@ -38,8 +100,3 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED ‘AS IS’, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-
-#### If you want to be awesome.
-- Proudly display the 'Powered by Octopress' credit in the footer.
-- [Add your site to the Wiki](https://github.com/imathis/octopress/wiki/Octopress-Sites/_edit) so we can watch the community grow.
