@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: John Nunemaker | IndyRB.org]]></title>
+  <link href="http://indyrb.github.io/blog/categories/john-nunemaker/atom.xml" rel="self"/>
+  <link href="http://indyrb.github.io/"/>
+  <updated>2015-01-31T00:59:26-05:00</updated>
+  <id>http://indyrb.github.io/</id>
+  <author>
+    <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup August 12]]></title>
+    <link href="http://indyrb.github.io/posts/2009/08/12/meetup-august-12/"/>
+    <updated>2009-08-12T01:30:24-04:00</updated>
+    <id>http://indyrb.github.io/posts/2009/08/12/meetup-august-12</id>
+    <content type="html"><![CDATA[<p><strong>Garrett Hart</strong> - <em>CouchDB</em></p>
+
+<p><strong>22m : 49s</strong>
+<a href="http://podcast.404dev.com/episodes/010_Garrett_Hart-CouchDB.mp4">Watch Now</a></p>
+
+<p><strong>John Nunemaker</strong> - <em>MongoMapper (audio only)</em></p>
+
+<p><strong>1m : 01m</strong>
+<a href="http://podcast.404dev.com/episodes/011_John_Nunemaker-MongoMapper.mp3">Listen Now</a> |
+<a href="http://railstips.org/blog/archives/2009/08/19/mongomapper-indy-rb-presentation/">Slides</a></p>
+]]></content>
+  </entry>
+  
+</feed>
