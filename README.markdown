@@ -26,11 +26,11 @@ Then you should be set!
 
 Before trying to deploy an update, be sure to pull the latest from both source and master:
 
-    cd indyrb
-    git pull origin source
-
     cd ./_deploy
     git pull origin master
+
+    cd indyrb
+    git pull origin source
 
 Then you can deploy:
 
@@ -51,10 +51,16 @@ Some commands from [This helpful site](http://blog.revolunet.com/blog/2013/04/15
     # create a new page
     rake new_page['Title of the page']
 
-    # preview your work
+    # preview your work on localhost:4000
     rake preview
 
     # publish it
+    cd ./_deploy
+    git pull origin master
+
+    cd indyrb
+    git pull origin source
+
     rake generate && rake deploy
 
     # commit and backup(automatic message)
