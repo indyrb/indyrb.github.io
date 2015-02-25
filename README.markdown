@@ -14,6 +14,9 @@ then install:
 
     cd indyrb
     bundle install
+    rake setup_github_pages
+
+this will prompt for the repo URL (https://github.com/indyrb/indyrb.github.io.git)
 
 Now you will clone the _deploy branch (the current generated site):
 
