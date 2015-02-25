@@ -8,26 +8,20 @@ source of much of this info and goes into more detail.
 
 To get started, first you need to clone the source branch:
 
-    git clone -b source https://github.com/indyrb/indyrb.github.io.git indyrb
+    git clone -b source git@github.com:indyrb/indyrb.github.io.git indyrb
 
 then install:
 
     cd indyrb
     bundle install
-    rake setup_github_pages
-
-this will prompt for the repo URL (https://github.com/indyrb/indyrb.github.io.git)
 
 Now you will clone the _deploy branch (the current generated site):
 
-    git clone https://github.com/indyrb/indyrb.github.io.git _deploy
+    git clone git@github.com:indyrb/indyrb.github.io.git _deploy
 
 Then you should be set!
 
 Before trying to deploy an update, be sure to pull the latest from both source and master:
-
-    cd ./_deploy
-    git pull origin master
 
     cd indyrb
     git pull origin source
@@ -55,15 +49,16 @@ Some commands from [This helpful site](http://blog.revolunet.com/blog/2013/04/15
     rake preview
 
     # publish it
-    cd ./_deploy
+    cd _deploy
     git pull origin master
 
-    cd indyrb
+    cd ..
     git pull origin source
 
     rake generate && rake deploy
 
     # commit and backup(automatic message)
+    git add .
     git commit -am "`date`" && git push origin source
 
 The docs linked to below go into more detail and the Rakefile in source is a helpful read as far as knowing what a task is doing.

@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://indyrb.github.io/posts/2015/02/24/meetup-february-11/</loc>
-    <lastmod>2015-02-24T21:00:00-05:00</lastmod>
-  </url>
-  <url>
     <loc>http://indyrb.github.io/posts/2014/10/08/presentations-for-indy-dot-rb-meetup-october-8/</loc>
     <lastmod>2014-10-08T22:03:47-04:00</lastmod>
   </url>
@@ -18,14 +14,14 @@
   </url>
   <url>
     <loc>http://indyrb.github.io/blog/archives/</loc>
-    <lastmod>2015-02-24T21:10:58-05:00</lastmod>
+    <lastmod>2015-02-24T21:22:14-05:00</lastmod>
   </url>
   <url>
     <loc>http://indyrb.github.io/</loc>
-    <lastmod>2015-02-24T21:10:58-05:00</lastmod>
+    <lastmod>2015-02-24T21:22:14-05:00</lastmod>
   </url>
   <url>
     <loc>http://indyrb.github.io/talk/</loc>
-    <lastmod>2015-02-24T21:10:58-05:00</lastmod>
+    <lastmod>2015-02-24T21:22:14-05:00</lastmod>
   </url>
 </urlset>
