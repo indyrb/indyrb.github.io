@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Winston Kozan | IndyRB.org]]></title>
+  <link href="http://indyrb.github.io/blog/categories/winston-kozan/atom.xml" rel="self"/>
+  <link href="http://indyrb.github.io/"/>
+  <updated>2015-03-02T15:19:55-05:00</updated>
+  <id>http://indyrb.github.io/</id>
+  <author>
+    <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup February 12, 2014]]></title>
+    <link href="http://indyrb.github.io/posts/2014/02/12/meetup-february-12/"/>
+    <updated>2014-02-12T21:30:24-05:00</updated>
+    <id>http://indyrb.github.io/posts/2014/02/12/meetup-february-12</id>
+    <content type="html"><![CDATA[<p><strong>Winston Kozan</strong> - Content Management Systems in Ruby</p>
+
+<p><a href="http://podcast.404dev.com/extras/072_Winston_Kozan-Content_Management_Systems_in_Ruby.pdf">Slides</a></p>
+
+<p><strong><a href="http://twitter.com/codatory">Alex Conner</a></strong> - Why Rust is Awesome</p>
+
+<p><a href="http://podcast.404dev.com/extras/073_Alex_Conner-Why_Rust_is_Awesome.pdf">Slides</a></p>
+]]></content>
+  </entry>
+  
+</feed>

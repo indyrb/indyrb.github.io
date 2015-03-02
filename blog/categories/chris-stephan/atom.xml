@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Chris Stephan | IndyRB.org]]></title>
   <link href="http://indyrb.github.io/blog/categories/chris-stephan/atom.xml" rel="self"/>
   <link href="http://indyrb.github.io/"/>
-  <updated>2015-03-02T13:52:18-05:00</updated>
+  <updated>2015-03-02T15:19:55-05:00</updated>
   <id>http://indyrb.github.io/</id>
   <author>
     <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
@@ -29,6 +29,27 @@
 <a href="http://podcast.404dev.com/episodes/074_Chris_Stephan-Developing_With_Docker.mp4">Watch Now</a> /
 <a href="https://speakerdeck.com/endoze/developing-with-docker">Slides</a> /
 <a href="https://github.com/endoze/docker_playground">Code</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup April 8, 2014]]></title>
+    <link href="http://indyrb.github.io/posts/2014/04/08/meetup-april-8/"/>
+    <updated>2014-04-08T21:30:24-05:00</updated>
+    <id>http://indyrb.github.io/posts/2014/04/08/meetup-april-8</id>
+    <content type="html"><![CDATA[<p><strong><a href="https://twitter.com/_swanson">Matt Swanson</a></strong> - Code Smells</p>
+
+<p><strong>39m : 46s</strong>
+<a href="http://podcast.404dev.com/episodes/086_Matt_Swanson_-_Code_Smells.m4v">Watch Now</a> /
+<a href="https://github.com/swanson/code-smell-refactoring">Exercises Repository</a></p>
+
+<p><strong><a href="http://twitter.com/endozemedia">Chris Stephan</a></strong> - Chef</p>
+
+<p><strong>27m : 12s</strong>
+<a href="http://podcast.404dev.com/episodes/087_Chris_Stephan_-_Chef.m4v">Watch Now</a> /
+<a href="https://speakerdeck.com/endoze/chef-presentation">Slides</a> /
+<a href="https://github.com/endoze/learn-chef">Learn Chef Repository</a> /
+<a href="https://github.com/sqm/cookbook-rubycas">Chef RubyCAS Cookbook</a></p>
 ]]></content>
   </entry>
   
