@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Meetup August 11"
+title: "Meetup August 2010"
 date: 2010-08-11 00:50:05 -0500
 comments: true
 categories: [Matt Gordon, Miles Sterrett, Tim Harvey, Dave Christiansen]

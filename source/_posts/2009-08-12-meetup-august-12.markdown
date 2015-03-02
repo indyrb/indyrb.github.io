@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Meetup August 12"
+title: "Meetup August 2009"
 date: 2009-08-12 00:30:24 -0500
 comments: true
 categories: [Garrett Hart, John Nunemaker]
