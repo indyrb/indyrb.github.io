@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Meetup August 13"
-date: 2014-09-10 23:30:24 -0500
+date: 2014-08-13 23:30:24 -0500
 comments: true
 categories: [Eric Oestrich, Andrew L Robinson III, Joel Meador]
 ---
