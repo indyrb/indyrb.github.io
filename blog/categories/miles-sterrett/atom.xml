@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Miles Sterrett | IndyRB.org]]></title>
   <link href="http://indyrb.github.io/blog/categories/miles-sterrett/atom.xml" rel="self"/>
   <link href="http://indyrb.github.io/"/>
-  <updated>2015-02-25T11:09:28-05:00</updated>
+  <updated>2015-03-02T13:46:48-05:00</updated>
   <id>http://indyrb.github.io/</id>
   <author>
     <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
@@ -32,7 +32,26 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Meetup August 11]]></title>
+    <title type="html"><![CDATA[Meetup May 14, 2014]]></title>
+    <link href="http://indyrb.github.io/posts/2014/05/15/meetup-may-14/"/>
+    <updated>2014-05-15T00:30:24-04:00</updated>
+    <id>http://indyrb.github.io/posts/2014/05/15/meetup-may-14</id>
+    <content type="html"><![CDATA[<p><strong><a href="https://twitter.com/mileszs">Miles Sterrett</a></strong> - Code Smells 2: Smell Harder</p>
+
+<p><strong>55m : 21s</strong>
+<a href="http://podcast.404dev.com/episodes/073_Miles_Sterrett-Code_Smells_2-Smell-Harder.mp4">Watch Now</a></p>
+
+<p><strong><a href="http://twitter.com/endozemedia">Chris Stephan</a></strong> - Developing with Docker</p>
+
+<p><strong>58m : 54s</strong>
+<a href="http://podcast.404dev.com/episodes/074_Chris_Stephan-Developing_With_Docker.mp4">Watch Now</a> /
+<a href="https://speakerdeck.com/endoze/developing-with-docker">Slides</a> /
+<a href="https://github.com/endoze/docker_playground">Code</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup August 2010]]></title>
     <link href="http://indyrb.github.io/posts/2010/08/11/meetup-august-11/"/>
     <updated>2010-08-11T01:50:05-04:00</updated>
     <id>http://indyrb.github.io/posts/2010/08/11/meetup-august-11</id>

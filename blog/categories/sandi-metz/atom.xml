@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Sandi Metz | IndyRB.org]]></title>
+  <link href="http://indyrb.github.io/blog/categories/sandi-metz/atom.xml" rel="self"/>
+  <link href="http://indyrb.github.io/"/>
+  <updated>2015-03-02T13:46:48-05:00</updated>
+  <id>http://indyrb.github.io/</id>
+  <author>
+    <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup July 9, 2014]]></title>
+    <link href="http://indyrb.github.io/posts/2014/07/10/meetup-july-9/"/>
+    <updated>2014-07-10T00:30:24-04:00</updated>
+    <id>http://indyrb.github.io/posts/2014/07/10/meetup-july-9</id>
+    <content type="html"><![CDATA[<p><strong>Sandi Metz - All the Little Things (group watching of the RailsConf 2014 video)</strong></p>
+
+<p>Sandi takes an ugly section of conditional code and converts it into a few simple objects. It bridges the gap between OO theory and practice and teaches straightforward strategies that all can use to improve their code.</p>
+
+<p><strong>38m : 47s</strong>
+<a href="http://www.confreaks.com/videos/3358-railsconf-all-the-little-things">Watch Now</a></p>
+
+<p><strong><a href="http://twitter.com/ar3_me">Andrew L Robinson III</a></strong> - Discussion on contributing to the Indy.rb UserVoice and future meeting planning</p>
+
+<p><a href="http://indyrb.uservoice.com">Indy.rb UserVoice Forum</a></p>
+]]></content>
+  </entry>
+  
+</feed>
