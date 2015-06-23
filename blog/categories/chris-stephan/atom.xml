@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Chris Stephan | IndyRB.org]]></title>
   <link href="http://indyrb.github.io/blog/categories/chris-stephan/atom.xml" rel="self"/>
   <link href="http://indyrb.github.io/"/>
-  <updated>2015-06-23T16:48:20-04:00</updated>
+  <updated>2015-06-23T19:21:08-04:00</updated>
   <id>http://indyrb.github.io/</id>
   <author>
     <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
@@ -18,15 +18,13 @@
     <link href="http://indyrb.github.io/posts/2014/05/15/meetup-may-14/"/>
     <updated>2014-05-15T00:30:24-04:00</updated>
     <id>http://indyrb.github.io/posts/2014/05/15/meetup-may-14</id>
-    <content type="html"><![CDATA[<p><strong><a href="https://twitter.com/mileszs">Miles Sterrett</a></strong> - Code Smells 2: Smell Harder</p>
+    <content type="html"><![CDATA[<h3><a href="https://twitter.com/mileszs">Miles Sterrett</a> - Code Smells 2: Smell Harder</h3>
 
-<p><strong>55m : 21s</strong>
-<a href="http://podcast.404dev.com/episodes/073_Miles_Sterrett-Code_Smells_2-Smell-Harder.mp4">Watch Now</a></p>
+<p><a href="http://podcast.404dev.com/episodes/073_Miles_Sterrett-Code_Smells_2-Smell-Harder.mp4">Video</a> (55m : 21s)</p>
 
-<p><strong><a href="http://twitter.com/endozemedia">Chris Stephan</a></strong> - Developing with Docker</p>
+<h3><a href="http://twitter.com/endozemedia">Chris Stephan</a> - Developing with Docker</h3>
 
-<p><strong>58m : 54s</strong>
-<a href="http://podcast.404dev.com/episodes/074_Chris_Stephan-Developing_With_Docker.mp4">Watch Now</a> /
+<p><a href="http://podcast.404dev.com/episodes/074_Chris_Stephan-Developing_With_Docker.mp4">Video</a> (58m : 54s) /
 <a href="https://speakerdeck.com/endoze/developing-with-docker">Slides</a> /
 <a href="https://github.com/endoze/docker_playground">Code</a></p>
 ]]></content>
@@ -37,16 +35,14 @@
     <link href="http://indyrb.github.io/posts/2014/04/08/meetup-april-8/"/>
     <updated>2014-04-08T22:30:24-04:00</updated>
     <id>http://indyrb.github.io/posts/2014/04/08/meetup-april-8</id>
-    <content type="html"><![CDATA[<p><strong><a href="https://twitter.com/_swanson">Matt Swanson</a></strong> - Code Smells</p>
+    <content type="html"><![CDATA[<h3><a href="https://twitter.com/_swanson">Matt Swanson</a> - Code Smells</h3>
 
-<p><strong>39m : 46s</strong>
-<a href="http://podcast.404dev.com/episodes/086_Matt_Swanson_-_Code_Smells.m4v">Watch Now</a> /
+<p><a href="http://podcast.404dev.com/episodes/086_Matt_Swanson_-_Code_Smells.m4v">Video</a> (39m : 46s) /
 <a href="https://github.com/swanson/code-smell-refactoring">Exercises Repository</a></p>
 
-<p><strong><a href="http://twitter.com/endozemedia">Chris Stephan</a></strong> - Chef</p>
+<h3><a href="http://twitter.com/endozemedia">Chris Stephan</a> - Chef</h3>
 
-<p><strong>27m : 12s</strong>
-<a href="http://podcast.404dev.com/episodes/087_Chris_Stephan_-_Chef.m4v">Watch Now</a> /
+<p><a href="http://podcast.404dev.com/episodes/087_Chris_Stephan_-_Chef.m4v">Watch Now</a> (27m : 12s) /
 <a href="https://speakerdeck.com/endoze/chef-presentation">Slides</a> /
 <a href="https://github.com/endoze/learn-chef">Learn Chef Repository</a> /
 <a href="https://github.com/sqm/cookbook-rubycas">Chef RubyCAS Cookbook</a></p>

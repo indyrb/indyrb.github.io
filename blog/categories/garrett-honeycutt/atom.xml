@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Garrett Honeycutt | IndyRB.org]]></title>
   <link href="http://indyrb.github.io/blog/categories/garrett-honeycutt/atom.xml" rel="self"/>
   <link href="http://indyrb.github.io/"/>
-  <updated>2015-06-23T16:48:20-04:00</updated>
+  <updated>2015-06-23T19:21:08-04:00</updated>
   <id>http://indyrb.github.io/</id>
   <author>
     <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
@@ -18,17 +18,20 @@
     <link href="http://indyrb.github.io/posts/2012/04/11/meetup-april-11/"/>
     <updated>2012-04-11T22:30:24-04:00</updated>
     <id>http://indyrb.github.io/posts/2012/04/11/meetup-april-11</id>
-    <content type="html"><![CDATA[<p><strong><a href="https://twitter.com/joelmeador">Matt Swanson</a></strong> - Ruby News Global &amp; Local
-<a href="http://podcast.404dev.com/episodes/063_Matt_Swanson-Anatomy_of_a_Weekend_Project.m4v">Watch Now (9m : 31s)</a>
+    <content type="html"><![CDATA[<h3><a href="https://twitter.com/joelmeador">Matt Swanson</a> - Ruby News Global &amp; Local</h3>
+
+<p><a href="http://podcast.404dev.com/episodes/063_Matt_Swanson-Anatomy_of_a_Weekend_Project.m4v">Video</a> (9m : 31s) /
 <a href="https://github.com/swanson">Code</a></p>
 
-<p><strong><a href="http://github.com/gowabash">Matt Brown</a></strong> - 5 Brains, 2 solutions: An Experiment in Problem Solving
-<a href="http://podcast.404dev.com/episodes/064_Matt_Brown-5_Brains_2_Solutions.m4v">Watch Now (31m : 36s)</a>
-<a href="https://code.google.com/codejam">Google Code Jam</a>
+<h3><a href="http://github.com/gowabash">Matt Brown</a> - 5 Brains, 2 solutions: An Experiment in Problem Solving</h3>
+
+<p><a href="http://podcast.404dev.com/episodes/064_Matt_Brown-5_Brains_2_Solutions.m4v">Video</a> (31m : 36s) /
+<a href="https://code.google.com/codejam">Google Code Jam</a> /
 <a href="https://github.com/gowabash/prog_challenge">Code</a></p>
 
-<p><strong><a href="https://twitter.com/learnpuppet">Garrett Honeycutt</a></strong> - Expanded Introduction to Puppet
-<a href="http://podcast.404dev.com/episodes/065_Garrett_Honeycutt-Introduction_to_Puppet.m4v">Watch Now (36m : 27s)</a>
+<h3><a href="https://twitter.com/learnpuppet">Garrett Honeycutt</a> - Expanded Introduction to Puppet</h3>
+
+<p><a href="http://podcast.404dev.com/episodes/065_Garrett_Honeycutt-Introduction_to_Puppet.m4v">Video</a>  (36m : 27s) /
 <a href="https://puppetlabs.com">Puppet Labs</a></p>
 ]]></content>
   </entry>

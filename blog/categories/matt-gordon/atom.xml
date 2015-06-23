@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Matt Gordon | IndyRB.org]]></title>
   <link href="http://indyrb.github.io/blog/categories/matt-gordon/atom.xml" rel="self"/>
   <link href="http://indyrb.github.io/"/>
-  <updated>2015-06-23T16:48:20-04:00</updated>
+  <updated>2015-06-23T19:21:08-04:00</updated>
   <id>http://indyrb.github.io/</id>
   <author>
     <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
@@ -18,19 +18,23 @@
     <link href="http://indyrb.github.io/posts/2012/02/08/meetup-february-8/"/>
     <updated>2012-02-08T21:30:24-05:00</updated>
     <id>http://indyrb.github.io/posts/2012/02/08/meetup-february-8</id>
-    <content type="html"><![CDATA[<p><strong><a href="https://twitter.com/esquivalient">Matt Gordon</a></strong> - Ruby News &amp; Bug or Feature?
-<a href="http://podcast.404dev.com/episodes/056_Matt_Gordon-Ruby_News_and_Bug_or_Feature.m4v">Watch Now (27m : 55s)</a></p>
+    <content type="html"><![CDATA[<h3><a href="https://twitter.com/esquivalient">Matt Gordon</a> - Ruby News &amp; Bug or Feature?</h3>
 
-<p><strong><a href="https://twitter.com/codatory">Alex Conner</a></strong> - Beanstalk
-<a href="http://podcast.404dev.com/episodes/057_Alex_Connor-Beanstalk.m4v">Watch Now (12m : 25s)</a>
+<p><a href="http://podcast.404dev.com/episodes/056_Matt_Gordon-Ruby_News_and_Bug_or_Feature.m4v">Video</a> (27m : 55s)</p>
+
+<h3><a href="https://twitter.com/codatory">Alex Conner</a> - Beanstalk</h3>
+
+<p><a href="http://podcast.404dev.com/episodes/057_Alex_Connor-Beanstalk.m4v">Video</a> (12m : 25s) /
 <a href="https://github.com/codatory/nearme">Code</a></p>
 
-<p><strong><a href="https://twitter.com/tihm">Tim Harvey</a></strong> - Microgems &amp; Eliminating Barriers
-<a href="http://podcast.404dev.com/episodes/058_Tim_Harvey-Microgems_and_Eliminating_Barriers.m4v">Watch Now (10m : 20s)</a>
+<h3><a href="https://twitter.com/tihm">Tim Harvey</a> - Microgems &amp; Eliminating Barriers</h3>
+
+<p><a href="http://podcast.404dev.com/episodes/058_Tim_Harvey-Microgems_and_Eliminating_Barriers.m4v">Video</a> (10m : 20s) /
 <a href="http://tjh.github.com/microgems/#1">Slides</a></p>
 
-<p><strong><a href="https://twitter.com/mileszs">Miles Sterrett</a></strong> - Dinosaurs, Lasers &amp; the Decorator Pattern
-<a href="http://podcast.404dev.com/episodes/059_Miles_Sterrett-Dinosaurs_Lasers_and_the_Decorator_Pattern.m4v">Watch Now (15m : 53s)</a>
+<h3><a href="https://twitter.com/mileszs">Miles Sterrett</a> - Dinosaurs, Lasers &amp; the Decorator Pattern</h3>
+
+<p><a href="http://podcast.404dev.com/episodes/059_Miles_Sterrett-Dinosaurs_Lasers_and_the_Decorator_Pattern.m4v">Video</a> (15m : 53s) /
 <a href="http://speakerdeck.com/u/mileszs/p/dinosaurs-lasers-and-the-decorator-pattern">Slides</a></p>
 ]]></content>
   </entry>
@@ -40,20 +44,18 @@
     <link href="http://indyrb.github.io/posts/2010/11/10/meetup-november-2010/"/>
     <updated>2010-11-10T22:37:20-05:00</updated>
     <id>http://indyrb.github.io/posts/2010/11/10/meetup-november-2010</id>
-    <content type="html"><![CDATA[<p><strong>Matt Gordon</strong> - <em>012: Ruby News local &amp; Global</em></p>
+    <content type="html"><![CDATA[<h3><a href="https://twitter.com/esquivalient">Matt Gordon</a> - Ruby News local &amp; Global</h3>
 
-<p><strong>14m : 41s</strong>
-<a href="http://podcast.404dev.com/episodes/012_Matt_Gordon-Ruby_News.m4v">Watch Now</a></p>
+<p><a href="http://podcast.404dev.com/episodes/012_Matt_Gordon-Ruby_News.m4v">Video</a> (14m : 41s)</p>
 
-<p><strong>Chris Vannoy</strong> - <em>013: Sinatra</em></p>
+<h3><a href="https://twitter.com/cvannoy">Chris Vannoy</a> - Sinatra</h3>
 
-<p><strong>29m : 24s</strong>
-<a href="http://podcast.404dev.com/episodes/013_Chris_Vannoy-Sinatra.m4v">Watch Now</a></p>
+<p><a href="http://podcast.404dev.com/episodes/013_Chris_Vannoy-Sinatra.m4v">Video</a> (29m : 24s)</p>
 
-<p><strong>Nate Acuff</strong> - <em>014: Nate&rsquo;s Semi-precious Gems</em></p>
+<h3><a href="https://twitter.com/mediocretes">Nate Acuff</a> - Nate&rsquo;s Semi-precious Gems</h3>
 
-<p><strong>11m : 46s</strong>
-<a href="http://podcast.404dev.com/episodes/014_Nate_Acuff-Nates_Semi-precious_Gems.m4v">Watch Now</a> / <a href="https://github.com/gimite/google-spreadsheet-ruby">Gem google-spreadsheet-ruby</a></p>
+<p><a href="http://podcast.404dev.com/episodes/014_Nate_Acuff-Nates_Semi-precious_Gems.m4v">Watch Now</a> (11m : 46s) /
+<a href="https://github.com/gimite/google-spreadsheet-ruby">Google-spreadsheet-ruby Gem</a></p>
 ]]></content>
   </entry>
   
@@ -62,25 +64,21 @@
     <link href="http://indyrb.github.io/posts/2010/09/08/meetup-september-2010/"/>
     <updated>2010-09-08T23:18:20-04:00</updated>
     <id>http://indyrb.github.io/posts/2010/09/08/meetup-september-2010</id>
-    <content type="html"><![CDATA[<p><strong>Anthony Panozzo</strong> - <em>006: Zsh vs Bash Deathmatch</em></p>
+    <content type="html"><![CDATA[<h3><a href="https://twitter.com/panozzaj">Anthony Panozzo</a> - Zsh vs Bash Deathmatch</h3>
 
-<p><strong>28m : 54s</strong>
-<a href="http://podcast.404dev.com/episodes/006-Anthony_Panozzo-Zsh_vs_Bash_Deathmatch.m4v">Watch Now</a></p>
+<p><a href="http://podcast.404dev.com/episodes/006-Anthony_Panozzo-Zsh_vs_Bash_Deathmatch.m4v">Video</a> (28m : 54s)</p>
 
-<p><strong>Dave Christiansen</strong> - <em>007: Career-saving Advice</em></p>
+<h3><a href="https://twitter.com/aldos">Dave Christiansen</a> - Career-saving Advice</h3>
 
-<p><strong>0m : 27s</strong>
-<a href="http://podcast.404dev.com/episodes/007-Dave_Christiansen-Career-saving_advice.m4v">Watch Now</a></p>
+<p><a href="http://podcast.404dev.com/episodes/007-Dave_Christiansen-Career-saving_advice.m4v">Video</a> (27s)</p>
 
-<p><strong>Dave Christiansen</strong> - <em>008: Creating a Rails Plugin</em></p>
+<h3><a href="https://twitter.com/aldos">Dave Christiansen</a> - Creating a Rails Plugin</h3>
 
-<p><strong>13m : 35s</strong>
-<a href="http://podcast.404dev.com/episodes/008-Dave_Christiansen-Creating_a_plugin.m4v">Watch Now</a></p>
+<p><a href="http://podcast.404dev.com/episodes/008-Dave_Christiansen-Creating_a_plugin.m4v">Video</a> (13m : 35s)</p>
 
-<p><strong>Matt Gordon</strong> - <em>009: Ruby News local &amp; Global</em></p>
+<h3><a href="https://twitter.com/esquivalient">Matt Gordon</a> - Ruby News local &amp; Global</h3>
 
-<p><strong>17m : 56s</strong>
-<a href="http://podcast.404dev.com/episodes/009-Matt_Gordon-Ruby_News.m4v">Watch Now</a></p>
+<p><a href="http://podcast.404dev.com/episodes/009-Matt_Gordon-Ruby_News.m4v">Video</a> (17m : 56s)</p>
 ]]></content>
   </entry>
   
@@ -89,30 +87,25 @@
     <link href="http://indyrb.github.io/posts/2010/08/11/meetup-august-11/"/>
     <updated>2010-08-11T01:50:05-04:00</updated>
     <id>http://indyrb.github.io/posts/2010/08/11/meetup-august-11</id>
-    <content type="html"><![CDATA[<p><em>Full Meetup</em></p>
+    <content type="html"><![CDATA[<h3>Full Meetup</h3>
 
-<p><strong>2h : 03m</strong>
-<a href="http://podcast.404dev.com/episodes/001-Indy.rb_2010-08-11.m4v">Watch Now</a></p>
+<p><a href="http://podcast.404dev.com/episodes/001-Indy.rb_2010-08-11.m4v">Video</a> (2h : 03m)</p>
 
-<p><strong>Matt Gordon</strong> - <em>Ruby News</em></p>
+<h3><a href="https://twitter.com/esquivalient">Matt Gordon</a> - Ruby News</h3>
 
-<p><strong>11m : 09s</strong>
-<a href="http://podcast.404dev.com/episodes/002-Matt_Gordon-Ruby_News.m4v">Watch Now</a></p>
+<p><a href="http://podcast.404dev.com/episodes/002-Matt_Gordon-Ruby_News.m4v">Video</a> (11m : 09s)</p>
 
-<p><strong>Miles Sterrett</strong> - <em>Rails 3 Intro</em></p>
+<h3><a href="https://twitter.com/milezs">Miles Sterrett</a> - Rails 3 Intro</h3>
 
-<p><strong>1h : 03m</strong>
-<a href="http://podcast.404dev.com/episodes/003-Miles_Sterrett-Rails_3_Intro.m4v">Watch Now</a></p>
+<p><a href="http://podcast.404dev.com/episodes/003-Miles_Sterrett-Rails_3_Intro.m4v">Video</a> (1h : 03m)</p>
 
-<p><strong>Tim Harvey</strong> - <em>Git Intro</em></p>
+<h3><a href="https://twitter.com/tihm">Tim Harvey</a> - Git Intro</h3>
 
-<p><strong>32m : 00s</strong>
-<a href="http://podcast.404dev.com/episodes/004-Tim_Harvey-Git_Intro.m4v">Watch Now</a></p>
+<p><a href="http://podcast.404dev.com/episodes/004-Tim_Harvey-Git_Intro.m4v">Video</a> (32m)</p>
 
-<p><strong>Dave Christiansen</strong> - <em>Daibatsu Mobile</em></p>
+<h3><a href="https://twitter.com/aldos">Dave Christiansen</a> - Daibatsu Mobile</h3>
 
-<p><strong>5m : 09s</strong>
-<a href="http://podcast.404dev.com/episodes/005-Dave_Christiansen-Mobile.m4v">Watch Now</a></p>
+<p><a href="http://podcast.404dev.com/episodes/005-Dave_Christiansen-Mobile.m4v">Video</a> (5m : 09s)</p>
 ]]></content>
   </entry>
   

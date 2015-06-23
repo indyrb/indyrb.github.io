@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Eric Oestrich | IndyRB.org]]></title>
   <link href="http://indyrb.github.io/blog/categories/eric-oestrich/atom.xml" rel="self"/>
   <link href="http://indyrb.github.io/"/>
-  <updated>2015-06-23T16:48:20-04:00</updated>
+  <updated>2015-06-23T19:21:08-04:00</updated>
   <id>http://indyrb.github.io/</id>
   <author>
     <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
@@ -18,21 +18,18 @@
     <link href="http://indyrb.github.io/posts/2014/08/14/meetup-august-13/"/>
     <updated>2014-08-14T00:30:24-04:00</updated>
     <id>http://indyrb.github.io/posts/2014/08/14/meetup-august-13</id>
-    <content type="html"><![CDATA[<p><strong><a href="http://twitter.com/ericoestritch">Eric Oestrich</a></strong> - <em>Amazon SQS</em></p>
+    <content type="html"><![CDATA[<h3><a href="http://twitter.com/ericoestritch">Eric Oestrich</a> - Amazon SQS</h3>
 
-<p><strong>5m : 27s</strong>
-<a href="http://podcast.404dev.com/episodes/075_Eric_Oestrich_-_Amazon_SQS.mp4">Watch Now</a> /
+<p><a href="http://podcast.404dev.com/episodes/075_Eric_Oestrich_-_Amazon_SQS.mp4">Video</a> (5m : 27s) /
 <a href="http://oestrich.org/presentations/amazon-sqs.pdf">Links and notes</a></p>
 
-<p><strong><a href="http://twitter.com/ar3_me">Andrew L Robinson III</a></strong> - <em>Code Kata</em></p>
+<h3><a href="http://twitter.com/ar3_me">Andrew L Robinson III</a> - Code Kata</h3>
 
-<p><strong>40m : 04s</strong>
-<a href="http://podcast.404dev.com/episodes/076_Andrew_Robinson_III_-_Code_Kata.mp4">Watch Now</a></p>
+<p><a href="http://podcast.404dev.com/episodes/076_Andrew_Robinson_III_-_Code_Kata.mp4">Video</a> (40m : 04s)</p>
 
-<p><strong><a href="http://twitter.com/ar3_me">Joel Meador</a></strong> - <em>Anatomy of a Code Review</em></p>
+<h3><a href="http://twitter.com/ar3_me">Joel Meador</a> - Anatomy of a Code Review</h3>
 
-<p><strong>39m : 16s</strong>
-<a href="http://podcast.404dev.com/episodes/077_Joel_Meador_-_Anatomy_of_a_Code_Review.mp4">Watch Now</a></p>
+<p><a href="http://podcast.404dev.com/episodes/077_Joel_Meador_-_Anatomy_of_a_Code_Review.mp4">Video</a> (39m : 16s)</p>
 ]]></content>
   </entry>
   

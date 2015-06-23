@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Garrett Hart | IndyRB.org]]></title>
   <link href="http://indyrb.github.io/blog/categories/garrett-hart/atom.xml" rel="self"/>
   <link href="http://indyrb.github.io/"/>
-  <updated>2015-06-23T16:48:20-04:00</updated>
+  <updated>2015-06-23T19:21:08-04:00</updated>
   <id>http://indyrb.github.io/</id>
   <author>
     <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
@@ -18,15 +18,13 @@
     <link href="http://indyrb.github.io/posts/2009/08/12/meetup-august-12/"/>
     <updated>2009-08-12T01:30:24-04:00</updated>
     <id>http://indyrb.github.io/posts/2009/08/12/meetup-august-12</id>
-    <content type="html"><![CDATA[<p><strong>Garrett Hart</strong> - <em>CouchDB</em></p>
+    <content type="html"><![CDATA[<h3><a href="https://twitter.com/thirdshift">Garrett Hart</a> - CouchDB</h3>
 
-<p><strong>22m : 49s</strong>
-<a href="http://podcast.404dev.com/episodes/010_Garrett_Hart-CouchDB.mp4">Watch Now</a></p>
+<p><a href="http://podcast.404dev.com/episodes/010_Garrett_Hart-CouchDB.mp4">Video</a> (22m : 49s)</p>
 
-<p><strong>John Nunemaker</strong> - <em>MongoMapper (audio only)</em></p>
+<h3><a href="https://twitter.com/jnunemaker">John Nunemaker</a> - MongoMapper</h3>
 
-<p><strong>1m : 01m</strong>
-<a href="http://podcast.404dev.com/episodes/011_John_Nunemaker-MongoMapper.mp3">Listen Now</a> |
+<p><a href="http://podcast.404dev.com/episodes/011_John_Nunemaker-MongoMapper.mp3">Audio</a> (1h : 1m) /
 <a href="http://railstips.org/blog/archives/2009/08/19/mongomapper-indy-rb-presentation/">Slides</a></p>
 ]]></content>
   </entry>

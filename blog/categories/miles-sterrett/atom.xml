@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Miles Sterrett | IndyRB.org]]></title>
   <link href="http://indyrb.github.io/blog/categories/miles-sterrett/atom.xml" rel="self"/>
   <link href="http://indyrb.github.io/"/>
-  <updated>2015-06-23T16:48:20-04:00</updated>
+  <updated>2015-06-23T19:21:08-04:00</updated>
   <id>http://indyrb.github.io/</id>
   <author>
     <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
@@ -18,16 +18,15 @@
     <link href="http://indyrb.github.io/posts/2014/10/08/meetup-october-8/"/>
     <updated>2014-10-08T22:03:47-04:00</updated>
     <id>http://indyrb.github.io/posts/2014/10/08/meetup-october-8</id>
-    <content type="html"><![CDATA[<p>Presentations for Indy.rb Meetup October 8, 2014</p>
+    <content type="html"><![CDATA[<h3><a href="http://twitter.com/kyleashipley">Kyle Shipley</a> - Let&rsquo;s Get Enumerable</h3>
 
-<p><a href="http://twitter.com/kyleashipley">Kyle Shipley</a> - McBain: Let&rsquo;s Get Enumerable</p>
-
-<p>1h : 5m Watch Now /
+<p><a href="http://podcast.404dev.com/episodes/079_Kyle_Shipley_-_Enumerables.mp4">Video</a> (1h : 5m) /
 <a href="http://presentations.kyleshipley.com/ruby_enumerable/">Slides</a></p>
 
-<p><a href="http://twitter.com/mileszs">Miles Sterrett</a> - Sonic Pi</p>
+<h3><a href="http://twitter.com/mileszs">Miles Sterrett</a> - Sonic Pi</h3>
 
-<p>27m : 54s <a href="http://podcast.404dev.com/episodes/080_Miles_Sterrett_-_Sonic_Pi.mp4">Watch Now</a> / <a href="http://sonic-pi.net">Sonic Pi</a></p>
+<p><a href="http://podcast.404dev.com/episodes/080_Miles_Sterrett_-_Sonic_Pi.mp4">Video</a> (27m : 54s) /
+<a href="http://sonic-pi.net">Sonic Pi</a></p>
 ]]></content>
   </entry>
   
@@ -36,15 +35,13 @@
     <link href="http://indyrb.github.io/posts/2014/05/15/meetup-may-14/"/>
     <updated>2014-05-15T00:30:24-04:00</updated>
     <id>http://indyrb.github.io/posts/2014/05/15/meetup-may-14</id>
-    <content type="html"><![CDATA[<p><strong><a href="https://twitter.com/mileszs">Miles Sterrett</a></strong> - Code Smells 2: Smell Harder</p>
+    <content type="html"><![CDATA[<h3><a href="https://twitter.com/mileszs">Miles Sterrett</a> - Code Smells 2: Smell Harder</h3>
 
-<p><strong>55m : 21s</strong>
-<a href="http://podcast.404dev.com/episodes/073_Miles_Sterrett-Code_Smells_2-Smell-Harder.mp4">Watch Now</a></p>
+<p><a href="http://podcast.404dev.com/episodes/073_Miles_Sterrett-Code_Smells_2-Smell-Harder.mp4">Video</a> (55m : 21s)</p>
 
-<p><strong><a href="http://twitter.com/endozemedia">Chris Stephan</a></strong> - Developing with Docker</p>
+<h3><a href="http://twitter.com/endozemedia">Chris Stephan</a> - Developing with Docker</h3>
 
-<p><strong>58m : 54s</strong>
-<a href="http://podcast.404dev.com/episodes/074_Chris_Stephan-Developing_With_Docker.mp4">Watch Now</a> /
+<p><a href="http://podcast.404dev.com/episodes/074_Chris_Stephan-Developing_With_Docker.mp4">Video</a> (58m : 54s) /
 <a href="https://speakerdeck.com/endoze/developing-with-docker">Slides</a> /
 <a href="https://github.com/endoze/docker_playground">Code</a></p>
 ]]></content>
@@ -55,19 +52,23 @@
     <link href="http://indyrb.github.io/posts/2012/02/08/meetup-february-8/"/>
     <updated>2012-02-08T21:30:24-05:00</updated>
     <id>http://indyrb.github.io/posts/2012/02/08/meetup-february-8</id>
-    <content type="html"><![CDATA[<p><strong><a href="https://twitter.com/esquivalient">Matt Gordon</a></strong> - Ruby News &amp; Bug or Feature?
-<a href="http://podcast.404dev.com/episodes/056_Matt_Gordon-Ruby_News_and_Bug_or_Feature.m4v">Watch Now (27m : 55s)</a></p>
+    <content type="html"><![CDATA[<h3><a href="https://twitter.com/esquivalient">Matt Gordon</a> - Ruby News &amp; Bug or Feature?</h3>
 
-<p><strong><a href="https://twitter.com/codatory">Alex Conner</a></strong> - Beanstalk
-<a href="http://podcast.404dev.com/episodes/057_Alex_Connor-Beanstalk.m4v">Watch Now (12m : 25s)</a>
+<p><a href="http://podcast.404dev.com/episodes/056_Matt_Gordon-Ruby_News_and_Bug_or_Feature.m4v">Video</a> (27m : 55s)</p>
+
+<h3><a href="https://twitter.com/codatory">Alex Conner</a> - Beanstalk</h3>
+
+<p><a href="http://podcast.404dev.com/episodes/057_Alex_Connor-Beanstalk.m4v">Video</a> (12m : 25s) /
 <a href="https://github.com/codatory/nearme">Code</a></p>
 
-<p><strong><a href="https://twitter.com/tihm">Tim Harvey</a></strong> - Microgems &amp; Eliminating Barriers
-<a href="http://podcast.404dev.com/episodes/058_Tim_Harvey-Microgems_and_Eliminating_Barriers.m4v">Watch Now (10m : 20s)</a>
+<h3><a href="https://twitter.com/tihm">Tim Harvey</a> - Microgems &amp; Eliminating Barriers</h3>
+
+<p><a href="http://podcast.404dev.com/episodes/058_Tim_Harvey-Microgems_and_Eliminating_Barriers.m4v">Video</a> (10m : 20s) /
 <a href="http://tjh.github.com/microgems/#1">Slides</a></p>
 
-<p><strong><a href="https://twitter.com/mileszs">Miles Sterrett</a></strong> - Dinosaurs, Lasers &amp; the Decorator Pattern
-<a href="http://podcast.404dev.com/episodes/059_Miles_Sterrett-Dinosaurs_Lasers_and_the_Decorator_Pattern.m4v">Watch Now (15m : 53s)</a>
+<h3><a href="https://twitter.com/mileszs">Miles Sterrett</a> - Dinosaurs, Lasers &amp; the Decorator Pattern</h3>
+
+<p><a href="http://podcast.404dev.com/episodes/059_Miles_Sterrett-Dinosaurs_Lasers_and_the_Decorator_Pattern.m4v">Video</a> (15m : 53s) /
 <a href="http://speakerdeck.com/u/mileszs/p/dinosaurs-lasers-and-the-decorator-pattern">Slides</a></p>
 ]]></content>
   </entry>
@@ -77,11 +78,13 @@
     <link href="http://indyrb.github.io/posts/2012/01/11/meetup-january-11/"/>
     <updated>2012-01-11T21:30:24-05:00</updated>
     <id>http://indyrb.github.io/posts/2012/01/11/meetup-january-11</id>
-    <content type="html"><![CDATA[<p><strong><a href="https://twitter.com/mileszs">Miles Sterrett</a></strong> - What Should We Read?
-<a href="http://podcast.404dev.com/episodes/054_Miles_Sterrett-What_Should_We_Read.m4v">Watch Now (1hr : 6m)</a></p>
+    <content type="html"><![CDATA[<h3><a href="https://twitter.com/mileszs">Miles Sterrett</a> - What Should We Read?</h3>
 
-<p><strong><a href="https://twitter.com/aldos">David Christiansen</a></strong> - HTML5 Uploader
-<a href="http://podcast.404dev.com/episodes/055_David_Christiansen-HTML5_uploader.m4v">Watch Now (12m : 35s)</a></p>
+<p><a href="http://podcast.404dev.com/episodes/054_Miles_Sterrett-What_Should_We_Read.m4v">Video</a> (1hr : 6m)</p>
+
+<h3><a href="https://twitter.com/aldos">David Christiansen</a> - HTML5 Uploader</h3>
+
+<p><a href="http://podcast.404dev.com/episodes/055_David_Christiansen-HTML5_uploader.m4v">Video</a> (12m : 35s)</p>
 ]]></content>
   </entry>
   
@@ -90,30 +93,25 @@
     <link href="http://indyrb.github.io/posts/2010/08/11/meetup-august-11/"/>
     <updated>2010-08-11T01:50:05-04:00</updated>
     <id>http://indyrb.github.io/posts/2010/08/11/meetup-august-11</id>
-    <content type="html"><![CDATA[<p><em>Full Meetup</em></p>
+    <content type="html"><![CDATA[<h3>Full Meetup</h3>
 
-<p><strong>2h : 03m</strong>
-<a href="http://podcast.404dev.com/episodes/001-Indy.rb_2010-08-11.m4v">Watch Now</a></p>
+<p><a href="http://podcast.404dev.com/episodes/001-Indy.rb_2010-08-11.m4v">Video</a> (2h : 03m)</p>
 
-<p><strong>Matt Gordon</strong> - <em>Ruby News</em></p>
+<h3><a href="https://twitter.com/esquivalient">Matt Gordon</a> - Ruby News</h3>
 
-<p><strong>11m : 09s</strong>
-<a href="http://podcast.404dev.com/episodes/002-Matt_Gordon-Ruby_News.m4v">Watch Now</a></p>
+<p><a href="http://podcast.404dev.com/episodes/002-Matt_Gordon-Ruby_News.m4v">Video</a> (11m : 09s)</p>
 
-<p><strong>Miles Sterrett</strong> - <em>Rails 3 Intro</em></p>
+<h3><a href="https://twitter.com/milezs">Miles Sterrett</a> - Rails 3 Intro</h3>
 
-<p><strong>1h : 03m</strong>
-<a href="http://podcast.404dev.com/episodes/003-Miles_Sterrett-Rails_3_Intro.m4v">Watch Now</a></p>
+<p><a href="http://podcast.404dev.com/episodes/003-Miles_Sterrett-Rails_3_Intro.m4v">Video</a> (1h : 03m)</p>
 
-<p><strong>Tim Harvey</strong> - <em>Git Intro</em></p>
+<h3><a href="https://twitter.com/tihm">Tim Harvey</a> - Git Intro</h3>
 
-<p><strong>32m : 00s</strong>
-<a href="http://podcast.404dev.com/episodes/004-Tim_Harvey-Git_Intro.m4v">Watch Now</a></p>
+<p><a href="http://podcast.404dev.com/episodes/004-Tim_Harvey-Git_Intro.m4v">Video</a> (32m)</p>
 
-<p><strong>Dave Christiansen</strong> - <em>Daibatsu Mobile</em></p>
+<h3><a href="https://twitter.com/aldos">Dave Christiansen</a> - Daibatsu Mobile</h3>
 
-<p><strong>5m : 09s</strong>
-<a href="http://podcast.404dev.com/episodes/005-Dave_Christiansen-Mobile.m4v">Watch Now</a></p>
+<p><a href="http://podcast.404dev.com/episodes/005-Dave_Christiansen-Mobile.m4v">Video</a> (5m : 09s)</p>
 ]]></content>
   </entry>
   

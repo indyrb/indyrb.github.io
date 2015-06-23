@@ -4,7 +4,7 @@
   <title><![CDATA[Category: The Handicapper Generals | IndyRB.org]]></title>
   <link href="http://indyrb.github.io/blog/categories/the-handicapper-generals/atom.xml" rel="self"/>
   <link href="http://indyrb.github.io/"/>
-  <updated>2015-06-23T16:48:20-04:00</updated>
+  <updated>2015-06-23T19:21:08-04:00</updated>
   <id>http://indyrb.github.io/</id>
   <author>
     <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
@@ -18,11 +18,11 @@
     <link href="http://indyrb.github.io/posts/2014/03/12/meetup-march-12/"/>
     <updated>2014-03-12T22:30:24-04:00</updated>
     <id>http://indyrb.github.io/posts/2014/03/12/meetup-march-12</id>
-    <content type="html"><![CDATA[<p><strong><a href="https://twitter.com/_swanson">Jim Weirich</a></strong> - S.O.L.I.D. Ruby (from RubyConf 2009)</p>
+    <content type="html"><![CDATA[<h3><a href="https://twitter.com/_swanson">Jim Weirich</a> - S.O.L.I.D. Ruby (from RubyConf 2009)</h3>
 
 <p><a href="http://www.confreaks.com/videos/185-rubyconf2009-solid-ruby">Watch Now</a></p>
 
-<p><strong><a href="http://twitter.com/hgmenindy">The Handicapper Generals</a></strong> - Has Anybody Seen My Code?</p>
+<h3><a href="http://twitter.com/hgmenindy">The Handicapper Generals</a> - Has Anybody Seen My Code?</h3>
 
 <p>Live performance by <a href="http://www.handicappergenerals.com/">http://www.handicappergenerals.com/</a> of <a href="http://www.confreaks.com/videos/412-mountainrb2010-has-anyone-seen-my-code">Jim Weirich&rsquo;s performance at Mountain.rb 2010</a></p>
 ]]></content>

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Anna Carey | IndyRB.org]]></title>
   <link href="http://indyrb.github.io/blog/categories/anna-carey/atom.xml" rel="self"/>
   <link href="http://indyrb.github.io/"/>
-  <updated>2015-06-23T16:48:20-04:00</updated>
+  <updated>2015-06-23T19:21:08-04:00</updated>
   <id>http://indyrb.github.io/</id>
   <author>
     <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
@@ -18,17 +18,17 @@
     <link href="http://indyrb.github.io/posts/2013/04/11/meetup-april-10/"/>
     <updated>2013-04-11T22:30:24-04:00</updated>
     <id>http://indyrb.github.io/posts/2013/04/11/meetup-april-10</id>
-    <content type="html"><![CDATA[<p><strong><a href="http://twitter.com/annamul">Anna Carey</a></strong> - RailsBridge Indy &amp; Signing Your Gems</p>
+    <content type="html"><![CDATA[<h3><a href="http://twitter.com/annamul">Anna Carey</a> - RailsBridge Indy &amp; Signing Your Gems</h3>
 
-<p><a href="http://railsbridgeindy.org">RailsBridge Indy</a>
+<p><a href="http://railsbridgeindy.org">RailsBridge Indy</a> /
 <a href="https://docs.google.com/presentation/d/1xJOsH25O4AGoYJ5cFDFz-mUKAy5yBQ9mgeU4KzTYiyI/edit#slide=id.p13">Signing Your Gems</a></p>
 
-<p><strong><a href="https://twitter.com/dandoezema">Daniel Dozema</a></strong> - Terminal &amp; Tmux organization</p>
+<h3><a href="https://twitter.com/dandoezema">Daniel Dozema</a> - Terminal &amp; Tmux organization</h3>
 
-<p><a href="http://dan.dozema.com/2013/04/programmatically-create-title-tabs-within-the-mac-os-x-terminal-app">Programmatically create title tabs within the Mac OSX Terminal.app</a>
+<p><a href="http://dan.dozema.com/2013/04/programmatically-create-title-tabs-within-the-mac-os-x-terminal-app">Programmatically create title tabs within the Mac OSX Terminal.app</a> /
 <a href="https://github.com/aziz/tmuxinator">Tmuxinator</a></p>
 
-<p><strong><a href="http://twitter.com/_swanson">Matt Swanson</a></strong> - I Made an Anti-Social RSS reader</p>
+<h3><a href="http://twitter.com/_swanson">Matt Swanson</a> - I Made an Anti-Social RSS reader</h3>
 
 <p><a href="https://github.com/swanson/stringer">Stringer</a></p>
 ]]></content>

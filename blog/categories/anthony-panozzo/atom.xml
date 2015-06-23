@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Anthony Panozzo | IndyRB.org]]></title>
   <link href="http://indyrb.github.io/blog/categories/anthony-panozzo/atom.xml" rel="self"/>
   <link href="http://indyrb.github.io/"/>
-  <updated>2015-06-23T16:48:20-04:00</updated>
+  <updated>2015-06-23T19:21:08-04:00</updated>
   <id>http://indyrb.github.io/</id>
   <author>
     <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
@@ -18,15 +18,18 @@
     <link href="http://indyrb.github.io/posts/2012/06/14/meetup-june-14/"/>
     <updated>2012-06-14T22:30:24-04:00</updated>
     <id>http://indyrb.github.io/posts/2012/06/14/meetup-june-14</id>
-    <content type="html"><![CDATA[<p><strong><a href="https://twitter.com/panozzaj">Anthony Panozzo</a></strong> - Testing File Operations in Ruby
-<a href="http://podcast.404dev.com/episodes/070_Anthony_Panozzo-Testing_File_Operations_in_Ruby.m4v">Watch Now (13m : 29s)</a></p>
+    <content type="html"><![CDATA[<h3><a href="https://twitter.com/panozzaj">Anthony Panozzo</a> - Testing File Operations in Ruby</h3>
 
-<p><strong><a href="https://twitter.com/panozzaj">Anthony Panozzo</a></strong> - RailsThemes
-<a href="http://podcast.404dev.com/episodes/071_Anthony_Panozzo-RailsThemes.m4v">Watch Now (8m : 46s)</a>
+<p><a href="http://podcast.404dev.com/episodes/070_Anthony_Panozzo-Testing_File_Operations_in_Ruby.m4v">Video</a> (13m : 29s)</p>
+
+<h3><a href="https://twitter.com/panozzaj">Anthony Panozzo</a> - RailsThemes</h3>
+
+<p><a href="http://podcast.404dev.com/episodes/071_Anthony_Panozzo-RailsThemes.m4v">Video</a> (8m : 46s) /
 <a href="http://railsthemes.com">RailsThemes.com</a></p>
 
-<p><strong><a href="https://twitter.com/davydotcom">David Estes</a></strong> - My Baby Reveal
-<a href="http://podcast.404dev.com/episodes/072_David_Estes-My_Baby_Reveal.m4v">Watch Now (7m : 41s)</a>
+<h3><a href="https://twitter.com/davydotcom">David Estes</a> - My Baby Reveal</h3>
+
+<p><a href="http://podcast.404dev.com/episodes/072_David_Estes-My_Baby_Reveal.m4v">Video</a> (7m : 41s) /
 <a href="http://mybabyreveal.com">MyBabyReveal.com</a></p>
 ]]></content>
   </entry>
@@ -36,16 +39,15 @@
     <link href="http://indyrb.github.io/posts/2010/12/08/meetup-december-2010/"/>
     <updated>2010-12-08T22:52:02-05:00</updated>
     <id>http://indyrb.github.io/posts/2010/12/08/meetup-december-2010</id>
-    <content type="html"><![CDATA[<p><em>016: Full Meetup December, 2010 (audio)</em></p>
+    <content type="html"><![CDATA[<h3>Full Meetup December, 2010</h3>
 
-<p><strong>1h : 21m</strong>
-<a href="http://podcast.404dev.com/episodes/016_indyrb_meeting_Dec_2010.mp3">Listen Now</a></p>
+<p><a href="http://podcast.404dev.com/episodes/016_indyrb_meeting_Dec_2010.mp3">Audio</a> (1h : 21m)</p>
 
 <ul>
-<li>Ruby News, Blobal and Local</li>
-<li>Anthony Panozzo - RVM</li>
-<li>Joel Meador - Design for Developers - <a href="https://github.com/janxious/indyrb-design">Slides</a> | <a href="https://github.com/janxious/indyrb-design">Code</a></li>
-<li>James Paden - Emailium Demo - <a href="http://emailum.com/">Emailum.com</a></li>
+<li>Ruby News, Global and Local</li>
+<li><a href="https://twitter.com/panozzaj">Anthony Panozzo</a> - RVM</li>
+<li><a href="https://twitter.com/joelmeador">Joel Meador</a> - Design for Developers - <a href="https://github.com/janxious/indyrb-design">Slides</a> / <a href="https://github.com/janxious/indyrb-design">Code</a></li>
+<li><a href="https://twitter.com/jamespaden">James Paden</a> - <a href="http://emailum.com/">Emailum.com</a> Demo</li>
 </ul>
 
 ]]></content>
@@ -56,25 +58,21 @@
     <link href="http://indyrb.github.io/posts/2010/09/08/meetup-september-2010/"/>
     <updated>2010-09-08T23:18:20-04:00</updated>
     <id>http://indyrb.github.io/posts/2010/09/08/meetup-september-2010</id>
-    <content type="html"><![CDATA[<p><strong>Anthony Panozzo</strong> - <em>006: Zsh vs Bash Deathmatch</em></p>
+    <content type="html"><![CDATA[<h3><a href="https://twitter.com/panozzaj">Anthony Panozzo</a> - Zsh vs Bash Deathmatch</h3>
 
-<p><strong>28m : 54s</strong>
-<a href="http://podcast.404dev.com/episodes/006-Anthony_Panozzo-Zsh_vs_Bash_Deathmatch.m4v">Watch Now</a></p>
+<p><a href="http://podcast.404dev.com/episodes/006-Anthony_Panozzo-Zsh_vs_Bash_Deathmatch.m4v">Video</a> (28m : 54s)</p>
 
-<p><strong>Dave Christiansen</strong> - <em>007: Career-saving Advice</em></p>
+<h3><a href="https://twitter.com/aldos">Dave Christiansen</a> - Career-saving Advice</h3>
 
-<p><strong>0m : 27s</strong>
-<a href="http://podcast.404dev.com/episodes/007-Dave_Christiansen-Career-saving_advice.m4v">Watch Now</a></p>
+<p><a href="http://podcast.404dev.com/episodes/007-Dave_Christiansen-Career-saving_advice.m4v">Video</a> (27s)</p>
 
-<p><strong>Dave Christiansen</strong> - <em>008: Creating a Rails Plugin</em></p>
+<h3><a href="https://twitter.com/aldos">Dave Christiansen</a> - Creating a Rails Plugin</h3>
 
-<p><strong>13m : 35s</strong>
-<a href="http://podcast.404dev.com/episodes/008-Dave_Christiansen-Creating_a_plugin.m4v">Watch Now</a></p>
+<p><a href="http://podcast.404dev.com/episodes/008-Dave_Christiansen-Creating_a_plugin.m4v">Video</a> (13m : 35s)</p>
 
-<p><strong>Matt Gordon</strong> - <em>009: Ruby News local &amp; Global</em></p>
+<h3><a href="https://twitter.com/esquivalient">Matt Gordon</a> - Ruby News local &amp; Global</h3>
 
-<p><strong>17m : 56s</strong>
-<a href="http://podcast.404dev.com/episodes/009-Matt_Gordon-Ruby_News.m4v">Watch Now</a></p>
+<p><a href="http://podcast.404dev.com/episodes/009-Matt_Gordon-Ruby_News.m4v">Video</a> (17m : 56s)</p>
 ]]></content>
   </entry>
   
