@@ -6,13 +6,10 @@ comments: true
 categories: [Garrett Hart, John Nunemaker]
 ---
 
-**Garrett Hart** - *CouchDB*
+###[Garrett Hart](https://twitter.com/thirdshift) - CouchDB
+[Video](http://podcast.404dev.com/episodes/010_Garrett_Hart-CouchDB.mp4) (22m : 49s)
 
-**22m : 49s**
-[Watch Now](http://podcast.404dev.com/episodes/010_Garrett_Hart-CouchDB.mp4)
 
-**John Nunemaker** - *MongoMapper (audio only)*
-
-**1m : 01m**
-[Listen Now](http://podcast.404dev.com/episodes/011_John_Nunemaker-MongoMapper.mp3) |
+###[John Nunemaker](https://twitter.com/jnunemaker) - MongoMapper
+[Audio](http://podcast.404dev.com/episodes/011_John_Nunemaker-MongoMapper.mp3) (1h : 1m) /
 [Slides](http://railstips.org/blog/archives/2009/08/19/mongomapper-indy-rb-presentation/)

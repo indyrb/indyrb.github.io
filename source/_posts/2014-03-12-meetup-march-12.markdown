@@ -6,10 +6,9 @@ comments: true
 categories: [Jim Weirich, The Handicapper Generals]
 ---
 
-**[Jim Weirich](https://twitter.com/_swanson)** - S.O.L.I.D. Ruby (from RubyConf 2009)
-
+###[Jim Weirich](https://twitter.com/_swanson) - S.O.L.I.D. Ruby (from RubyConf 2009)
 [Watch Now](http://www.confreaks.com/videos/185-rubyconf2009-solid-ruby)
 
-**[The Handicapper Generals](http://twitter.com/hgmenindy)** - Has Anybody Seen My Code?
 
+###[The Handicapper Generals](http://twitter.com/hgmenindy) - Has Anybody Seen My Code?
 Live performance by [http://www.handicappergenerals.com/](http://www.handicappergenerals.com/) of [Jim Weirich's performance at Mountain.rb 2010](http://www.confreaks.com/videos/412-mountainrb2010-has-anyone-seen-my-code)

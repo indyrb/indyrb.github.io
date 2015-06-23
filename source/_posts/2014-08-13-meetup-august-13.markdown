@@ -6,18 +6,14 @@ comments: true
 categories: [Eric Oestrich, Andrew L Robinson III, Joel Meador]
 ---
 
-**[Eric Oestrich](http://twitter.com/ericoestritch)** - *Amazon SQS*
-
-**5m : 27s**
-[Watch Now](http://podcast.404dev.com/episodes/075_Eric_Oestrich_-_Amazon_SQS.mp4) /
+###[Eric Oestrich](http://twitter.com/ericoestritch) - Amazon SQS
+[Video](http://podcast.404dev.com/episodes/075_Eric_Oestrich_-_Amazon_SQS.mp4) (5m : 27s) /
 [Links and notes](http://oestrich.org/presentations/amazon-sqs.pdf)
 
-**[Andrew L Robinson III](http://twitter.com/ar3_me)** - *Code Kata*
 
-**40m : 04s**
-[Watch Now](http://podcast.404dev.com/episodes/076_Andrew_Robinson_III_-_Code_Kata.mp4)
+###[Andrew L Robinson III](http://twitter.com/ar3_me) - Code Kata
+[Video](http://podcast.404dev.com/episodes/076_Andrew_Robinson_III_-_Code_Kata.mp4) (40m : 04s)
 
-**[Joel Meador](http://twitter.com/ar3_me)** - *Anatomy of a Code Review*
 
-**39m : 16s**
-[Watch Now](http://podcast.404dev.com/episodes/077_Joel_Meador_-_Anatomy_of_a_Code_Review.mp4)
+###[Joel Meador](http://twitter.com/ar3_me) - Anatomy of a Code Review
+[Video](http://podcast.404dev.com/episodes/077_Joel_Meador_-_Anatomy_of_a_Code_Review.mp4) (39m : 16s)

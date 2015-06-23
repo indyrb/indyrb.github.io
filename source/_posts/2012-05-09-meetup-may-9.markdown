@@ -6,19 +6,19 @@ comments: true
 categories: [Joel Meador, Alex Conner, Chris Achard, Christopher Sansone]
 ---
 
-**[Joel Meador](https://twitter.com/joelmeador)** - Ruby News Global & Local
-[Watch Now (10m : 54s)](http://podcast.404dev.com/episodes/066_Joel_Meador-Ruby_News.m4v)
+###[Joel Meador](https://twitter.com/joelmeador) - Ruby News Global & Local
+[Video](http://podcast.404dev.com/episodes/066_Joel_Meador-Ruby_News.m4v) (10m : 54s)
 
 
-**[Alex Conner](https://twitter.com/codatory)** - Why does Rails not run callbacks on nested_attributes?
-[Watch Now (4m : 1s)](http://podcast.404dev.com/episodes/067_Alex_Conner-Why_Does_Rails_Not_Run_Callbacks_on_Nested_Attributes.m4v)
+###[Alex Conner](https://twitter.com/codatory) - Why does Rails not run callbacks on nested_attributes?
+[Video](http://podcast.404dev.com/episodes/067_Alex_Conner-Why_Does_Rails_Not_Run_Callbacks_on_Nested_Attributes.m4v) (4m : 1s)
 
 
-**[Chris Achard](https://twitter.com/MobileSort)** - RubyMotion
-[Watch Now (17m : 37s)](http://podcast.404dev.com/episodes/068_Chris_Achard-RubyMotion.m4v)
+###[Chris Achard](https://twitter.com/MobileSort) - RubyMotion
+[Video](http://podcast.404dev.com/episodes/068_Chris_Achard-RubyMotion.m4v) (17m : 37s) /
 [RubyMotion](https://rubymotion.com)
 
 
-**[Christopher Sansone](https://github.com/christophersansone)** - Rails + Ember.JS in 7 Minutes
-[Watch Now (25m : 35s)](http://podcast.404dev.com/episodes/069_Christopher_Sansone-Rails_and_EmberJS_in_7_Minutes.m4v)
+###[Christopher Sansone](https://github.com/christophersansone) - Rails + Ember.JS in 7 Minutes
+[Video](http://podcast.404dev.com/episodes/069_Christopher_Sansone-Rails_and_EmberJS_in_7_Minutes.m4v) (25m : 35s) /
 [Ember.JS](https://emberjs.com)

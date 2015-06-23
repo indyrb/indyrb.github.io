@@ -6,12 +6,10 @@ comments: true
 categories: [Anthony Panozzo, Joel Meador, James Paden]
 ---
 
-*016: Full Meetup December, 2010 (audio)*
+###Full Meetup December, 2010
+[Audio](http://podcast.404dev.com/episodes/016_indyrb_meeting_Dec_2010.mp3) (1h : 21m)
 
-**1h : 21m**
-[Listen Now](http://podcast.404dev.com/episodes/016_indyrb_meeting_Dec_2010.mp3)
-
-* Ruby News, Blobal and Local
-* Anthony Panozzo - RVM
-* Joel Meador - Design for Developers - [Slides](https://github.com/janxious/indyrb-design) | [Code](https://github.com/janxious/indyrb-design)
-* James Paden - Emailium Demo - [Emailum.com](http://emailum.com/)
+* Ruby News, Global and Local
+* [Anthony Panozzo](https://twitter.com/panozzaj) - RVM
+* [Joel Meador](https://twitter.com/joelmeador) - Design for Developers - [Slides](https://github.com/janxious/indyrb-design) / [Code](https://github.com/janxious/indyrb-design)
+* [James Paden](https://twitter.com/jamespaden) - [Emailum.com](http://emailum.com/) Demo

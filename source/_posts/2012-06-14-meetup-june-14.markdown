@@ -6,15 +6,15 @@ comments: true
 categories: [Anthony Panozzo, David Estes]
 ---
 
-**[Anthony Panozzo](https://twitter.com/panozzaj)** - Testing File Operations in Ruby
-[Watch Now (13m : 29s)](http://podcast.404dev.com/episodes/070_Anthony_Panozzo-Testing_File_Operations_in_Ruby.m4v)
+###[Anthony Panozzo](https://twitter.com/panozzaj) - Testing File Operations in Ruby
+[Video](http://podcast.404dev.com/episodes/070_Anthony_Panozzo-Testing_File_Operations_in_Ruby.m4v) (13m : 29s)
 
 
-**[Anthony Panozzo](https://twitter.com/panozzaj)** - RailsThemes
-[Watch Now (8m : 46s)](http://podcast.404dev.com/episodes/071_Anthony_Panozzo-RailsThemes.m4v)
+###[Anthony Panozzo](https://twitter.com/panozzaj) - RailsThemes
+[Video](http://podcast.404dev.com/episodes/071_Anthony_Panozzo-RailsThemes.m4v) (8m : 46s) /
 [RailsThemes.com](http://railsthemes.com)
 
 
-**[David Estes](https://twitter.com/davydotcom)** - My Baby Reveal
-[Watch Now (7m : 41s)](http://podcast.404dev.com/episodes/072_David_Estes-My_Baby_Reveal.m4v)
+###[David Estes](https://twitter.com/davydotcom) - My Baby Reveal
+[Video](http://podcast.404dev.com/episodes/072_David_Estes-My_Baby_Reveal.m4v) (7m : 41s) /
 [MyBabyReveal.com](http://mybabyreveal.com)

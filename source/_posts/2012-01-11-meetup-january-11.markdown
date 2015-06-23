@@ -7,9 +7,9 @@ categories: [Miles Sterrett, David Christiansen]
 ---
 
 
-**[Miles Sterrett](https://twitter.com/mileszs)** - What Should We Read?
-[Watch Now (1hr : 6m)](http://podcast.404dev.com/episodes/054_Miles_Sterrett-What_Should_We_Read.m4v)
+###[Miles Sterrett](https://twitter.com/mileszs) - What Should We Read?
+[Video](http://podcast.404dev.com/episodes/054_Miles_Sterrett-What_Should_We_Read.m4v) (1hr : 6m)
 
 
-**[David Christiansen](https://twitter.com/aldos)** - HTML5 Uploader
-[Watch Now (12m : 35s)](http://podcast.404dev.com/episodes/055_David_Christiansen-HTML5_uploader.m4v)
+###[David Christiansen](https://twitter.com/aldos) - HTML5 Uploader
+[Video](http://podcast.404dev.com/episodes/055_David_Christiansen-HTML5_uploader.m4v) (12m : 35s)
