@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Tim Harvey | IndyRB.org]]></title>
   <link href="http://indyrb.github.io/blog/categories/tim-harvey/atom.xml" rel="self"/>
   <link href="http://indyrb.github.io/"/>
-  <updated>2015-06-23T15:07:02-04:00</updated>
+  <updated>2015-06-23T16:48:20-04:00</updated>
   <id>http://indyrb.github.io/</id>
   <author>
     <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
@@ -12,6 +12,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup February 8, 2012]]></title>
+    <link href="http://indyrb.github.io/posts/2012/02/08/meetup-february-8/"/>
+    <updated>2012-02-08T21:30:24-05:00</updated>
+    <id>http://indyrb.github.io/posts/2012/02/08/meetup-february-8</id>
+    <content type="html"><![CDATA[<p><strong><a href="https://twitter.com/esquivalient">Matt Gordon</a></strong> - Ruby News &amp; Bug or Feature?
+<a href="http://podcast.404dev.com/episodes/056_Matt_Gordon-Ruby_News_and_Bug_or_Feature.m4v">Watch Now (27m : 55s)</a></p>
+
+<p><strong><a href="https://twitter.com/codatory">Alex Conner</a></strong> - Beanstalk
+<a href="http://podcast.404dev.com/episodes/057_Alex_Connor-Beanstalk.m4v">Watch Now (12m : 25s)</a>
+<a href="https://github.com/codatory/nearme">Code</a></p>
+
+<p><strong><a href="https://twitter.com/tihm">Tim Harvey</a></strong> - Microgems &amp; Eliminating Barriers
+<a href="http://podcast.404dev.com/episodes/058_Tim_Harvey-Microgems_and_Eliminating_Barriers.m4v">Watch Now (10m : 20s)</a>
+<a href="http://tjh.github.com/microgems/#1">Slides</a></p>
+
+<p><strong><a href="https://twitter.com/mileszs">Miles Sterrett</a></strong> - Dinosaurs, Lasers &amp; the Decorator Pattern
+<a href="http://podcast.404dev.com/episodes/059_Miles_Sterrett-Dinosaurs_Lasers_and_the_Decorator_Pattern.m4v">Watch Now (15m : 53s)</a>
+<a href="http://speakerdeck.com/u/mileszs/p/dinosaurs-lasers-and-the-decorator-pattern">Slides</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Meetup August 2010]]></title>

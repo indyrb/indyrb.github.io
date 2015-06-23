@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Miles Sterrett | IndyRB.org]]></title>
   <link href="http://indyrb.github.io/blog/categories/miles-sterrett/atom.xml" rel="self"/>
   <link href="http://indyrb.github.io/"/>
-  <updated>2015-06-23T15:07:02-04:00</updated>
+  <updated>2015-06-23T16:48:20-04:00</updated>
   <id>http://indyrb.github.io/</id>
   <author>
     <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Presentations for Indy.rb Meetup October 8]]></title>
-    <link href="http://indyrb.github.io/posts/2014/10/08/presentations-for-indy-dot-rb-meetup-october-8/"/>
+    <link href="http://indyrb.github.io/posts/2014/10/08/meetup-october-8/"/>
     <updated>2014-10-08T22:03:47-04:00</updated>
-    <id>http://indyrb.github.io/posts/2014/10/08/presentations-for-indy-dot-rb-meetup-october-8</id>
+    <id>http://indyrb.github.io/posts/2014/10/08/meetup-october-8</id>
     <content type="html"><![CDATA[<p>Presentations for Indy.rb Meetup October 8, 2014</p>
 
 <p><a href="http://twitter.com/kyleashipley">Kyle Shipley</a> - McBain: Let&rsquo;s Get Enumerable</p>
@@ -47,6 +47,41 @@
 <a href="http://podcast.404dev.com/episodes/074_Chris_Stephan-Developing_With_Docker.mp4">Watch Now</a> /
 <a href="https://speakerdeck.com/endoze/developing-with-docker">Slides</a> /
 <a href="https://github.com/endoze/docker_playground">Code</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup February 8, 2012]]></title>
+    <link href="http://indyrb.github.io/posts/2012/02/08/meetup-february-8/"/>
+    <updated>2012-02-08T21:30:24-05:00</updated>
+    <id>http://indyrb.github.io/posts/2012/02/08/meetup-february-8</id>
+    <content type="html"><![CDATA[<p><strong><a href="https://twitter.com/esquivalient">Matt Gordon</a></strong> - Ruby News &amp; Bug or Feature?
+<a href="http://podcast.404dev.com/episodes/056_Matt_Gordon-Ruby_News_and_Bug_or_Feature.m4v">Watch Now (27m : 55s)</a></p>
+
+<p><strong><a href="https://twitter.com/codatory">Alex Conner</a></strong> - Beanstalk
+<a href="http://podcast.404dev.com/episodes/057_Alex_Connor-Beanstalk.m4v">Watch Now (12m : 25s)</a>
+<a href="https://github.com/codatory/nearme">Code</a></p>
+
+<p><strong><a href="https://twitter.com/tihm">Tim Harvey</a></strong> - Microgems &amp; Eliminating Barriers
+<a href="http://podcast.404dev.com/episodes/058_Tim_Harvey-Microgems_and_Eliminating_Barriers.m4v">Watch Now (10m : 20s)</a>
+<a href="http://tjh.github.com/microgems/#1">Slides</a></p>
+
+<p><strong><a href="https://twitter.com/mileszs">Miles Sterrett</a></strong> - Dinosaurs, Lasers &amp; the Decorator Pattern
+<a href="http://podcast.404dev.com/episodes/059_Miles_Sterrett-Dinosaurs_Lasers_and_the_Decorator_Pattern.m4v">Watch Now (15m : 53s)</a>
+<a href="http://speakerdeck.com/u/mileszs/p/dinosaurs-lasers-and-the-decorator-pattern">Slides</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup January 11, 2012]]></title>
+    <link href="http://indyrb.github.io/posts/2012/01/11/meetup-january-11/"/>
+    <updated>2012-01-11T21:30:24-05:00</updated>
+    <id>http://indyrb.github.io/posts/2012/01/11/meetup-january-11</id>
+    <content type="html"><![CDATA[<p><strong><a href="https://twitter.com/mileszs">Miles Sterrett</a></strong> - What Should We Read?
+<a href="http://podcast.404dev.com/episodes/054_Miles_Sterrett-What_Should_We_Read.m4v">Watch Now (1hr : 6m)</a></p>
+
+<p><strong><a href="https://twitter.com/aldos">David Christiansen</a></strong> - HTML5 Uploader
+<a href="http://podcast.404dev.com/episodes/055_David_Christiansen-HTML5_uploader.m4v">Watch Now (12m : 35s)</a></p>
 ]]></content>
   </entry>
   

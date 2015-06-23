@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Joel Meador | IndyRB.org]]></title>
   <link href="http://indyrb.github.io/blog/categories/joel-meador/atom.xml" rel="self"/>
   <link href="http://indyrb.github.io/"/>
-  <updated>2015-06-23T15:07:02-04:00</updated>
+  <updated>2015-06-23T16:48:20-04:00</updated>
   <id>http://indyrb.github.io/</id>
   <author>
     <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
@@ -85,6 +85,27 @@
 <p><strong><a href="http://twitter.com/_swanson">Matt Swanson</a></strong> - Team-Based Git Workflow (that doesn&rsquo;t suck!)</p>
 
 <p><a href="http://mdswanson.com/talk/2012/03/15/lightning-talk-team-based-git-workflow-that-doesnt-suck.html">Slides</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup May 9, 2012]]></title>
+    <link href="http://indyrb.github.io/posts/2012/04/11/meetup-may-9/"/>
+    <updated>2012-04-11T22:30:24-04:00</updated>
+    <id>http://indyrb.github.io/posts/2012/04/11/meetup-may-9</id>
+    <content type="html"><![CDATA[<p><strong><a href="https://twitter.com/joelmeador">Joel Meador</a></strong> - Ruby News Global &amp; Local
+<a href="http://podcast.404dev.com/episodes/066_Joel_Meador-Ruby_News.m4v">Watch Now (10m : 54s)</a></p>
+
+<p><strong><a href="https://twitter.com/codatory">Alex Conner</a></strong> - Why does Rails not run callbacks on nested_attributes?
+<a href="http://podcast.404dev.com/episodes/067_Alex_Conner-Why_Does_Rails_Not_Run_Callbacks_on_Nested_Attributes.m4v">Watch Now (4m : 1s)</a></p>
+
+<p><strong><a href="https://twitter.com/MobileSort">Chris Achard</a></strong> - RubyMotion
+<a href="http://podcast.404dev.com/episodes/068_Chris_Achard-RubyMotion.m4v">Watch Now (17m : 37s)</a>
+<a href="https://rubymotion.com">RubyMotion</a></p>
+
+<p><strong><a href="https://github.com/christophersansone">Christopher Sansone</a></strong> - Rails + Ember.JS in 7 Minutes
+<a href="http://podcast.404dev.com/episodes/069_Christopher_Sansone-Rails_and_EmberJS_in_7_Minutes.m4v">Watch Now (25m : 35s)</a>
+<a href="https://emberjs.com">Ember.JS</a></p>
 ]]></content>
   </entry>
   

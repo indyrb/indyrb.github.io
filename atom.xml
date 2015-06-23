@@ -4,7 +4,7 @@
   <title><![CDATA[IndyRB.org]]></title>
   <link href="http://indyrb.github.io/atom.xml" rel="self"/>
   <link href="http://indyrb.github.io/"/>
-  <updated>2015-06-23T15:07:02-04:00</updated>
+  <updated>2015-06-23T16:48:20-04:00</updated>
   <id>http://indyrb.github.io/</id>
   <author>
     <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
@@ -33,9 +33,9 @@
   
   <entry>
     <title type="html"><![CDATA[Presentations for Indy.rb Meetup October 8]]></title>
-    <link href="http://indyrb.github.io/posts/2014/10/08/presentations-for-indy-dot-rb-meetup-october-8/"/>
+    <link href="http://indyrb.github.io/posts/2014/10/08/meetup-october-8/"/>
     <updated>2014-10-08T22:03:47-04:00</updated>
-    <id>http://indyrb.github.io/posts/2014/10/08/presentations-for-indy-dot-rb-meetup-october-8</id>
+    <id>http://indyrb.github.io/posts/2014/10/08/meetup-october-8</id>
     <content type="html"><![CDATA[<p>Presentations for Indy.rb Meetup October 8, 2014</p>
 
 <p><a href="http://twitter.com/kyleashipley">Kyle Shipley</a> - McBain: Let&rsquo;s Get Enumerable</p>
@@ -166,7 +166,7 @@
     <id>http://indyrb.github.io/posts/2014/03/12/meetup-march-12</id>
     <content type="html"><![CDATA[<p><strong><a href="https://twitter.com/_swanson">Jim Weirich</a></strong> - S.O.L.I.D. Ruby (from RubyConf 2009)</p>
 
-<p><a href="">Watch Now</a></p>
+<p><a href="http://www.confreaks.com/videos/185-rubyconf2009-solid-ruby">Watch Now</a></p>
 
 <p><strong><a href="http://twitter.com/hgmenindy">The Handicapper Generals</a></strong> - Has Anybody Seen My Code?</p>
 
@@ -209,6 +209,140 @@
 <p><strong><a href="http://twitter.com/_swanson">Matt Swanson</a></strong> - Team-Based Git Workflow (that doesn&rsquo;t suck!)</p>
 
 <p><a href="http://mdswanson.com/talk/2012/03/15/lightning-talk-team-based-git-workflow-that-doesnt-suck.html">Slides</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup April 10, 2013]]></title>
+    <link href="http://indyrb.github.io/posts/2013/04/11/meetup-april-10/"/>
+    <updated>2013-04-11T22:30:24-04:00</updated>
+    <id>http://indyrb.github.io/posts/2013/04/11/meetup-april-10</id>
+    <content type="html"><![CDATA[<p><strong><a href="http://twitter.com/annamul">Anna Carey</a></strong> - RailsBridge Indy &amp; Signing Your Gems</p>
+
+<p><a href="http://railsbridgeindy.org">RailsBridge Indy</a>
+<a href="https://docs.google.com/presentation/d/1xJOsH25O4AGoYJ5cFDFz-mUKAy5yBQ9mgeU4KzTYiyI/edit#slide=id.p13">Signing Your Gems</a></p>
+
+<p><strong><a href="https://twitter.com/dandoezema">Daniel Dozema</a></strong> - Terminal &amp; Tmux organization</p>
+
+<p><a href="http://dan.dozema.com/2013/04/programmatically-create-title-tabs-within-the-mac-os-x-terminal-app">Programmatically create title tabs within the Mac OSX Terminal.app</a>
+<a href="https://github.com/aziz/tmuxinator">Tmuxinator</a></p>
+
+<p><strong><a href="http://twitter.com/_swanson">Matt Swanson</a></strong> - I Made an Anti-Social RSS reader</p>
+
+<p><a href="https://github.com/swanson/stringer">Stringer</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup June 14, 2012]]></title>
+    <link href="http://indyrb.github.io/posts/2012/06/14/meetup-june-14/"/>
+    <updated>2012-06-14T22:30:24-04:00</updated>
+    <id>http://indyrb.github.io/posts/2012/06/14/meetup-june-14</id>
+    <content type="html"><![CDATA[<p><strong><a href="https://twitter.com/panozzaj">Anthony Panozzo</a></strong> - Testing File Operations in Ruby
+<a href="http://podcast.404dev.com/episodes/070_Anthony_Panozzo-Testing_File_Operations_in_Ruby.m4v">Watch Now (13m : 29s)</a></p>
+
+<p><strong><a href="https://twitter.com/panozzaj">Anthony Panozzo</a></strong> - RailsThemes
+<a href="http://podcast.404dev.com/episodes/071_Anthony_Panozzo-RailsThemes.m4v">Watch Now (8m : 46s)</a>
+<a href="http://railsthemes.com">RailsThemes.com</a></p>
+
+<p><strong><a href="https://twitter.com/davydotcom">David Estes</a></strong> - My Baby Reveal
+<a href="http://podcast.404dev.com/episodes/072_David_Estes-My_Baby_Reveal.m4v">Watch Now (7m : 41s)</a>
+<a href="http://mybabyreveal.com">MyBabyReveal.com</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup May 9, 2012]]></title>
+    <link href="http://indyrb.github.io/posts/2012/04/11/meetup-may-9/"/>
+    <updated>2012-04-11T22:30:24-04:00</updated>
+    <id>http://indyrb.github.io/posts/2012/04/11/meetup-may-9</id>
+    <content type="html"><![CDATA[<p><strong><a href="https://twitter.com/joelmeador">Joel Meador</a></strong> - Ruby News Global &amp; Local
+<a href="http://podcast.404dev.com/episodes/066_Joel_Meador-Ruby_News.m4v">Watch Now (10m : 54s)</a></p>
+
+<p><strong><a href="https://twitter.com/codatory">Alex Conner</a></strong> - Why does Rails not run callbacks on nested_attributes?
+<a href="http://podcast.404dev.com/episodes/067_Alex_Conner-Why_Does_Rails_Not_Run_Callbacks_on_Nested_Attributes.m4v">Watch Now (4m : 1s)</a></p>
+
+<p><strong><a href="https://twitter.com/MobileSort">Chris Achard</a></strong> - RubyMotion
+<a href="http://podcast.404dev.com/episodes/068_Chris_Achard-RubyMotion.m4v">Watch Now (17m : 37s)</a>
+<a href="https://rubymotion.com">RubyMotion</a></p>
+
+<p><strong><a href="https://github.com/christophersansone">Christopher Sansone</a></strong> - Rails + Ember.JS in 7 Minutes
+<a href="http://podcast.404dev.com/episodes/069_Christopher_Sansone-Rails_and_EmberJS_in_7_Minutes.m4v">Watch Now (25m : 35s)</a>
+<a href="https://emberjs.com">Ember.JS</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup April 11, 2012]]></title>
+    <link href="http://indyrb.github.io/posts/2012/04/11/meetup-april-11/"/>
+    <updated>2012-04-11T22:30:24-04:00</updated>
+    <id>http://indyrb.github.io/posts/2012/04/11/meetup-april-11</id>
+    <content type="html"><![CDATA[<p><strong><a href="https://twitter.com/joelmeador">Matt Swanson</a></strong> - Ruby News Global &amp; Local
+<a href="http://podcast.404dev.com/episodes/063_Matt_Swanson-Anatomy_of_a_Weekend_Project.m4v">Watch Now (9m : 31s)</a>
+<a href="https://github.com/swanson">Code</a></p>
+
+<p><strong><a href="http://github.com/gowabash">Matt Brown</a></strong> - 5 Brains, 2 solutions: An Experiment in Problem Solving
+<a href="http://podcast.404dev.com/episodes/064_Matt_Brown-5_Brains_2_Solutions.m4v">Watch Now (31m : 36s)</a>
+<a href="https://code.google.com/codejam">Google Code Jam</a>
+<a href="https://github.com/gowabash/prog_challenge">Code</a></p>
+
+<p><strong><a href="https://twitter.com/learnpuppet">Garrett Honeycutt</a></strong> - Expanded Introduction to Puppet
+<a href="http://podcast.404dev.com/episodes/065_Garrett_Honeycutt-Introduction_to_Puppet.m4v">Watch Now (36m : 27s)</a>
+<a href="https://puppetlabs.com">Puppet Labs</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup March 14, 2012]]></title>
+    <link href="http://indyrb.github.io/posts/2012/03/14/meetup-march-14/"/>
+    <updated>2012-03-14T22:30:24-04:00</updated>
+    <id>http://indyrb.github.io/posts/2012/03/14/meetup-march-14</id>
+    <content type="html"><![CDATA[<p><strong><a href="https://twitter.com/futuremint">David Woodward</a></strong> - attr_accessible: Don&rsquo;t get caught with your pants down
+<a href="http://podcast.404dev.com/episodes/060_Dave_Woodward-attr_accessible.m4v">Watch Now (15m : 21s)</a></p>
+
+<p><strong><a href="https://twitter.com/davydotcom">David Estes</a></strong> - Spud CMS
+<a href="http://podcast.404dev.com/episodes/061_David_Estes-Spud_CMS.m4v">Watch Now (15m : 02s)</a>
+<a href="https://github.com/davydotcom/spud_cms">Code</a>
+<a href="https://github.com/davydotcom/spud_demo">Demo</a></p>
+
+<p><strong><a href="https://twitter.com/mediocretes">Nate Acuff</a></strong> - Stages
+<a href="http://podcast.404dev.com/episodes/062_Nate_Acuff-Stages_Gem.m4v">Watch Now (37m : 45s)</a>
+<a href="https://github.com/iGoDigital-LLC/stages">Stages Gem</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup February 8, 2012]]></title>
+    <link href="http://indyrb.github.io/posts/2012/02/08/meetup-february-8/"/>
+    <updated>2012-02-08T21:30:24-05:00</updated>
+    <id>http://indyrb.github.io/posts/2012/02/08/meetup-february-8</id>
+    <content type="html"><![CDATA[<p><strong><a href="https://twitter.com/esquivalient">Matt Gordon</a></strong> - Ruby News &amp; Bug or Feature?
+<a href="http://podcast.404dev.com/episodes/056_Matt_Gordon-Ruby_News_and_Bug_or_Feature.m4v">Watch Now (27m : 55s)</a></p>
+
+<p><strong><a href="https://twitter.com/codatory">Alex Conner</a></strong> - Beanstalk
+<a href="http://podcast.404dev.com/episodes/057_Alex_Connor-Beanstalk.m4v">Watch Now (12m : 25s)</a>
+<a href="https://github.com/codatory/nearme">Code</a></p>
+
+<p><strong><a href="https://twitter.com/tihm">Tim Harvey</a></strong> - Microgems &amp; Eliminating Barriers
+<a href="http://podcast.404dev.com/episodes/058_Tim_Harvey-Microgems_and_Eliminating_Barriers.m4v">Watch Now (10m : 20s)</a>
+<a href="http://tjh.github.com/microgems/#1">Slides</a></p>
+
+<p><strong><a href="https://twitter.com/mileszs">Miles Sterrett</a></strong> - Dinosaurs, Lasers &amp; the Decorator Pattern
+<a href="http://podcast.404dev.com/episodes/059_Miles_Sterrett-Dinosaurs_Lasers_and_the_Decorator_Pattern.m4v">Watch Now (15m : 53s)</a>
+<a href="http://speakerdeck.com/u/mileszs/p/dinosaurs-lasers-and-the-decorator-pattern">Slides</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup January 11, 2012]]></title>
+    <link href="http://indyrb.github.io/posts/2012/01/11/meetup-january-11/"/>
+    <updated>2012-01-11T21:30:24-05:00</updated>
+    <id>http://indyrb.github.io/posts/2012/01/11/meetup-january-11</id>
+    <content type="html"><![CDATA[<p><strong><a href="https://twitter.com/mileszs">Miles Sterrett</a></strong> - What Should We Read?
+<a href="http://podcast.404dev.com/episodes/054_Miles_Sterrett-What_Should_We_Read.m4v">Watch Now (1hr : 6m)</a></p>
+
+<p><strong><a href="https://twitter.com/aldos">David Christiansen</a></strong> - HTML5 Uploader
+<a href="http://podcast.404dev.com/episodes/055_David_Christiansen-HTML5_uploader.m4v">Watch Now (12m : 35s)</a></p>
 ]]></content>
   </entry>
   
@@ -278,56 +412,6 @@
 
 <p><strong>17m : 56s</strong>
 <a href="http://podcast.404dev.com/episodes/009-Matt_Gordon-Ruby_News.m4v">Watch Now</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Meetup August 2010]]></title>
-    <link href="http://indyrb.github.io/posts/2010/08/11/meetup-august-11/"/>
-    <updated>2010-08-11T01:50:05-04:00</updated>
-    <id>http://indyrb.github.io/posts/2010/08/11/meetup-august-11</id>
-    <content type="html"><![CDATA[<p><em>Full Meetup</em></p>
-
-<p><strong>2h : 03m</strong>
-<a href="http://podcast.404dev.com/episodes/001-Indy.rb_2010-08-11.m4v">Watch Now</a></p>
-
-<p><strong>Matt Gordon</strong> - <em>Ruby News</em></p>
-
-<p><strong>11m : 09s</strong>
-<a href="http://podcast.404dev.com/episodes/002-Matt_Gordon-Ruby_News.m4v">Watch Now</a></p>
-
-<p><strong>Miles Sterrett</strong> - <em>Rails 3 Intro</em></p>
-
-<p><strong>1h : 03m</strong>
-<a href="http://podcast.404dev.com/episodes/003-Miles_Sterrett-Rails_3_Intro.m4v">Watch Now</a></p>
-
-<p><strong>Tim Harvey</strong> - <em>Git Intro</em></p>
-
-<p><strong>32m : 00s</strong>
-<a href="http://podcast.404dev.com/episodes/004-Tim_Harvey-Git_Intro.m4v">Watch Now</a></p>
-
-<p><strong>Dave Christiansen</strong> - <em>Daibatsu Mobile</em></p>
-
-<p><strong>5m : 09s</strong>
-<a href="http://podcast.404dev.com/episodes/005-Dave_Christiansen-Mobile.m4v">Watch Now</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Meetup August 2009]]></title>
-    <link href="http://indyrb.github.io/posts/2009/08/12/meetup-august-12/"/>
-    <updated>2009-08-12T01:30:24-04:00</updated>
-    <id>http://indyrb.github.io/posts/2009/08/12/meetup-august-12</id>
-    <content type="html"><![CDATA[<p><strong>Garrett Hart</strong> - <em>CouchDB</em></p>
-
-<p><strong>22m : 49s</strong>
-<a href="http://podcast.404dev.com/episodes/010_Garrett_Hart-CouchDB.mp4">Watch Now</a></p>
-
-<p><strong>John Nunemaker</strong> - <em>MongoMapper (audio only)</em></p>
-
-<p><strong>1m : 01m</strong>
-<a href="http://podcast.404dev.com/episodes/011_John_Nunemaker-MongoMapper.mp3">Listen Now</a> |
-<a href="http://railstips.org/blog/archives/2009/08/19/mongomapper-indy-rb-presentation/">Slides</a></p>
 ]]></content>
   </entry>
   
