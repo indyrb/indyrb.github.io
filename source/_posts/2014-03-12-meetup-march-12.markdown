@@ -8,7 +8,7 @@ categories: [Jim Weirich, The Handicapper Generals]
 
 **[Jim Weirich](https://twitter.com/_swanson)** - S.O.L.I.D. Ruby (from RubyConf 2009)
 
-[Watch Now]()
+[Watch Now](http://www.confreaks.com/videos/185-rubyconf2009-solid-ruby)
 
 **[The Handicapper Generals](http://twitter.com/hgmenindy)** - Has Anybody Seen My Code?
 
