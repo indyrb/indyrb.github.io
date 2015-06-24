@@ -1,0 +1,31 @@
+<script>
+  $(document).ready(function(){
+
+    $.getJSON("http://api.meetup.com/events.json/?topic=ruby&groupnum=89&key=6a7801841e16295e1e722e254370&callback=?",
+    function (data) {
+      nextMeetup = data.results[0];
+      $('#next_meetup_name').html(nextMeetup.name);
+      date = new Date(nextMeetup.time)
+      $('#next_meetup_date').html(date.formatDate('l, F j'));
+      // $('#next_meetup_time').html(date.formatDate('g:i a'));
+      $('#next_meetup_rsvpcount').html(nextMeetup.rsvpcount);
+      $('.next_meetup_event_url').attr('href', nextMeetup.event_url)
+    });
+  });
+</script>
+<section>
+  <div id="next_meetup">
+    <h1>Next Meetup</h1>
+    <strong>Date:</strong>
+    <span id="next_meetup_date">2nd Wednesday of the month</span>
+    <br>
+    <strong>Time:</strong>
+    <span id="next_meetup_time">7:00 pm</span>
+    <br>
+    <a class="next_meetup_event_url" href="#">View Location and Additional Details</a>
+    <br>
+    <strong># Attending:</strong>
+    <span id="next_meetup_rsvpcount"></span>
+    <a class="next_meetup_event_url" href="#">RSVP Now!</a>
+  </div>
+</section>
