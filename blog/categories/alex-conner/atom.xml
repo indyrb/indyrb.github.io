@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Alex Conner | IndyRB.org]]></title>
   <link href="http://indyrb.github.io/blog/categories/alex-conner/atom.xml" rel="self"/>
   <link href="http://indyrb.github.io/"/>
-  <updated>2015-06-23T19:52:58-04:00</updated>
+  <updated>2015-06-24T10:12:45-04:00</updated>
   <id>http://indyrb.github.io/</id>
   <author>
     <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
@@ -76,6 +76,41 @@
 
 <p><a href="http://podcast.404dev.com/episodes/059_Miles_Sterrett-Dinosaurs_Lasers_and_the_Decorator_Pattern.m4v">Video</a> (15m : 53s) /
 <a href="http://speakerdeck.com/u/mileszs/p/dinosaurs-lasers-and-the-decorator-pattern">Slides</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup September 14, 2011]]></title>
+    <link href="http://indyrb.github.io/posts/2011/09/14/meetup-september-14/"/>
+    <updated>2011-09-14T22:30:24-04:00</updated>
+    <id>http://indyrb.github.io/posts/2011/09/14/meetup-september-14</id>
+    <content type="html"><![CDATA[<h3><a href="https://twitter.com/thirdshift">Garrett Hart</a> - ActiveAdmin</h3>
+
+<p><a href="http://podcast.404dev.com/episodes/045_Garrett_Hart-ActiveAdmin.m4v">Video</a> (13m : 14s) /
+<a href="http://activeadmin.info">ActiveAdmin</a></p>
+
+<h3><a href="https://twitter.com/codatory">Alex Conner</a> - JRuby on Windows with Warbler</h3>
+
+<p><a href="http://podcast.404dev.com/episodes/046_Alex_Conner-Jruby_on_Windows_with_Warbler.m4v">Video</a> (18m : 36s) /
+<a href="http://jruby.org">JRuby</a> /
+<a href="https://github.com/jruby/warbler">Warbler</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup August 10, 2011]]></title>
+    <link href="http://indyrb.github.io/posts/2011/08/10/meetup-august-10/"/>
+    <updated>2011-08-10T22:30:24-04:00</updated>
+    <id>http://indyrb.github.io/posts/2011/08/10/meetup-august-10</id>
+    <content type="html"><![CDATA[<h3><a href="https://twitter.com/esquivalient">Matt Gordon</a> - Ruby News</h3>
+
+<p><a href="http://podcast.404dev.com/episodes/043_Matt_Gordon-Ruby_News.m4v">Video</a> (13m : 14s)</p>
+
+<h3><a href="https://twitter.com/codatory">Alex Conner</a> - Ruby and Rails &ldquo;Performance&rdquo;</h3>
+
+<p><a href="http://podcast.404dev.com/episodes/044_Alex_Connor-Ruby_and_Rails_Performance.m4v">Video</a> (18m : 36s) /
+<a href="http://podcast.404dev.com/extras/044_Alex_Connor-Ruby_and_Rails_Performance.pdf">Slides</a> /
+<a href="https://gist.github.com/1142122">Benchmark Script</a></p>
 ]]></content>
   </entry>
   
