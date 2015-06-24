@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Presentations for Indy.rb Meetup February 11"
-date: 2015-02-24 21:00:00 -0500
+title: "Meetup March 11"
+date: 2015-03-11 21:00:00 -0500
 comments: true
 categories: [Steve Grossi, George Milberger]
 ---

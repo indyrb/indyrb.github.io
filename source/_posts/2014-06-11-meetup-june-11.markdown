@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Meetup June 11, 2014"
+date: 2014-05-14 23:30:24 -0500
+comments: true
+categories: [Joseph Caudle]
+---
+
+###[Joseph Caudle](https://twitter.com/josephcaudle) - Guided Exercises through Exercism.io
+[Exercism.io](http://exercism.io) /
+[Team Indy.rb on Exercism](http://exercism.io/teams/indy-rb)

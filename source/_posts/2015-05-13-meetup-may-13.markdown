@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Meetup May 13, 2015"
+date: 2015-05-13 21:00:00 -0500
+comments: true
+categories: [Joel Meador, David Jones]
+---
+
+
+###[Joel Meador](https://twitter.com/joelmeador) - Ruby News
+[Slides](http://podcast.404dev.com/episodes/2015-05-Joel_Meador-Ruby_News.pdf)
+
+
+###[David Jones](https://twitter.com/unixmonkey) - Volt.rb
+[Code](https://github.com/unixmonkey/volt_todos) /
+[Volt Framework](http://voltframework.com/) /
+[Building a Todo Tracking App in Volt in 10 minutes](https://www.youtube.com/watch?v=KbFtIt7-ge8) /
+[Isomorphic App Development with Ruby and Volt by Ryan Stout](https://www.youtube.com/watch?v=7i6AL7Walc4)

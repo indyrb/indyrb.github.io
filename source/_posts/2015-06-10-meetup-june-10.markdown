@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Meetup June 10, 2015"
+date: 2015-06-10 21:00:00 -0500
+comments: true
+categories: [Joel Meador]
+---
+
+
+###[Joel Meador](https://twitter.com/joelmeador) - Elixir
+[All Aboard the Elixir Express! by Chris McCord](https://www.youtube.com/watch?v=5kYmOyJjGDM&list=LL_RY9p6Xwh55mWLYHK9Dw3g&index=2) /
+[Pheonix Web Framework](http://www.phoenixframework.org/) /
+[Better assertion failure messages with the "Wrong" Gem](https://github.com/sconover/wrong) /
+[The Elm Language](http://elm-lang.org/)
