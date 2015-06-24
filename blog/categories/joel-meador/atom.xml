@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Joel Meador | IndyRB.org]]></title>
   <link href="http://indyrb.github.io/blog/categories/joel-meador/atom.xml" rel="self"/>
   <link href="http://indyrb.github.io/"/>
-  <updated>2015-06-24T11:11:56-04:00</updated>
+  <updated>2015-06-24T17:42:08-04:00</updated>
   <id>http://indyrb.github.io/</id>
   <author>
     <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
@@ -12,6 +12,38 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup June 10, 2015]]></title>
+    <link href="http://indyrb.github.io/posts/2015/06/10/meetup-june-10/"/>
+    <updated>2015-06-10T22:00:00-04:00</updated>
+    <id>http://indyrb.github.io/posts/2015/06/10/meetup-june-10</id>
+    <content type="html"><![CDATA[<h3><a href="https://twitter.com/joelmeador">Joel Meador</a> - Elixir</h3>
+
+<p><a href="https://www.youtube.com/watch?v=5kYmOyJjGDM&amp;list=LL_RY9p6Xwh55mWLYHK9Dw3g&amp;index=2">All Aboard the Elixir Express! by Chris McCord</a> /
+<a href="http://www.phoenixframework.org/">Pheonix Web Framework</a> /
+<a href="https://github.com/sconover/wrong">Better assertion failure messages with the &ldquo;Wrong&rdquo; Gem</a> /
+<a href="http://elm-lang.org/">The Elm Language</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup May 13, 2015]]></title>
+    <link href="http://indyrb.github.io/posts/2015/05/13/meetup-may-13/"/>
+    <updated>2015-05-13T22:00:00-04:00</updated>
+    <id>http://indyrb.github.io/posts/2015/05/13/meetup-may-13</id>
+    <content type="html"><![CDATA[<h3><a href="https://twitter.com/joelmeador">Joel Meador</a> - Ruby News</h3>
+
+<p><a href="http://podcast.404dev.com/episodes/2015-05-Joel_Meador-Ruby_News.pdf">Slides</a></p>
+
+<h3><a href="https://twitter.com/unixmonkey">David Jones</a> - Volt.rb</h3>
+
+<p><a href="https://github.com/unixmonkey/volt_todos">Code</a> /
+<a href="http://voltframework.com/">Volt Framework</a> /
+<a href="https://www.youtube.com/watch?v=KbFtIt7-ge8">Building a Todo Tracking App in Volt in 10 minutes</a> /
+<a href="https://www.youtube.com/watch?v=7i6AL7Walc4">Isomorphic App Development with Ruby and Volt by Ryan Stout</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Meetup September 10]]></title>
@@ -81,54 +113,6 @@
 <h3><a href="http://twitter.com/_swanson">Matt Swanson</a> - Team-Based Git Workflow (that doesn&rsquo;t suck!)</h3>
 
 <p><a href="http://mdswanson.com/talk/2012/03/15/lightning-talk-team-based-git-workflow-that-doesnt-suck.html">Slides</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Meetup May 9, 2012]]></title>
-    <link href="http://indyrb.github.io/posts/2012/04/11/meetup-may-9/"/>
-    <updated>2012-04-11T22:30:24-04:00</updated>
-    <id>http://indyrb.github.io/posts/2012/04/11/meetup-may-9</id>
-    <content type="html"><![CDATA[<h3><a href="https://twitter.com/joelmeador">Joel Meador</a> - Ruby News Global &amp; Local</h3>
-
-<p><a href="http://podcast.404dev.com/episodes/066_Joel_Meador-Ruby_News.m4v">Video</a> (10m : 54s)</p>
-
-<h3><a href="https://twitter.com/codatory">Alex Conner</a> - Why does Rails not run callbacks on nested_attributes?</h3>
-
-<p><a href="http://podcast.404dev.com/episodes/067_Alex_Conner-Why_Does_Rails_Not_Run_Callbacks_on_Nested_Attributes.m4v">Video</a> (4m : 1s)</p>
-
-<h3><a href="https://twitter.com/MobileSort">Chris Achard</a> - RubyMotion</h3>
-
-<p><a href="http://podcast.404dev.com/episodes/068_Chris_Achard-RubyMotion.m4v">Video</a> (17m : 37s) /
-<a href="https://rubymotion.com">RubyMotion</a></p>
-
-<h3><a href="https://github.com/christophersansone">Christopher Sansone</a> - Rails + Ember.JS in 7 Minutes</h3>
-
-<p><a href="http://podcast.404dev.com/episodes/069_Christopher_Sansone-Rails_and_EmberJS_in_7_Minutes.m4v">Video</a> (25m : 35s) /
-<a href="https://emberjs.com">Ember.JS</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Meetup October 13, 2011]]></title>
-    <link href="http://indyrb.github.io/posts/2011/10/13/meetup-october-13/"/>
-    <updated>2011-10-13T22:30:24-04:00</updated>
-    <id>http://indyrb.github.io/posts/2011/10/13/meetup-october-13</id>
-    <content type="html"><![CDATA[<h3><a href="https://twitter.com/esquivalient">Matt Gordon</a> - Ruby News</h3>
-
-<p><a href="http://podcast.404dev.com/episodes/047_Matt_Gordon-Ruby_News.m4v">Video</a> (24m : 41s)</p>
-
-<h3><a href="https://twitter.com/joelmeador">Joel Meador</a> - Auth System Throwdown</h3>
-
-<p><a href="http://podcast.404dev.com/episodes/047_Joel_Meador-Auth_System_Throwdown.m4v">Video</a> (25m : 46s)</p>
-
-<h3><a href="https://twitter.com/mediocretes">Nate Acuff</a> - AWS-S3</h3>
-
-<p><a href="http://podcast.404dev.com/episodes/049_Nate_Acuff-AWS-S3.m4v">Video</a> (19m : 53s)</p>
-
-<h3><a href="https://twitter.com/dstrus">Davey Strus</a> - Enterprise Horror</h3>
-
-<p><a href="http://podcast.404dev.com/episodes/050_Dave-Enterprise_Horror.m4v">Video</a> (11m : 47s)</p>
 ]]></content>
   </entry>
   

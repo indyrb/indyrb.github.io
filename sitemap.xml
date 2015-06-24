@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://indyrb.github.io/posts/2015/02/24/meetup-february-11/</loc>
-    <lastmod>2015-02-24T21:00:00-05:00</lastmod>
+    <loc>http://indyrb.github.io/posts/2015/06/10/meetup-june-10/</loc>
+    <lastmod>2015-06-10T22:00:00-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://indyrb.github.io/posts/2015/05/13/meetup-may-13/</loc>
+    <lastmod>2015-05-13T22:00:00-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://indyrb.github.io/posts/2015/04/08/meetup-april-8/</loc>
+    <lastmod>2015-04-08T22:00:00-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://indyrb.github.io/posts/2015/03/11/meetup-march-11/</loc>
+    <lastmod>2015-03-11T22:00:00-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://indyrb.github.io/posts/2015/03/11/meetup-february-11/</loc>
+    <lastmod>2015-03-11T22:00:00-04:00</lastmod>
   </url>
   <url>
     <loc>http://indyrb.github.io/posts/2014/10/08/meetup-october-8/</loc>
@@ -22,6 +38,10 @@
   </url>
   <url>
     <loc>http://indyrb.github.io/posts/2014/05/15/meetup-may-14/</loc>
+    <lastmod>2014-05-15T00:30:24-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://indyrb.github.io/posts/2014/05/15/meetup-june-11/</loc>
     <lastmod>2014-05-15T00:30:24-04:00</lastmod>
   </url>
   <url>
@@ -134,14 +154,14 @@
   </url>
   <url>
     <loc>http://indyrb.github.io/blog/archives/</loc>
-    <lastmod>2015-06-24T11:11:56-04:00</lastmod>
+    <lastmod>2015-06-24T17:42:08-04:00</lastmod>
   </url>
   <url>
     <loc>http://indyrb.github.io/</loc>
-    <lastmod>2015-06-24T11:11:56-04:00</lastmod>
+    <lastmod>2015-06-24T17:42:08-04:00</lastmod>
   </url>
   <url>
     <loc>http://indyrb.github.io/talk/</loc>
-    <lastmod>2015-06-24T11:11:56-04:00</lastmod>
+    <lastmod>2015-06-24T17:42:08-04:00</lastmod>
   </url>
 </urlset>

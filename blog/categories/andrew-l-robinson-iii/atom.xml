@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Andrew L Robinson Iii | IndyRB.org]]></title>
   <link href="http://indyrb.github.io/blog/categories/andrew-l-robinson-iii/atom.xml" rel="self"/>
   <link href="http://indyrb.github.io/"/>
-  <updated>2015-06-24T11:11:56-04:00</updated>
+  <updated>2015-06-24T17:42:08-04:00</updated>
   <id>http://indyrb.github.io/</id>
   <author>
     <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
@@ -12,6 +12,34 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup March 11, 2015]]></title>
+    <link href="http://indyrb.github.io/posts/2015/03/11/meetup-february-11/"/>
+    <updated>2015-03-11T22:00:00-04:00</updated>
+    <id>http://indyrb.github.io/posts/2015/03/11/meetup-february-11</id>
+    <content type="html"><![CDATA[<h3><a href="https://twitter.com/baldwindavid">David Baldwin</a>, <a href="https://twitter.com/ar3_me">Andrew L Robinson III</a>, <a href="https://twitter.com/mileszs">Miles Sterrett</a> - Unconventional Rails Objects</h3>
+
+<p>We discuss some of the objects written into Rails applications we work with that are not common in Rails. We talk a bit about our thoughts on them, and lead a discussion for the whole group.</p>
+
+<p><a href="http://podcast.404dev.com/episodes/088_Unconventional_Rails_Objects.mp3">Audio</a> (1h : 37m)</p>
+
+<p>Links to other stuff discussed and post-discussion from the mailing list:</p>
+
+<ul>
+<li><a href="https://github.com/jimweirich/wyriki/tree/master/app">Jim Weirich&rsquo;s &ldquo;Wyriki&rdquo;</a></li>
+<li><a href="http://objectsonrails.com">Avdi Grimm&rsquo;s &ldquo;Objects on Rails&rdquo;</a></li>
+<li><a href="https://github.com/collectiveidea/interactor">Interactor Gem</a></li>
+<li><a href="http://www.objc.io/issues/13-architecture/viper/">Viper pattern (IOS)</a></li>
+<li><a href="http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/">7 Patterns to Refactor Fat ActiveRecord Models</a></li>
+<li><a href="https://github.com/anthonator/soulless">Soulless Gem</a></li>
+<li><a href="http://brewhouse.io/blog/2014/04/30/gourmet-service-objects.html">Gourmet Service Objects</a></li>
+<li><a href="https://github.com/apotonick/trailblazer">Trailblazer</a></li>
+<li><a href="http://clean-ruby.com/">Jim Gay&rsquo;s &ldquo;Clean Ruby&rdquo;</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Meetup August 13]]></title>

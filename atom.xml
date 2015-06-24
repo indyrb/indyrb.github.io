@@ -4,7 +4,7 @@
   <title><![CDATA[IndyRB.org]]></title>
   <link href="http://indyrb.github.io/atom.xml" rel="self"/>
   <link href="http://indyrb.github.io/"/>
-  <updated>2015-06-24T11:11:56-04:00</updated>
+  <updated>2015-06-24T17:42:08-04:00</updated>
   <id>http://indyrb.github.io/</id>
   <author>
     <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
@@ -14,10 +14,53 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Presentations for Indy.rb Meetup February 11]]></title>
-    <link href="http://indyrb.github.io/posts/2015/02/24/meetup-february-11/"/>
-    <updated>2015-02-24T21:00:00-05:00</updated>
-    <id>http://indyrb.github.io/posts/2015/02/24/meetup-february-11</id>
+    <title type="html"><![CDATA[Meetup June 10, 2015]]></title>
+    <link href="http://indyrb.github.io/posts/2015/06/10/meetup-june-10/"/>
+    <updated>2015-06-10T22:00:00-04:00</updated>
+    <id>http://indyrb.github.io/posts/2015/06/10/meetup-june-10</id>
+    <content type="html"><![CDATA[<h3><a href="https://twitter.com/joelmeador">Joel Meador</a> - Elixir</h3>
+
+<p><a href="https://www.youtube.com/watch?v=5kYmOyJjGDM&amp;list=LL_RY9p6Xwh55mWLYHK9Dw3g&amp;index=2">All Aboard the Elixir Express! by Chris McCord</a> /
+<a href="http://www.phoenixframework.org/">Pheonix Web Framework</a> /
+<a href="https://github.com/sconover/wrong">Better assertion failure messages with the &ldquo;Wrong&rdquo; Gem</a> /
+<a href="http://elm-lang.org/">The Elm Language</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup May 13, 2015]]></title>
+    <link href="http://indyrb.github.io/posts/2015/05/13/meetup-may-13/"/>
+    <updated>2015-05-13T22:00:00-04:00</updated>
+    <id>http://indyrb.github.io/posts/2015/05/13/meetup-may-13</id>
+    <content type="html"><![CDATA[<h3><a href="https://twitter.com/joelmeador">Joel Meador</a> - Ruby News</h3>
+
+<p><a href="http://podcast.404dev.com/episodes/2015-05-Joel_Meador-Ruby_News.pdf">Slides</a></p>
+
+<h3><a href="https://twitter.com/unixmonkey">David Jones</a> - Volt.rb</h3>
+
+<p><a href="https://github.com/unixmonkey/volt_todos">Code</a> /
+<a href="http://voltframework.com/">Volt Framework</a> /
+<a href="https://www.youtube.com/watch?v=KbFtIt7-ge8">Building a Todo Tracking App in Volt in 10 minutes</a> /
+<a href="https://www.youtube.com/watch?v=7i6AL7Walc4">Isomorphic App Development with Ruby and Volt by Ryan Stout</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup April 8, 2015]]></title>
+    <link href="http://indyrb.github.io/posts/2015/04/08/meetup-april-8/"/>
+    <updated>2015-04-08T22:00:00-04:00</updated>
+    <id>http://indyrb.github.io/posts/2015/04/08/meetup-april-8</id>
+    <content type="html"><![CDATA[<h2>Hack an API</h2>
+
+<p>We split into small groups and each built a simple notes API using any Ruby library we want. After an hour or so, we reconvened to discuss the decisions made and their repercussions.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup March 11]]></title>
+    <link href="http://indyrb.github.io/posts/2015/03/11/meetup-march-11/"/>
+    <updated>2015-03-11T22:00:00-04:00</updated>
+    <id>http://indyrb.github.io/posts/2015/03/11/meetup-march-11</id>
     <content type="html"><![CDATA[<h3><a href="https://twitter.com/stevegrossi">Steve Grossi</a> - Load Testing Rails apps with Apache Bench, Siege, and JMeter</h3>
 
 <p><a href="http://podcast.404dev.com/episodes/084_Steve_Grossi_-_Load_Testing.mp4">Video</a> (52m : 01s) /
@@ -26,6 +69,34 @@
 <h3><a href="https://twitter.com/BFGeorge9000">George Milberger</a> - The Theater of MVC</h3>
 
 <p><a href="http://podcast.404dev.com/episodes/085_George_Milberger_-_The_Theater_of_MVC.mp4">Video</a> (13m : 36s)</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup March 11, 2015]]></title>
+    <link href="http://indyrb.github.io/posts/2015/03/11/meetup-february-11/"/>
+    <updated>2015-03-11T22:00:00-04:00</updated>
+    <id>http://indyrb.github.io/posts/2015/03/11/meetup-february-11</id>
+    <content type="html"><![CDATA[<h3><a href="https://twitter.com/baldwindavid">David Baldwin</a>, <a href="https://twitter.com/ar3_me">Andrew L Robinson III</a>, <a href="https://twitter.com/mileszs">Miles Sterrett</a> - Unconventional Rails Objects</h3>
+
+<p>We discuss some of the objects written into Rails applications we work with that are not common in Rails. We talk a bit about our thoughts on them, and lead a discussion for the whole group.</p>
+
+<p><a href="http://podcast.404dev.com/episodes/088_Unconventional_Rails_Objects.mp3">Audio</a> (1h : 37m)</p>
+
+<p>Links to other stuff discussed and post-discussion from the mailing list:</p>
+
+<ul>
+<li><a href="https://github.com/jimweirich/wyriki/tree/master/app">Jim Weirich&rsquo;s &ldquo;Wyriki&rdquo;</a></li>
+<li><a href="http://objectsonrails.com">Avdi Grimm&rsquo;s &ldquo;Objects on Rails&rdquo;</a></li>
+<li><a href="https://github.com/collectiveidea/interactor">Interactor Gem</a></li>
+<li><a href="http://www.objc.io/issues/13-architecture/viper/">Viper pattern (IOS)</a></li>
+<li><a href="http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/">7 Patterns to Refactor Fat ActiveRecord Models</a></li>
+<li><a href="https://github.com/anthonator/soulless">Soulless Gem</a></li>
+<li><a href="http://brewhouse.io/blog/2014/04/30/gourmet-service-objects.html">Gourmet Service Objects</a></li>
+<li><a href="https://github.com/apotonick/trailblazer">Trailblazer</a></li>
+<li><a href="http://clean-ruby.com/">Jim Gay&rsquo;s &ldquo;Clean Ruby&rdquo;</a></li>
+</ul>
+
 ]]></content>
   </entry>
   
@@ -125,6 +196,18 @@
 <p><a href="http://podcast.404dev.com/episodes/074_Chris_Stephan-Developing_With_Docker.mp4">Video</a> (58m : 54s) /
 <a href="https://speakerdeck.com/endoze/developing-with-docker">Slides</a> /
 <a href="https://github.com/endoze/docker_playground">Code</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup June 11, 2014]]></title>
+    <link href="http://indyrb.github.io/posts/2014/05/15/meetup-june-11/"/>
+    <updated>2014-05-15T00:30:24-04:00</updated>
+    <id>http://indyrb.github.io/posts/2014/05/15/meetup-june-11</id>
+    <content type="html"><![CDATA[<h3><a href="https://twitter.com/josephcaudle">Joseph Caudle</a> - Guided Exercises through Exercism.io</h3>
+
+<p><a href="http://exercism.io">Exercism.io</a> /
+<a href="http://exercism.io/teams/indy-rb">Team Indy.rb on Exercism</a></p>
 ]]></content>
   </entry>
   
@@ -309,108 +392,6 @@
 
 <p><a href="http://podcast.404dev.com/episodes/062_Nate_Acuff-Stages_Gem.m4v">Video</a> (37m : 45s) /
 <a href="https://github.com/iGoDigital-LLC/stages">Code</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Meetup February 8, 2012]]></title>
-    <link href="http://indyrb.github.io/posts/2012/02/08/meetup-february-8/"/>
-    <updated>2012-02-08T21:30:24-05:00</updated>
-    <id>http://indyrb.github.io/posts/2012/02/08/meetup-february-8</id>
-    <content type="html"><![CDATA[<h3><a href="https://twitter.com/esquivalient">Matt Gordon</a> - Ruby News &amp; Bug or Feature?</h3>
-
-<p><a href="http://podcast.404dev.com/episodes/056_Matt_Gordon-Ruby_News_and_Bug_or_Feature.m4v">Video</a> (27m : 55s)</p>
-
-<h3><a href="https://twitter.com/codatory">Alex Conner</a> - Beanstalk</h3>
-
-<p><a href="http://podcast.404dev.com/episodes/057_Alex_Connor-Beanstalk.m4v">Video</a> (12m : 25s) /
-<a href="https://github.com/codatory/nearme">Code</a></p>
-
-<h3><a href="https://twitter.com/tihm">Tim Harvey</a> - Microgems &amp; Eliminating Barriers</h3>
-
-<p><a href="http://podcast.404dev.com/episodes/058_Tim_Harvey-Microgems_and_Eliminating_Barriers.m4v">Video</a> (10m : 20s) /
-<a href="http://tjh.github.com/microgems/#1">Slides</a></p>
-
-<h3><a href="https://twitter.com/mileszs">Miles Sterrett</a> - Dinosaurs, Lasers &amp; the Decorator Pattern</h3>
-
-<p><a href="http://podcast.404dev.com/episodes/059_Miles_Sterrett-Dinosaurs_Lasers_and_the_Decorator_Pattern.m4v">Video</a> (15m : 53s) /
-<a href="http://speakerdeck.com/u/mileszs/p/dinosaurs-lasers-and-the-decorator-pattern">Slides</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Meetup January 11, 2012]]></title>
-    <link href="http://indyrb.github.io/posts/2012/01/11/meetup-january-11/"/>
-    <updated>2012-01-11T21:30:24-05:00</updated>
-    <id>http://indyrb.github.io/posts/2012/01/11/meetup-january-11</id>
-    <content type="html"><![CDATA[<h3><a href="https://twitter.com/mileszs">Miles Sterrett</a> - What Should We Read?</h3>
-
-<p><a href="http://podcast.404dev.com/episodes/054_Miles_Sterrett-What_Should_We_Read.m4v">Video</a> (1hr : 6m)</p>
-
-<h3><a href="https://twitter.com/aldos">David Christiansen</a> - HTML5 Uploader</h3>
-
-<p><a href="http://podcast.404dev.com/episodes/055_David_Christiansen-HTML5_uploader.m4v">Video</a> (12m : 35s)</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Meetup November 9, 2011]]></title>
-    <link href="http://indyrb.github.io/posts/2011/11/09/meetup-november-9/"/>
-    <updated>2011-11-09T21:30:24-05:00</updated>
-    <id>http://indyrb.github.io/posts/2011/11/09/meetup-november-9</id>
-    <content type="html"><![CDATA[<h3><a href="https://twitter.com/esquivalient">Matt Gordon</a> - Ruby News</h3>
-
-<p><a href="http://podcast.404dev.com/episodes/051_Matt_Gordon-Ruby_News.m4v">Video</a> (11m : 18s)</p>
-
-<h3><a href="https://twitter.com/esquivalient">Matt Gordon</a> - Most Learned Programmer - Is a CS degree worth it?</h3>
-
-<p><a href="http://podcast.404dev.com/episodes/052_Matt_Gordon-Most_Learned_Programmer.m4v">Video</a> (19m : 40s)</p>
-
-<h3><a href="https://twitter.com/unixmonkey">David Jones</a> - Devstructure Blueprint</h3>
-
-<p><a href="http://podcast.404dev.com/episodes/053_David_Jones-Devstructure_Blueprint.m4v">Video</a> (32m : 06s) /
-<a href="https://github.com/devstructure/blueprint">Blueprint</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Meetup October 13, 2011]]></title>
-    <link href="http://indyrb.github.io/posts/2011/10/13/meetup-october-13/"/>
-    <updated>2011-10-13T22:30:24-04:00</updated>
-    <id>http://indyrb.github.io/posts/2011/10/13/meetup-october-13</id>
-    <content type="html"><![CDATA[<h3><a href="https://twitter.com/esquivalient">Matt Gordon</a> - Ruby News</h3>
-
-<p><a href="http://podcast.404dev.com/episodes/047_Matt_Gordon-Ruby_News.m4v">Video</a> (24m : 41s)</p>
-
-<h3><a href="https://twitter.com/joelmeador">Joel Meador</a> - Auth System Throwdown</h3>
-
-<p><a href="http://podcast.404dev.com/episodes/047_Joel_Meador-Auth_System_Throwdown.m4v">Video</a> (25m : 46s)</p>
-
-<h3><a href="https://twitter.com/mediocretes">Nate Acuff</a> - AWS-S3</h3>
-
-<p><a href="http://podcast.404dev.com/episodes/049_Nate_Acuff-AWS-S3.m4v">Video</a> (19m : 53s)</p>
-
-<h3><a href="https://twitter.com/dstrus">Davey Strus</a> - Enterprise Horror</h3>
-
-<p><a href="http://podcast.404dev.com/episodes/050_Dave-Enterprise_Horror.m4v">Video</a> (11m : 47s)</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Meetup September 14, 2011]]></title>
-    <link href="http://indyrb.github.io/posts/2011/09/14/meetup-september-14/"/>
-    <updated>2011-09-14T22:30:24-04:00</updated>
-    <id>http://indyrb.github.io/posts/2011/09/14/meetup-september-14</id>
-    <content type="html"><![CDATA[<h3><a href="https://twitter.com/thirdshift">Garrett Hart</a> - ActiveAdmin</h3>
-
-<p><a href="http://podcast.404dev.com/episodes/045_Garrett_Hart-ActiveAdmin.m4v">Video</a> (13m : 14s) /
-<a href="http://activeadmin.info">ActiveAdmin</a></p>
-
-<h3><a href="https://twitter.com/codatory">Alex Conner</a> - JRuby on Windows with Warbler</h3>
-
-<p><a href="http://podcast.404dev.com/episodes/046_Alex_Conner-Jruby_on_Windows_with_Warbler.m4v">Video</a> (18m : 36s) /
-<a href="http://jruby.org">JRuby</a> /
-<a href="https://github.com/jruby/warbler">Warbler</a></p>
 ]]></content>
   </entry>
   
