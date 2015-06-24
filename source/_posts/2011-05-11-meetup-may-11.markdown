@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Meetup May 11, 2011"
+date: 2011-05-11 21:30:24 -0500
+comments: true
+categories: [Matt Gordon, Miles Sterrett, Joel Meador, David Woodward]
+---
+
+###[Matt Gordon](https://twitter.com/esquivalient) - Ruby News, Local & Global
+[Video](http://podcast.404dev.com/episodes/032_Matt_Gordon-Ruby_News.m4v) (16m : 28s)
+
+
+###[Miles Sterrett](https://twitter.com/mileszs) - DataMapper
+[Video](http://podcast.404dev.com/episodes/033_Miles_Sterrett-Datamapper.m4v) (19m : 24s) /
+[DataMapper Gem](https://github.com/datamapper/dm-core)
+
+
+###[Joel Meador](https://twitter.com/joelmeador) - Guard
+[Video](http://podcast.404dev.com/episodes/034_Joel_Meador-Guard.m4v) (15m : 18s) /
+[Code](https://github.com/janxious/guard_demo) /
+[Guard Gem](https://github.com/guard/guard)
+
+
+###[David Woodward](https://twitter.com/futuremint) - Rspec Sucks (roundtable)
+[Video](http://podcast.404dev.com/episodes/035_David_Woodward-Rspec_Sucks.m4v) (25m : 33s) /
+[RSpec Gem](https://github.com/rspec/rspec)

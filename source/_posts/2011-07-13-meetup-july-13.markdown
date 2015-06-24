@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Meetup July 13, 2011"
+date: 2011-07-13 21:30:24 -0500
+comments: true
+categories: [Joel Meador, Jason Sisk]
+---
+
+###[Joel Meador](https://twitter.com/joelmeador) - Ruby News
+[Video](http://podcast.404dev.com/episodes/040_Joel_Meador-Ruby_News.m4v) (30m : 38s) /
+[Slides](http://podcast.404dev.com/extras/040_Joel_Meador-Ruby_News.pdf)
+
+
+###[Jason Sisk](https://twitter.com/sisk) - Sphinx vs Solr
+[Video](http://podcast.404dev.com/episodes/041_Jason_Sisk-Sphinx_vs_Solr.m4v) (22m : 58s) /
+[Thinking Sphinx](https://github.com/freelancing-god/thinking-sphinx) /
+[Sunspot](https://github.com/outoftime/sunspot)
+
+
+###[Joel Meador](https://twitter.com/joelmeador) - RABL (json views)
+[Video](http://podcast.404dev.com/episodes/042_Joel_Meador-RABL.m4v) (13m : 34s) /
+[RABL Gem](https://github.com/nesquena/rabl)
