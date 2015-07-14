@@ -9,3 +9,8 @@ categories: []
 ##Hack an API
 
 We split into small groups and each built a simple notes API using any Ruby library we want. After an hour or so, we reconvened to discuss the decisions made and their repercussions.
+
+Some of the apps built:
+
+* [Rails Notes (Rails-API)](https://github.com/ar3/rails_notes)
+* [Voltron (Volt.rb)](https://github.com/unixmonkey/voltron)
