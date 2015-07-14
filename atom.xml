@@ -4,7 +4,7 @@
   <title><![CDATA[IndyRB.org]]></title>
   <link href="http://indyrb.github.io/atom.xml" rel="self"/>
   <link href="http://indyrb.github.io/"/>
-  <updated>2015-06-24T17:42:08-04:00</updated>
+  <updated>2015-07-14T15:52:47-04:00</updated>
   <id>http://indyrb.github.io/</id>
   <author>
     <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
@@ -12,6 +12,40 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup July 8, 2015]]></title>
+    <link href="http://indyrb.github.io/posts/2015/07/08/meetup-july-8/"/>
+    <updated>2015-07-08T22:00:00-04:00</updated>
+    <id>http://indyrb.github.io/posts/2015/07/08/meetup-july-8</id>
+    <content type="html"><![CDATA[<h3><a href="https://twitter.com/stevegrossi">Steve Grossi</a> - Ruby News</h3>
+
+<p><a href="http://podcast.404dev.com/episodes/2015-07-08_Steve_Grossi-Ruby_News.mp3">Audio</a> (3m : 48s)</p>
+
+<ul>
+<li><a href="http://railsconf.com/">RailsConf</a></li>
+<li><a href="https://blog.engineyard.com/2015/a-look-at-rails-5">Rails 5</a></li>
+<li><a href="http://weblog.rubyonrails.org/2015/6/16/Rails-3-2-22-4-1-11-and-4-2-2-have-been-released-and-more">Security Updates to Rails</a></li>
+<li><a href="https://github.com/rubysec/bundler-audit">Bundler-Audit</a></li>
+<li><a href="http://www.reddotrubyconf.com/">RedDotRubyConf</a></li>
+<li><a href="http://5by5.tv/changelog/161">The ChangeLog - Ilia Gegorick - HTTP/2</a></li>
+</ul>
+
+
+<h3><a href="http://twitter.com/mileszs">Miles Sterrett</a> - How do we Learn Best? (group discussion)</h3>
+
+<p><a href="http://podcast.404dev.com/episodes/2015-07-08_Miles_Sterrett-How_Do_We_Learn_Best.mp3">Audio</a> (1h : 28m)</p>
+
+<ul>
+<li><a href="https://www.nostarch.com/rubywizardry">Ruby Wizardry</a></li>
+<li><a href="http://www.opensourcerails.com/">OpenSourceRails</a></li>
+<li><a href="http://www.epicodus.com/">Epicodus</a></li>
+<li><a href="http://exercism.io/">Exercism.io</a></li>
+<li><a href="https://robots.thoughtbot.com/sandi-metz-rules-for-developers">Sandi Metz Rules for Developers</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Meetup June 10, 2015]]></title>
@@ -53,6 +87,14 @@
     <content type="html"><![CDATA[<h2>Hack an API</h2>
 
 <p>We split into small groups and each built a simple notes API using any Ruby library we want. After an hour or so, we reconvened to discuss the decisions made and their repercussions.</p>
+
+<p>Some of the apps built:</p>
+
+<ul>
+<li><a href="https://github.com/ar3/rails_notes">Rails Notes (Rails-API)</a></li>
+<li><a href="https://github.com/unixmonkey/voltron">Voltron (Volt.rb)</a></li>
+</ul>
+
 ]]></content>
   </entry>
   
@@ -370,28 +412,6 @@
 
 <p><a href="http://podcast.404dev.com/episodes/065_Garrett_Honeycutt-Introduction_to_Puppet.m4v">Video</a>  (36m : 27s) /
 <a href="https://puppetlabs.com">Puppet Labs</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Meetup March 14, 2012]]></title>
-    <link href="http://indyrb.github.io/posts/2012/03/14/meetup-march-14/"/>
-    <updated>2012-03-14T22:30:24-04:00</updated>
-    <id>http://indyrb.github.io/posts/2012/03/14/meetup-march-14</id>
-    <content type="html"><![CDATA[<h3><a href="https://twitter.com/futuremint">David Woodward</a> - attr_accessible: Don&rsquo;t get caught with your pants down</h3>
-
-<p><a href="http://podcast.404dev.com/episodes/060_Dave_Woodward-attr_accessible.m4v">Video</a> (15m : 21s)</p>
-
-<h3><a href="https://twitter.com/davydotcom">David Estes</a> - Spud CMS</h3>
-
-<p><a href="http://podcast.404dev.com/episodes/061_David_Estes-Spud_CMS.m4v">Video</a> (15m : 02s) /
-<a href="https://github.com/davydotcom/spud_cms">Code</a> /
-<a href="https://github.com/davydotcom/spud_demo">Demo</a></p>
-
-<h3><a href="https://twitter.com/mediocretes">Nate Acuff</a> - Stages Gem</h3>
-
-<p><a href="http://podcast.404dev.com/episodes/062_Nate_Acuff-Stages_Gem.m4v">Video</a> (37m : 45s) /
-<a href="https://github.com/iGoDigital-LLC/stages">Code</a></p>
 ]]></content>
   </entry>
   
