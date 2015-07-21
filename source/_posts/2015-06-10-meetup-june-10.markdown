@@ -8,7 +8,13 @@ categories: [Joel Meador]
 
 
 ###[Joel Meador](https://twitter.com/joelmeador) - Elixir
-[All Aboard the Elixir Express! by Chris McCord](https://www.youtube.com/watch?v=5kYmOyJjGDM&list=LL_RY9p6Xwh55mWLYHK9Dw3g&index=2) /
-[Pheonix Web Framework](http://www.phoenixframework.org/) /
-[Better assertion failure messages with the "Wrong" Gem](https://github.com/sconover/wrong) /
-[The Elm Language](http://elm-lang.org/)
+
+Links:
+
+* [FizzBuzz, Elixir Edition](http://joelmeador.tumblr.com/post/106523542367/fizzbuzz-elixir-edition)
+* [Roman Numeral conversion in Elixir](http://joelmeador.tumblr.com/post/116837714087/roman-numeral-conversion-in-elixir)
+* [Parallel Map in Elixir](http://www.selectedintelligence.com/post/116327140769/parallel-map-in-elixir)
+* [All Aboard the Elixir Express! by Chris McCord](https://www.youtube.com/watch?v=5kYmOyJjGDM&list=LL_RY9p6Xwh55mWLYHK9Dw3g&index=2)
+* [Pheonix Web Framework](http://www.phoenixframework.org/)
+* [Better assertion failure messages with the "Wrong" Gem](https://github.com/sconover/wrong)
+* [The Elm Language](http://elm-lang.org/)
