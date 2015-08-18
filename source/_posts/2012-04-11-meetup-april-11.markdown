@@ -6,7 +6,7 @@ comments: true
 categories: [Matt Swanson, Matt Brown, Garrett Honeycutt]
 ---
 
-###[Matt Swanson](https://twitter.com/swanson) - Anatomy of a Weekend Project
+###[Matt Swanson](https://twitter.com/_swanson) - Anatomy of a Weekend Project
 [Video](http://podcast.404dev.com/episodes/063_Matt_Swanson-Anatomy_of_a_Weekend_Project.m4v) (9m : 31s) /
 [Code](https://github.com/swanson)
 

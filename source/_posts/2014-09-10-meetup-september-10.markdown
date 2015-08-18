@@ -22,6 +22,6 @@ More links to things discussed:
 [Hound](https://github.com/thoughtbot/hound)
 
 
-###[Matt Swanson](http://twitter.com/swanson) - Github-integratable Cool Things (Automate Everything)
+###[Matt Swanson](http://twitter.com/_swanson) - Github-integratable Cool Things (Automate Everything)
 [Audio](http://podcast.404dev.com/episodes/078_Matt_Swanson_-_Github-integrateable_Cool_Things.mp3) (24m : 55s) /
 [Links and notes](https://gist.github.com/swanson/b41addf65ce8a9bda0c4)
