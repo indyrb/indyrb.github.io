@@ -4,7 +4,7 @@
   <title><![CDATA[IndyRB.org]]></title>
   <link href="http://indyrb.github.io/atom.xml" rel="self"/>
   <link href="http://indyrb.github.io/"/>
-  <updated>2015-07-21T13:03:06-04:00</updated>
+  <updated>2015-08-18T18:49:22-04:00</updated>
   <id>http://indyrb.github.io/</id>
   <author>
     <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
@@ -12,6 +12,43 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup August 12, 2015]]></title>
+    <link href="http://indyrb.github.io/posts/2015/07/12/meetup-august-12/"/>
+    <updated>2015-07-12T22:00:00-04:00</updated>
+    <id>http://indyrb.github.io/posts/2015/07/12/meetup-august-12</id>
+    <content type="html"><![CDATA[<h3><a href="https://twitter.com/_swanson">Matt Swanson</a> - Negativity Bias in Written Communication (How to not Accidentally be an Asshole)</h3>
+
+<p><a href="http://podcast.404dev.com/episodes/Matt%20Swanson%20-%20Negativity%20Bias%20in%20Written%20Communication.mp4">Video</a> (19m : 3s)</p>
+
+<ul>
+<li><a href="https://www.dropbox.com/s/c67wwqy0igekkg4/negativity-bias.pdf?dl=0">Slides</a></li>
+<li><a href="https://www.youtube.com/watch?v=PJjmw9TRB7s">Derek Prior - Implementing a Strong Code-Review Culture (RailsConf 2015)</a></li>
+<li><a href="https://github.com/bbatsov/rubocop">Rubocop</a></li>
+<li><a href="http://phinze.github.io/2013/12/08/pairing-vs-code-review.html">Pairing vs Code Review</a></li>
+</ul>
+
+
+<h3><a href="http://twitter.com/ar3_me">Andrew L Robinson III</a> - An API Journey</h3>
+
+<p><a href="http://podcast.404dev.com/episodes/2015-08-12_Andrew%20Robinson%20III%20-%20An%20API%20Journey">Video</a> (43m : 46s)</p>
+
+<ul>
+<li><a href="https://prezi.com/mkwcvhrs6rjp/an-api-journey/">Prezi Slides</a></li>
+<li><a href="http://stateless.co/hal_specification.html">JSON-HAL</a></li>
+<li><a href="http://jsonapi.org/">JSON-API</a></li>
+<li><a href="https://github.com/ruby-grape/grape">Grape</a></li>
+<li><a href="https://github.com/nesquena/rabl">Rabl</a></li>
+<li><a href="https://github.com/rails/jbuilder">jbuilder</a></li>
+<li><a href="https://github.com/rails-api/active_model_serializers">ActiveModel::Serializers</a></li>
+<li><a href="https://github.com/apotonick/roar">ROAR</a></li>
+<li><a href="https://github.com/apotonick/trailblazer">Trailblazer</a></li>
+<li><a href="https://github.com/cerebris/jsonapi-resources">jsonapi-resources</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Meetup July 8, 2015]]></title>
@@ -188,7 +225,7 @@
 <a href="http://growingdevs.com/stop-using-rubygems-and-start-using-bower.html">Using Bower for managing front-end assets in Rails</a> /
 <a href="https://github.com/thoughtbot/hound">Hound</a></p>
 
-<h3><a href="http://twitter.com/swanson">Matt Swanson</a> - Github-integratable Cool Things (Automate Everything)</h3>
+<h3><a href="http://twitter.com/_swanson">Matt Swanson</a> - Github-integratable Cool Things (Automate Everything)</h3>
 
 <p><a href="http://podcast.404dev.com/episodes/078_Matt_Swanson_-_Github-integrateable_Cool_Things.mp3">Audio</a> (24m : 55s) /
 <a href="https://gist.github.com/swanson/b41addf65ce8a9bda0c4">Links and notes</a></p>
@@ -397,29 +434,6 @@
 
 <p><a href="http://podcast.404dev.com/episodes/069_Christopher_Sansone-Rails_and_EmberJS_in_7_Minutes.m4v">Video</a> (25m : 35s) /
 <a href="https://emberjs.com">Ember.JS</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Meetup April 11, 2012]]></title>
-    <link href="http://indyrb.github.io/posts/2012/04/11/meetup-april-11/"/>
-    <updated>2012-04-11T22:30:24-04:00</updated>
-    <id>http://indyrb.github.io/posts/2012/04/11/meetup-april-11</id>
-    <content type="html"><![CDATA[<h3><a href="https://twitter.com/swanson">Matt Swanson</a> - Anatomy of a Weekend Project</h3>
-
-<p><a href="http://podcast.404dev.com/episodes/063_Matt_Swanson-Anatomy_of_a_Weekend_Project.m4v">Video</a> (9m : 31s) /
-<a href="https://github.com/swanson">Code</a></p>
-
-<h3><a href="http://github.com/gowabash">Matt Brown</a> - 5 Brains, 2 solutions: An Experiment in Problem Solving</h3>
-
-<p><a href="http://podcast.404dev.com/episodes/064_Matt_Brown-5_Brains_2_Solutions.m4v">Video</a> (31m : 36s) /
-<a href="https://code.google.com/codejam">Google Code Jam</a> /
-<a href="https://github.com/gowabash/prog_challenge">Code</a></p>
-
-<h3><a href="https://twitter.com/learnpuppet">Garrett Honeycutt</a> - Expanded Introduction to Puppet</h3>
-
-<p><a href="http://podcast.404dev.com/episodes/065_Garrett_Honeycutt-Introduction_to_Puppet.m4v">Video</a>  (36m : 27s) /
-<a href="https://puppetlabs.com">Puppet Labs</a></p>
 ]]></content>
   </entry>
   
