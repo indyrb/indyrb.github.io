@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Davey Strus | IndyRB.org]]></title>
   <link href="http://indyrb.github.io/blog/categories/davey-strus/atom.xml" rel="self"/>
   <link href="http://indyrb.github.io/"/>
-  <updated>2015-09-20T23:56:13-04:00</updated>
+  <updated>2015-09-25T08:06:56-04:00</updated>
   <id>http://indyrb.github.io/</id>
   <author>
     <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
@@ -23,7 +23,9 @@
 <p><a href="http://podcast.404dev.com/episodes/2015-09-09_Matt_Newell_-_How_to_Parse_Excel_with_Ruby.mp4">Video</a> (17m : 31s)</p>
 
 <ul>
-<li><a href="hhttp://podcast.404dev.com/episodes/2015-09-09_Matt_Newell_-_How_to_Parse_Excel_with_Ruby.pdf">Slides</a></li>
+<li><a href="http://podcast.404dev.com/episodes/2015-09-09_Matt_Newell_-_How_to_Parse_Excel_with_Ruby.pdf">Slides</a></li>
+<li><a href="https://github.com/matthewnewell/vet">Parse Excel Github Repository</a></li>
+<li><a href="http://www.amazon.com/The-Little-Book-Talent-Improving/dp/034553025X">The Little Book of Talent</a></li>
 <li><a href="https://github.com/roo-rb/roo">Roo</a></li>
 <li><a href="http://pryrepl.org/">pry</a></li>
 <li><a href="https://github.com/randym/axlsx">AXSLX</a></li>
