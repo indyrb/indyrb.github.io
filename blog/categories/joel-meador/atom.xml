@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Joel Meador | IndyRB.org]]></title>
   <link href="http://indyrb.github.io/blog/categories/joel-meador/atom.xml" rel="self"/>
   <link href="http://indyrb.github.io/"/>
-  <updated>2015-09-25T08:06:56-04:00</updated>
+  <updated>2016-01-20T17:28:37-05:00</updated>
   <id>http://indyrb.github.io/</id>
   <author>
     <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
@@ -12,6 +12,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup January 13, 2016]]></title>
+    <link href="http://indyrb.github.io/posts/2016/01/13/meetup-january-13/"/>
+    <updated>2016-01-13T21:00:00-05:00</updated>
+    <id>http://indyrb.github.io/posts/2016/01/13/meetup-january-13</id>
+    <content type="html"><![CDATA[<h3><a href="https://twitter.com/stevegrossi">Steve Grossi</a> - Ruby News</h3>
+
+<ul>
+<li><a href="http://work.stevegrossi.com/2016/01/14/new-features-in-ruby-2-3/">New Features in Ruby 2.3</a></li>
+</ul>
+
+
+<h3><a href="https://twitter.com/joelmeador">Joel Meador</a> - Action Cable</h3>
+
+<p><a href="http://podcast.404dev.com/episodes/2016-01-13_Joel_Meador-Action_Cable.mp4">Video</a> (46m : 6s)</p>
+
+<ul>
+<li><a href="https://github.com/expectedbehavior/indyrb-actioncable">Code</a></li>
+<li><a href="https://github.com/rails/rails/tree/master/actioncable">Action Cable (source repo)</a></li>
+<li><a href="https://youtu.be/n0WUjGkDFS0">Action Cable Introduction from rubyonrails.org</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Meetup June 10, 2015]]></title>
@@ -98,29 +123,6 @@
 <h3><a href="http://twitter.com/ar3_me">Joel Meador</a> - Anatomy of a Code Review</h3>
 
 <p><a href="http://podcast.404dev.com/episodes/077_Joel_Meador_-_Anatomy_of_a_Code_Review.mp4">Video</a> (39m : 16s)</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Meetup December 11, 2013]]></title>
-    <link href="http://indyrb.github.io/posts/2013/12/11/meetup-december-11/"/>
-    <updated>2013-12-11T21:30:24-05:00</updated>
-    <id>http://indyrb.github.io/posts/2013/12/11/meetup-december-11</id>
-    <content type="html"><![CDATA[<h3><a href="http://twitter.com/ar3_me">Andrew L Robinson III </a> - Agile in a Non-agile World</h3>
-
-<p><a href="http://prezi.com/tfegr-9gr2se/agile-in-a-non-agile-world/?utm_campaign=share&amp;utm_medium=copy">Agile in a Non-Agile World</a></p>
-
-<h3><a href="http://twitter.com/joelmeador">Joel Meador</a> - PDF Generation as-a-service with DocRaptor</h3>
-
-<p><a href="https://docraptor.com/">DocRaptor</a></p>
-
-<h3><a href="http://twitter.com/baldwindavid">David Baldwin</a> - Authorization</h3>
-
-<p><a href="https://github.com/baldwindavid/authorization-examples">Authorization Examples</a></p>
-
-<h3><a href="http://twitter.com/_swanson">Matt Swanson</a> - Team-Based Git Workflow (that doesn&rsquo;t suck!)</h3>
-
-<p><a href="http://mdswanson.com/talk/2012/03/15/lightning-talk-team-based-git-workflow-that-doesnt-suck.html">Slides</a></p>
 ]]></content>
   </entry>
   
