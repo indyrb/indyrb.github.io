@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Clayton Parker | IndyRB.org]]></title>
+  <link href="http://indyrb.github.io/blog/categories/clayton-parker/atom.xml" rel="self"/>
+  <link href="http://indyrb.github.io/"/>
+  <updated>2016-03-19T23:26:40-04:00</updated>
+  <id>http://indyrb.github.io/</id>
+  <author>
+    <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup February 10, 2016]]></title>
+    <link href="http://indyrb.github.io/posts/2016/02/10/meetup-february-10/"/>
+    <updated>2016-02-10T21:00:00-05:00</updated>
+    <id>http://indyrb.github.io/posts/2016/02/10/meetup-february-10</id>
+    <content type="html"><![CDATA[<h3><a href="https://twitter.com/jheth">Joe Heth</a> - Mutation Testing</h3>
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/Ngv0GXjWSc0" frameborder="0" allowfullscreen></iframe>
+
+
+<ul>
+<li><a href="http://mutation-station.r15.railsrumble.com/">Mutation Station</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Mutation_testing">WikiPedia - Mutation Testing</a></li>
+<li><a href="https://github.com/mbj/mutant">Mutant Gem</a></li>
+<li><a href="https://github.com/amalc/rubyzoho">RubyZoho</a></li>
+</ul>
+
+
+<h3><a href="https://twitter.com/claytron">Clayton Parker</a> - Exploring Code with Pry</h3>
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/G32gcUXZAw0" frameborder="0" allowfullscreen></iframe>
+
+
+<ul>
+<li><a href="https://github.com/claytron/pry-talk">Slides Code</a></li>
+<li><a href="http://www.slideshare.net/claytron/exploring-code-with-pry">Slides and Notes</a></li>
+<li><a href="http://pryrepl.org">Pry-Repl website</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
