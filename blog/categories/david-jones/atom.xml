@@ -4,7 +4,7 @@
   <title><![CDATA[Category: David Jones | IndyRB.org]]></title>
   <link href="http://indyrb.github.io/blog/categories/david-jones/atom.xml" rel="self"/>
   <link href="http://indyrb.github.io/"/>
-  <updated>2016-05-30T21:40:02-04:00</updated>
+  <updated>2016-05-30T21:58:50-04:00</updated>
   <id>http://indyrb.github.io/</id>
   <author>
     <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
@@ -28,6 +28,21 @@
 <a href="http://voltframework.com/">Volt Framework</a> /
 <a href="https://www.youtube.com/watch?v=KbFtIt7-ge8">Building a Todo Tracking App in Volt in 10 minutes</a> /
 <a href="https://www.youtube.com/watch?v=7i6AL7Walc4">Isomorphic App Development with Ruby and Volt by Ryan Stout</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup December 11, 2014]]></title>
+    <link href="http://indyrb.github.io/posts/2014/12/11/meetup-december-11/"/>
+    <updated>2014-12-11T21:03:47-05:00</updated>
+    <id>http://indyrb.github.io/posts/2014/12/11/meetup-december-11</id>
+    <content type="html"><![CDATA[<h3><a href="http://twitter.com/unixmonkey">David Jones</a> - CGI Like it&rsquo;s 1999</h3>
+
+<ul>
+<li><a href="http://podcast.404dev.com/episodes/2014-12-10%20-%20David%20Jones%20-%20CGI%20Like%20it's%201999.mp3">Audio</a></li>
+<li><a href="https://github.com/getfretless/elevenhttp/blob/master/README.md">Code Walkthrough</a></li>
+</ul>
+
 ]]></content>
   </entry>
   
