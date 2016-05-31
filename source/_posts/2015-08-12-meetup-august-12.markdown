@@ -8,7 +8,7 @@ categories: [Matt Swanson, Andrew L Robinson III]
 
 
 ###[Matt Swanson](https://twitter.com/_swanson) - Negativity Bias in Written Communication (How to not Accidentally be an Asshole)
-[Video](http://podcast.404dev.com/episodes/2015-08-12_Matt%20Swanson%20-%20Negativity%20Bias%20in%20Written%20Communication.mp4) (19m : 3s)
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/sTlLfGZQEOA" frameborder="0" allowfullscreen></iframe>
 
 * [Slides](https://www.dropbox.com/s/c67wwqy0igekkg4/negativity-bias.pdf?dl=0)
 * [Derek Prior - Implementing a Strong Code-Review Culture (RailsConf 2015)](https://www.youtube.com/watch?v=PJjmw9TRB7s)

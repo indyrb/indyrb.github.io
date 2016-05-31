@@ -19,4 +19,4 @@ categories: [Matt Newell, Davey Strus, Chris Vannoy, Timothy Barnes]
 
 
 ###[Davey Strus](https://twitter.com/dstrus), [Chris Vannoy](https://twitter.com/chris_vannoy), [Timothy Barnes](https://twitter.com/barnes7td) - Panel: Teaching Ruby
-[Video](http://podcast.404dev.com/episodes/2015-09-09-Panel_-_Teaching_Ruby.mp4) (1h : 12m)
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/yb0EpP2xFe4" frameborder="0" allowfullscreen></iframe>
