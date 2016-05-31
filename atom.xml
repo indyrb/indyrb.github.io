@@ -4,7 +4,7 @@
   <title><![CDATA[IndyRB.org]]></title>
   <link href="http://indyrb.github.io/atom.xml" rel="self"/>
   <link href="http://indyrb.github.io/"/>
-  <updated>2016-05-30T21:15:57-04:00</updated>
+  <updated>2016-05-30T21:40:02-04:00</updated>
   <id>http://indyrb.github.io/</id>
   <author>
     <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
@@ -25,6 +25,25 @@
 
 <ul>
 <li><a href="http://bundler.io/">Bundler</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup April 13, 2016]]></title>
+    <link href="http://indyrb.github.io/posts/2016/04/13/meetup-april-13/"/>
+    <updated>2016-04-13T22:00:00-04:00</updated>
+    <id>http://indyrb.github.io/posts/2016/04/13/meetup-april-13</id>
+    <content type="html"><![CDATA[<h3><a href="https://twitter.com/ajporterfield">Andrew Porterfield</a> - Incorporating SMS into your Rails app using Twilio</h3>
+
+<script async class="speakerdeck-embed" data-id="1bed27c4a983489c8bd0c22d73feecaf" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
+
+<ul>
+<li><a href="https://www.twilio.com/">Twilio</a></li>
+<li><a href="https://www.evrconnect.com/">evrconnect</a></li>
+<li><a href="https://github.com/ajporterfield/indyrb_apr_2016_twilio">Code from the talk</a></li>
 </ul>
 
 ]]></content>
@@ -444,21 +463,6 @@
 <a href="https://speakerdeck.com/endoze/chef-presentation">Slides</a> /
 <a href="https://github.com/endoze/learn-chef">Learn Chef Repository</a> /
 <a href="https://github.com/sqm/cookbook-rubycas">Chef RubyCAS Cookbook</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Meetup March 12, 2014]]></title>
-    <link href="http://indyrb.github.io/posts/2014/03/12/meetup-march-12/"/>
-    <updated>2014-03-12T22:30:24-04:00</updated>
-    <id>http://indyrb.github.io/posts/2014/03/12/meetup-march-12</id>
-    <content type="html"><![CDATA[<h3><a href="https://twitter.com/_swanson">Jim Weirich</a> - S.O.L.I.D. Ruby (from RubyConf 2009)</h3>
-
-<p><a href="http://www.confreaks.com/videos/185-rubyconf2009-solid-ruby">Watch Now</a></p>
-
-<h3><a href="http://twitter.com/hgmenindy">The Handicapper Generals</a> - Has Anybody Seen My Code?</h3>
-
-<p>Live performance by <a href="http://www.handicappergenerals.com/">http://www.handicappergenerals.com/</a> of <a href="http://www.confreaks.com/videos/412-mountainrb2010-has-anyone-seen-my-code">Jim Weirich&rsquo;s performance at Mountain.rb 2010</a></p>
 ]]></content>
   </entry>
   
