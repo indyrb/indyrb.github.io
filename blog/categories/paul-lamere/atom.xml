@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Paul Lamere | IndyRB.org]]></title>
+  <link href="http://indyrb.github.io/blog/categories/paul-lamere/atom.xml" rel="self"/>
+  <link href="http://indyrb.github.io/"/>
+  <updated>2016-06-14T12:04:19-04:00</updated>
+  <id>http://indyrb.github.io/</id>
+  <author>
+    <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup June 8th, 2016]]></title>
+    <link href="http://indyrb.github.io/posts/2016/06/08/meetup-june-8/"/>
+    <updated>2016-06-08T22:00:00-04:00</updated>
+    <id>http://indyrb.github.io/posts/2016/06/08/meetup-june-8</id>
+    <content type="html"><![CDATA[<h3><a href="https://twitter.com/plamere">Paul Lamere</a> - Data Mining Music</h3>
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/f7XN3RuDzmc" frameborder="0" allowfullscreen></iframe>
+
+
+<ul>
+<li><a href="http://confreaks.tv/videos/railsconf2016-closing-keynote-paul-lamere">Confreaks - Closing Keynote: Paul Lamere</a></li>
+<li><a href="https://www.spotify.com/us/">Spotify</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
