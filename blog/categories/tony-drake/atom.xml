@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Tony Drake | IndyRB.org]]></title>
+  <link href="http://indyrb.github.io/blog/categories/tony-drake/atom.xml" rel="self"/>
+  <link href="http://indyrb.github.io/"/>
+  <updated>2016-09-24T10:05:44-04:00</updated>
+  <id>http://indyrb.github.io/</id>
+  <author>
+    <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup August 10, 2016]]></title>
+    <link href="http://indyrb.github.io/posts/2016/08/10/meetup-september-14/"/>
+    <updated>2016-08-10T22:00:00-04:00</updated>
+    <id>http://indyrb.github.io/posts/2016/08/10/meetup-september-14</id>
+    <content type="html"><![CDATA[<h3><a href="https://twitter.com/t27duck">Tony Drake</a> - Arbitrary Multi Tenant Configuration for ~Fun~ and Profit</h3>
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/U_u2w7qNRWg" frameborder="0" allowfullscreen></iframe>
+
+
+<ul>
+<li><a href="https://github.com/t27duck/showandtell/tree/master/presentations/indyrb/2016-09">Slides</a></li>
+</ul>
+
+
+<h3><a href="https://twitter.com/chris_vannoy">Chris Vannoy</a> - A Simple Plan: Building a Small Web API in Something New</h3>
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/BY8W7owgMEI" frameborder="0" allowfullscreen></iframe>
+
+
+<ul>
+<li><a href="https://speakerdeck.com/dummied/a-simple-plan">Slides</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
