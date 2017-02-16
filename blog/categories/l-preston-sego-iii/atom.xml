@@ -4,7 +4,7 @@
   <title><![CDATA[Category: L. Preston Sego Iii | IndyRB.org]]></title>
   <link href="http://indyrb.github.io/blog/categories/l-preston-sego-iii/atom.xml" rel="self"/>
   <link href="http://indyrb.github.io/"/>
-  <updated>2017-02-15T21:28:32-05:00</updated>
+  <updated>2017-02-16T09:21:47-05:00</updated>
   <id>http://indyrb.github.io/</id>
   <author>
     <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
@@ -32,6 +32,11 @@
 <h3><a href="https://twitter.com/armzilla82">Seth Baughman</a> - The Rails Router - How it do</h3>
 
 <iframe width="100%" height="300" src="https://www.youtube.com/embed/Phhsyoyp6_E" frameborder="0" allowfullscreen></iframe>
+
+
+<ul>
+<li><a href="http://www.fretless.com/rails-router-how-it-do/">Blog Post - The Rails Router: How it do</a></li>
+</ul>
 
 ]]></content>
   </entry>
