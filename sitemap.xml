@@ -1,215 +1,448 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>http://indyrb.github.io/posts/2016/09/14/meetup-september-14/</loc>
-    <lastmod>2016-09-14T22:00:00-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://indyrb.github.io/posts/2016/08/10/meetup-august-10/</loc>
-    <lastmod>2016-08-10T22:00:00-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://indyrb.github.io/posts/2016/06/08/meetup-june-8/</loc>
-    <lastmod>2016-06-08T22:00:00-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://indyrb.github.io/posts/2016/05/11/meetup-may-11/</loc>
-    <lastmod>2016-05-11T22:00:00-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://indyrb.github.io/posts/2016/04/13/meetup-april-13/</loc>
-    <lastmod>2016-04-13T22:00:00-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://indyrb.github.io/posts/2016/02/10/meetup-february-10/</loc>
-    <lastmod>2016-02-10T21:00:00-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://indyrb.github.io/posts/2016/01/13/meetup-january-13/</loc>
-    <lastmod>2016-01-13T21:00:00-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://indyrb.github.io/posts/2015/10/14/meetup-october-14/</loc>
-    <lastmod>2015-10-14T22:00:00-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://indyrb.github.io/posts/2015/09/20/meetup-september-9/</loc>
-    <lastmod>2015-09-20T22:00:00-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://indyrb.github.io/posts/2015/07/12/meetup-august-12/</loc>
-    <lastmod>2015-07-12T22:00:00-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://indyrb.github.io/posts/2015/07/08/meetup-july-8/</loc>
-    <lastmod>2015-07-08T22:00:00-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://indyrb.github.io/posts/2015/06/10/meetup-june-10/</loc>
-    <lastmod>2015-06-10T22:00:00-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://indyrb.github.io/posts/2015/05/13/meetup-may-13/</loc>
-    <lastmod>2015-05-13T22:00:00-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://indyrb.github.io/posts/2015/04/08/meetup-april-8/</loc>
-    <lastmod>2015-04-08T22:00:00-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://indyrb.github.io/posts/2015/03/11/meetup-march-11/</loc>
-    <lastmod>2015-03-11T22:00:00-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://indyrb.github.io/posts/2015/03/11/meetup-february-11/</loc>
-    <lastmod>2015-03-11T22:00:00-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://indyrb.github.io/posts/2014/12/11/meetup-december-11/</loc>
-    <lastmod>2014-12-11T21:03:47-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://indyrb.github.io/posts/2014/10/08/meetup-october-8/</loc>
-    <lastmod>2014-10-08T22:03:47-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://indyrb.github.io/posts/2014/09/11/meetup-september-10/</loc>
-    <lastmod>2014-09-11T00:30:24-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://indyrb.github.io/posts/2014/08/14/meetup-august-13/</loc>
-    <lastmod>2014-08-14T00:30:24-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://indyrb.github.io/posts/2014/07/10/meetup-july-9/</loc>
-    <lastmod>2014-07-10T00:30:24-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://indyrb.github.io/posts/2014/05/15/meetup-may-14/</loc>
-    <lastmod>2014-05-15T00:30:24-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://indyrb.github.io/posts/2014/05/15/meetup-june-11/</loc>
-    <lastmod>2014-05-15T00:30:24-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://indyrb.github.io/posts/2014/04/08/meetup-april-8/</loc>
-    <lastmod>2014-04-08T22:30:24-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://indyrb.github.io/posts/2014/03/12/meetup-march-12/</loc>
-    <lastmod>2014-03-12T22:30:24-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://indyrb.github.io/posts/2014/02/12/meetup-february-12/</loc>
-    <lastmod>2014-02-12T21:30:24-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://indyrb.github.io/posts/2013/12/11/meetup-december-11/</loc>
-    <lastmod>2013-12-11T21:30:24-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://indyrb.github.io/posts/2013/04/11/meetup-april-10/</loc>
-    <lastmod>2013-04-11T22:30:24-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://indyrb.github.io/posts/2012/06/14/meetup-june-14/</loc>
-    <lastmod>2012-06-14T22:30:24-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://indyrb.github.io/posts/2012/04/11/meetup-may-9/</loc>
-    <lastmod>2012-04-11T22:30:24-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://indyrb.github.io/posts/2012/04/11/meetup-april-11/</loc>
-    <lastmod>2012-04-11T22:30:24-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://indyrb.github.io/posts/2012/03/14/meetup-march-14/</loc>
-    <lastmod>2012-03-14T22:30:24-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://indyrb.github.io/posts/2012/02/08/meetup-february-8/</loc>
-    <lastmod>2012-02-08T21:30:24-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://indyrb.github.io/posts/2012/01/11/meetup-january-11/</loc>
-    <lastmod>2012-01-11T21:30:24-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://indyrb.github.io/posts/2011/11/09/meetup-november-9/</loc>
-    <lastmod>2011-11-09T21:30:24-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://indyrb.github.io/posts/2011/10/13/meetup-october-13/</loc>
-    <lastmod>2011-10-13T22:30:24-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://indyrb.github.io/posts/2011/09/14/meetup-september-14/</loc>
-    <lastmod>2011-09-14T22:30:24-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://indyrb.github.io/posts/2011/08/10/meetup-august-10/</loc>
-    <lastmod>2011-08-10T22:30:24-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://indyrb.github.io/posts/2011/07/13/meetup-july-13/</loc>
-    <lastmod>2011-07-13T22:30:24-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://indyrb.github.io/posts/2011/06/08/meetup-june-8/</loc>
-    <lastmod>2011-06-08T22:30:24-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://indyrb.github.io/posts/2011/05/11/meetup-may-11/</loc>
-    <lastmod>2011-05-11T22:30:24-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://indyrb.github.io/posts/2011/04/13/meetup-april-13/</loc>
-    <lastmod>2011-04-13T22:30:24-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://indyrb.github.io/posts/2011/03/09/meetup-march-9/</loc>
-    <lastmod>2011-03-09T21:30:24-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://indyrb.github.io/posts/2011/02/09/meetup-february-9/</loc>
-    <lastmod>2011-02-09T21:30:24-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://indyrb.github.io/posts/2011/01/12/meetup-january-12/</loc>
-    <lastmod>2011-01-12T21:30:24-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://indyrb.github.io/posts/2010/12/08/meetup-december-2010/</loc>
-    <lastmod>2010-12-08T22:52:02-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://indyrb.github.io/posts/2010/11/10/meetup-november-2010/</loc>
-    <lastmod>2010-11-10T22:37:20-05:00</lastmod>
-  </url>
-  <url>
-    <loc>http://indyrb.github.io/posts/2010/09/08/meetup-september-2010/</loc>
-    <lastmod>2010-09-08T23:18:20-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://indyrb.github.io/posts/2010/08/11/meetup-august-11/</loc>
-    <lastmod>2010-08-11T01:50:05-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://indyrb.github.io/posts/2009/08/12/meetup-august-12/</loc>
-    <lastmod>2009-08-12T01:30:24-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://indyrb.github.io/blog/archives/</loc>
-    <lastmod>2016-09-24T10:09:47-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://indyrb.github.io/</loc>
-    <lastmod>2016-09-24T10:09:47-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://indyrb.github.io/talk/</loc>
-    <lastmod>2016-09-24T10:09:47-04:00</lastmod>
-  </url>
+<url>
+<loc>http://indyrb.github.io/posts/2017/02/08/meetup-february-8/</loc>
+<lastmod>2017-02-08T21:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/2017/01/11/meetup-january-11/</loc>
+<lastmod>2017-01-11T21:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/2016/09/14/meetup-september-14/</loc>
+<lastmod>2016-09-14T22:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/2016/08/10/meetup-august-10/</loc>
+<lastmod>2016-08-10T22:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/2016/06/08/meetup-june-8/</loc>
+<lastmod>2016-06-08T22:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/2016/05/11/meetup-may-11/</loc>
+<lastmod>2016-05-11T22:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/2016/04/13/meetup-april-13/</loc>
+<lastmod>2016-04-13T22:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/2016/02/10/meetup-february-10/</loc>
+<lastmod>2016-02-10T21:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/2016/01/13/meetup-january-13/</loc>
+<lastmod>2016-01-13T21:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/2015/10/14/meetup-october-14/</loc>
+<lastmod>2015-10-14T22:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/2015/09/20/meetup-september-9/</loc>
+<lastmod>2015-09-20T22:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/2015/07/12/meetup-august-12/</loc>
+<lastmod>2015-07-12T22:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/2015/07/08/meetup-july-8/</loc>
+<lastmod>2015-07-08T22:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/2015/06/10/meetup-june-10/</loc>
+<lastmod>2015-06-10T22:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/2015/05/13/meetup-may-13/</loc>
+<lastmod>2015-05-13T22:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/2015/04/08/meetup-april-8/</loc>
+<lastmod>2015-04-08T22:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/2015/03/11/meetup-march-11/</loc>
+<lastmod>2015-03-11T22:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/2015/03/11/meetup-february-11/</loc>
+<lastmod>2015-03-11T22:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/2014/12/11/meetup-december-11/</loc>
+<lastmod>2014-12-11T21:03:47-05:00</lastmod>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/2014/10/08/meetup-october-8/</loc>
+<lastmod>2014-10-08T22:03:47-04:00</lastmod>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/2014/09/11/meetup-september-10/</loc>
+<lastmod>2014-09-11T00:30:24-04:00</lastmod>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/2014/08/14/meetup-august-13/</loc>
+<lastmod>2014-08-14T00:30:24-04:00</lastmod>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/2014/07/10/meetup-july-9/</loc>
+<lastmod>2014-07-10T00:30:24-04:00</lastmod>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/2014/05/15/meetup-may-14/</loc>
+<lastmod>2014-05-15T00:30:24-04:00</lastmod>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/2014/05/15/meetup-june-11/</loc>
+<lastmod>2014-05-15T00:30:24-04:00</lastmod>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/2014/04/08/meetup-april-8/</loc>
+<lastmod>2014-04-08T22:30:24-04:00</lastmod>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/2014/03/12/meetup-march-12/</loc>
+<lastmod>2014-03-12T22:30:24-04:00</lastmod>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/2014/02/12/meetup-february-12/</loc>
+<lastmod>2014-02-12T21:30:24-05:00</lastmod>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/2013/12/11/meetup-december-11/</loc>
+<lastmod>2013-12-11T21:30:24-05:00</lastmod>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/2013/04/11/meetup-april-10/</loc>
+<lastmod>2013-04-11T22:30:24-04:00</lastmod>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/2012/06/14/meetup-june-14/</loc>
+<lastmod>2012-06-14T22:30:24-04:00</lastmod>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/2012/04/11/meetup-may-9/</loc>
+<lastmod>2012-04-11T22:30:24-04:00</lastmod>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/2012/04/11/meetup-april-11/</loc>
+<lastmod>2012-04-11T22:30:24-04:00</lastmod>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/2012/03/14/meetup-march-14/</loc>
+<lastmod>2012-03-14T22:30:24-04:00</lastmod>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/2012/02/08/meetup-february-8/</loc>
+<lastmod>2012-02-08T21:30:24-05:00</lastmod>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/2012/01/11/meetup-january-11/</loc>
+<lastmod>2012-01-11T21:30:24-05:00</lastmod>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/2011/11/09/meetup-november-9/</loc>
+<lastmod>2011-11-09T21:30:24-05:00</lastmod>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/2011/10/13/meetup-october-13/</loc>
+<lastmod>2011-10-13T22:30:24-04:00</lastmod>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/2011/09/14/meetup-september-14/</loc>
+<lastmod>2011-09-14T22:30:24-04:00</lastmod>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/2011/08/10/meetup-august-10/</loc>
+<lastmod>2011-08-10T22:30:24-04:00</lastmod>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/2011/07/13/meetup-july-13/</loc>
+<lastmod>2011-07-13T22:30:24-04:00</lastmod>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/2011/06/08/meetup-june-8/</loc>
+<lastmod>2011-06-08T22:30:24-04:00</lastmod>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/2011/05/11/meetup-may-11/</loc>
+<lastmod>2011-05-11T22:30:24-04:00</lastmod>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/2011/04/13/meetup-april-13/</loc>
+<lastmod>2011-04-13T22:30:24-04:00</lastmod>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/2011/03/09/meetup-march-9/</loc>
+<lastmod>2011-03-09T21:30:24-05:00</lastmod>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/2011/02/09/meetup-february-9/</loc>
+<lastmod>2011-02-09T21:30:24-05:00</lastmod>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/2011/01/12/meetup-january-12/</loc>
+<lastmod>2011-01-12T21:30:24-05:00</lastmod>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/2010/12/08/meetup-december-2010/</loc>
+<lastmod>2010-12-08T22:52:02-05:00</lastmod>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/2010/11/10/meetup-november-2010/</loc>
+<lastmod>2010-11-10T22:37:20-05:00</lastmod>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/2010/09/08/meetup-september-2010/</loc>
+<lastmod>2010-09-08T23:18:20-04:00</lastmod>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/2010/08/11/meetup-august-11/</loc>
+<lastmod>2010-08-11T01:50:05-04:00</lastmod>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/2009/08/12/meetup-august-12/</loc>
+<lastmod>2009-08-12T01:30:24-04:00</lastmod>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/archives/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/talk/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/garrett-hart/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/john-nunemaker/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/matt-gordon/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/miles-sterrett/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/tim-harvey/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/dave-christiansen/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/anthony-panozzo/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/chris-vannoy/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/nate-acuff/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/joel-meador/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/james-paden/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/david-jones/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/matt-brown/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/david-woodward/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/kyle-shipley/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/jason-sisk/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/alex-conner/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/davey-strus/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/david-christiansen/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/david-estes/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/matt-swanson/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/garrett-honeycutt/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/chris-achard/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/christopher-sansone/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/anna-carey/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/daniel-dozema/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/andrew-l-robinson-iii/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/david-baldwin/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/winston-kozan/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/jim-weirich/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/the-handicapper-generals/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/chris-stephan/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/joseph-caudle/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/sandi-metz/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/eric-oestrich/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/steve-grossi/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/george-milberger/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/matt-newell/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/timothy-barnes/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/matt-duncan/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/adam-darrah/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/david-cornelius/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/joe-heth/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/clayton-parker/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/andrew-porterfield/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/paul-lamere/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/chris-zelenak/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/tony-drake/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/aaron-milam/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/l-preston-sego-iii/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/seth-baughman/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/2/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/3/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/4/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/5/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/6/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/7/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/8/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/9/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/10/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/11/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/12/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/13/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/14/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/15/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/16/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/17/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/18/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/19/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/20/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/21/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/22/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/23/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/24/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/25/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/26/</loc>
+</url>
 </urlset>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: L. Preston Sego Iii | IndyRB.org]]></title>
+  <link href="http://indyrb.github.io/blog/categories/l-preston-sego-iii/atom.xml" rel="self"/>
+  <link href="http://indyrb.github.io/"/>
+  <updated>2017-02-15T21:28:32-05:00</updated>
+  <id>http://indyrb.github.io/</id>
+  <author>
+    <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup February 8, 2017]]></title>
+    <link href="http://indyrb.github.io/posts/2017/02/08/meetup-february-8/"/>
+    <updated>2017-02-08T21:00:00-05:00</updated>
+    <id>http://indyrb.github.io/posts/2017/02/08/meetup-february-8</id>
+    <content type="html"><![CDATA[<h3><a href="https://twitter.com/nullvoxpopuli">L. Preston Sego III</a> - My App is Too Big - Architecting for the Lazy</h3>
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/23o94WPDqCg" frameborder="0" allowfullscreen></iframe>
+
+
+<ul>
+<li><a href="https://docs.google.com/presentation/d/18qV3IXbjfIeEFhEarpJBbjLqVEAV9e83RIzycWgdSFs/edit#slide=id.p">Slides</a></li>
+<li><a href="http://github.com/nullvoxpopuli/drawers">Drawers Gem</a></li>
+</ul>
+
+
+<h3><a href="https://twitter.com/armzilla82">Seth Baughman</a> - The Rails Router - How it do</h3>
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/Phhsyoyp6_E" frameborder="0" allowfullscreen></iframe>
+
+]]></content>
+  </entry>
+  
+</feed>

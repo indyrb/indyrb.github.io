@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Tony Drake | IndyRB.org]]></title>
   <link href="http://indyrb.github.io/blog/categories/tony-drake/atom.xml" rel="self"/>
   <link href="http://indyrb.github.io/"/>
-  <updated>2016-09-24T10:09:47-04:00</updated>
+  <updated>2017-02-15T21:28:32-05:00</updated>
   <id>http://indyrb.github.io/</id>
   <author>
     <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
@@ -12,6 +12,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup January 11, 2017]]></title>
+    <link href="http://indyrb.github.io/posts/2017/01/11/meetup-january-11/"/>
+    <updated>2017-01-11T21:00:00-05:00</updated>
+    <id>http://indyrb.github.io/posts/2017/01/11/meetup-january-11</id>
+    <content type="html"><![CDATA[<h3><a href="https://twitter.com/milamsoft">Aaron Milam</a> - Building a Gem</h3>
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/Qb76cAfSoIo" frameborder="0" allowfullscreen></iframe>
+
+
+<ul>
+<li><a href="http://guides.rubygems.org/make-your-own-gem">Rubygems.org - Make You Own Gem Guide</a></li>
+<li><a href="http://bundler.io/v1.14/man/bundle-gem.1.html">How to use Bundler&rsquo;s built-in gem generator and tools</a></li>
+</ul>
+
+
+<h3><a href="https://twitter.com/t27duck">Tony Drake</a> - Totally not Thrown Together PSQL Talk #84</h3>
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/NCZN6I-crmo" frameborder="0" allowfullscreen></iframe>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Meetup September 14, 2016]]></title>
