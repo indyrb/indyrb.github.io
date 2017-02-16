@@ -15,3 +15,5 @@ categories: [L. Preston Sego III, Seth Baughman]
 
 ###[Seth Baughman](https://twitter.com/armzilla82) - The Rails Router - How it do
 <iframe width="100%" height="300" src="https://www.youtube.com/embed/Phhsyoyp6_E" frameborder="0" allowfullscreen></iframe>
+
+* [Blog Post - The Rails Router: How it do](http://www.fretless.com/rails-router-how-it-do/)
