@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://indyrb.github.io/posts/2017/02/08/meetup-march-8/</loc>
+<lastmod>2017-02-08T21:00:00-05:00</lastmod>
+</url>
+<url>
 <loc>http://indyrb.github.io/posts/2017/02/08/meetup-february-8/</loc>
 <lastmod>2017-02-08T21:00:00-05:00</lastmod>
 </url>
@@ -371,6 +375,9 @@
 <loc>http://indyrb.github.io/blog/categories/seth-baughman/</loc>
 </url>
 <url>
+<loc>http://indyrb.github.io/blog/categories/ryder-timberlake/</loc>
+</url>
+<url>
 <loc>http://indyrb.github.io/posts/2/</loc>
 </url>
 <url>
@@ -444,5 +451,8 @@
 </url>
 <url>
 <loc>http://indyrb.github.io/posts/26/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/posts/27/</loc>
 </url>
 </urlset>
