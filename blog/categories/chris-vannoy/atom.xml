@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Chris Vannoy | IndyRB.org]]></title>
   <link href="http://indyrb.github.io/blog/categories/chris-vannoy/atom.xml" rel="self"/>
   <link href="http://indyrb.github.io/"/>
-  <updated>2017-03-15T12:17:14-04:00</updated>
+  <updated>2017-07-03T20:31:12-04:00</updated>
   <id>http://indyrb.github.io/</id>
   <author>
     <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
@@ -12,6 +12,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup June 14, 2017]]></title>
+    <link href="http://indyrb.github.io/posts/2017/06/14/meetup-june14/"/>
+    <updated>2017-06-14T22:00:00-04:00</updated>
+    <id>http://indyrb.github.io/posts/2017/06/14/meetup-june14</id>
+    <content type="html"><![CDATA[<h3><a href="https://twitter.com/t27duck">Tony Drake</a> - Testing a Gem Against Different Databases and Different Versions of Rails</h3>
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/7H6AiL7Hi7I" frameborder="0" allowfullscreen></iframe>
+
+
+<p>So you built a gem that integrates with ActiveRecord. You write tests, push to Github, CI passes, and then publish to RubyGems. Great! But later, someone submits a bug&hellip; the gem doesn&rsquo;t work with MySQL and Rails 4.2 and you only tested your gem against PostgreSQL and Rails 5. You want your gem to support all &ldquo;active&rdquo; versions of Rails and at least both PostgreSQL and MySQL. So how to do you it? How do you get your tests to be able to run against different versions of Rails and databases on a whim? Let&rsquo;s go through from start to finish the story of creating a gem and testing against these permutations of real world setups.</p>
+
+<p>Tony Drake is a senior web developer with about 10 years (most of it in Ruby) of total experience building sites professionally. By day, He curses DHH&rsquo;s name while hacking away at code. By night, he&rsquo;s peeling away from the starting line while blowing up other vehicles in my way in Mario Kart.</p>
+
+<h3><a href="https://twitter.com/chris_vannoy">Chris Vannoy</a> - Scripting the Mac with Ruby</h3>
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/owXhe4mKqwc" frameborder="0" allowfullscreen></iframe>
+
+
+<p>Ruby’s a scripting language, so why not use it for, you know, scripting. When you combine MacOS’s built-in scripting and automation tools - such as Automator, launchd, AppleScript, Workflows and Services - with Ruby, nothing is out of reach. Let’s walk through MacOS’ core automation and scripting tools, and use a dash of Ruby to build ourselves something useful (or, failing that, something silly).</p>
+
+<p>Chris has been developing in Ruby for more than a decade, is a former instructor at The Iron Yard coding bootcamp, and current Senior Engineer at Sigtsr. He cares entirely too much about college football, naps, and podcasts.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Meetup September 14, 2016]]></title>
