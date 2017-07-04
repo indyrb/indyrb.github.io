@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Meetup June 14, 2017"
+date: 2017-06-14 21:00:00 -0500
+comments: true
+categories: [Tony Drake, Chris Vannoy]
+---
+
+###[Tony Drake](https://twitter.com/t27duck) - Testing a Gem Against Different Databases and Different Versions of Rails
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/7H6AiL7Hi7I" frameborder="0" allowfullscreen></iframe>
+
+So you built a gem that integrates with ActiveRecord. You write tests, push to Github, CI passes, and then publish to RubyGems. Great! But later, someone submits a bug... the gem doesn't work with MySQL and Rails 4.2 and you only tested your gem against PostgreSQL and Rails 5. You want your gem to support all "active" versions of Rails and at least both PostgreSQL and MySQL. So how to do you it? How do you get your tests to be able to run against different versions of Rails and databases on a whim? Let's go through from start to finish the story of creating a gem and testing against these permutations of real world setups.
+
+Tony Drake is a senior web developer with about 10 years (most of it in Ruby) of total experience building sites professionally. By day, He curses DHH's name while hacking away at code. By night, he's peeling away from the starting line while blowing up other vehicles in my way in Mario Kart.  
+
+
+###[Chris Vannoy](https://twitter.com/chris_vannoy) - Scripting the Mac with Ruby
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/owXhe4mKqwc" frameborder="0" allowfullscreen></iframe>
+
+Ruby’s a scripting language, so why not use it for, you know, scripting. When you combine MacOS’s built-in scripting and automation tools - such as Automator, launchd, AppleScript, Workflows and Services - with Ruby, nothing is out of reach. Let’s walk through MacOS’ core automation and scripting tools, and use a dash of Ruby to build ourselves something useful (or, failing that, something silly).
+
+Chris has been developing in Ruby for more than a decade, is a former instructor at The Iron Yard coding bootcamp, and current Senior Engineer at Sigtsr. He cares entirely too much about college football, naps, and podcasts. 
