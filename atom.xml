@@ -4,7 +4,7 @@
   <title><![CDATA[IndyRB.org]]></title>
   <link href="http://indyrb.github.io/atom.xml" rel="self"/>
   <link href="http://indyrb.github.io/"/>
-  <updated>2017-07-03T20:31:12-04:00</updated>
+  <updated>2017-07-18T12:35:59-04:00</updated>
   <id>http://indyrb.github.io/</id>
   <author>
     <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup July 12, 2017]]></title>
+    <link href="http://indyrb.github.io/posts/2017/07/12/meetup-july12/"/>
+    <updated>2017-07-12T22:00:00-04:00</updated>
+    <id>http://indyrb.github.io/posts/2017/07/12/meetup-july12</id>
+    <content type="html"><![CDATA[<h3><a href="https://twitter.com/panozzaj">Anthony Panozzo</a> - Sidekiq</h3>
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/6cihVOlBoes" frameborder="0" allowfullscreen></iframe>
+
+
+<p>In this presentation, you&rsquo;ll learn about why you might want to consider an asynchronous worker queue for your web application. We&rsquo;ll talk about some Ruby frameworks for doing so, and then cover Sidekiq in depth. We&rsquo;ll start with basic usage and testing of Sidekiq jobs. To provide more context, we will run through a quick overview of Redis (which Sidekiq is built on) and what it can be used for. Finally, we will explore some useful Sidekiq Pro extensions and point out some important things to watch out for.</p>
+
+<p>Who is Anthony?</p>
+
+<p>Hi, I&rsquo;m Anthony Panozzo. I work as a Senior Software Engineer at OurHealth, and have used Sidekiq on a couple of different projects over the last few years. One time I woke up and had a million jobs in a queue and was very concerned.</p>
+
+<h3><a href="http://occameducation.com/about/leadership/">Daniel Brown</a> - WTF is Motivation?</h3>
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/mzH6dMiBvkk" frameborder="0" allowfullscreen></iframe>
+
+
+<p>Ennui, lethargy and lassitude are fancy words often used to describe a basic problem: Person A doesn’t like doing Thing B and feels an obvious lack of enthusiasm &hellip; but Thing B is kind of important. In other words, no one calls you lazy because you didn’t create a temporary fork-and-spoon sculpture using your new cutlery. You get called lazy when you are supposed to do something that is important to somebody &hellip; and you don’t.</p>
+
+<p>This talk is all about Self-Determination Theory (SDT), a psychological model that describes motivation as coming from autonomy, competency and relevance. My aim is to teach you to use SDT to build internal motivation when it doesn&rsquo;t come naturally and teach others to do the same.</p>
+
+<p>Who is Daniel?</p>
+
+<p>I (Daniel Brown) am a husband (to Nina), co-founder (of Occam Education) and code monkey (Rails!) in roughly that order. I studied Arabic and Russian as an undergrad, went to Syria and then dropped out of an MS program in Arabic to start Occam Education with my brother. In 2014, I went to a Rails coding bootcamp, and in 2016, I received an MS in Applied Positive Psychology. I have worked in education (tutoring and ESL) since 2005, and much of my recent work has been in coaching adolescents striving to build internal motivation and grit.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Meetup June 14, 2017]]></title>
@@ -502,34 +533,6 @@ When we enforce conventions in a project, we often do so without a good understa
 <h3><a href="https://twitter.com/BFGeorge9000">George Milberger</a> - The Theater of MVC</h3>
 
 <p><a href="http://podcast.404dev.com/episodes/085_George_Milberger_-_The_Theater_of_MVC.mp4">Video</a> (13m : 36s)</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Meetup March 11, 2015]]></title>
-    <link href="http://indyrb.github.io/posts/2015/03/11/meetup-february-11/"/>
-    <updated>2015-03-11T22:00:00-04:00</updated>
-    <id>http://indyrb.github.io/posts/2015/03/11/meetup-february-11</id>
-    <content type="html"><![CDATA[<h3><a href="https://twitter.com/baldwindavid">David Baldwin</a>, <a href="https://twitter.com/ar3_me">Andrew L Robinson III</a>, <a href="https://twitter.com/mileszs">Miles Sterrett</a> - Unconventional Rails Objects</h3>
-
-<p>We discuss some of the objects written into Rails applications we work with that are not common in Rails. We talk a bit about our thoughts on them, and lead a discussion for the whole group.</p>
-
-<p><a href="http://podcast.404dev.com/episodes/088_Unconventional_Rails_Objects.mp3">Audio</a> (1h : 37m)</p>
-
-<p>Links to other stuff discussed and post-discussion from the mailing list:</p>
-
-<ul>
-<li><a href="https://github.com/jimweirich/wyriki/tree/master/app">Jim Weirich&rsquo;s &ldquo;Wyriki&rdquo;</a></li>
-<li><a href="http://objectsonrails.com">Avdi Grimm&rsquo;s &ldquo;Objects on Rails&rdquo;</a></li>
-<li><a href="https://github.com/collectiveidea/interactor">Interactor Gem</a></li>
-<li><a href="http://www.objc.io/issues/13-architecture/viper/">Viper pattern (IOS)</a></li>
-<li><a href="http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/">7 Patterns to Refactor Fat ActiveRecord Models</a></li>
-<li><a href="https://github.com/anthonator/soulless">Soulless Gem</a></li>
-<li><a href="http://brewhouse.io/blog/2014/04/30/gourmet-service-objects.html">Gourmet Service Objects</a></li>
-<li><a href="https://github.com/apotonick/trailblazer">Trailblazer</a></li>
-<li><a href="http://clean-ruby.com/">Jim Gay&rsquo;s &ldquo;Clean Ruby&rdquo;</a></li>
-</ul>
-
 ]]></content>
   </entry>
   
