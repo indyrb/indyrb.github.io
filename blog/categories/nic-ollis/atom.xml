@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Nic Ollis | IndyRB.org]]></title>
+  <link href="http://indyrb.github.io/blog/categories/nic-ollis/atom.xml" rel="self"/>
+  <link href="http://indyrb.github.io/"/>
+  <updated>2017-08-10T13:40:32-04:00</updated>
+  <id>http://indyrb.github.io/</id>
+  <author>
+    <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup August 9, 2017]]></title>
+    <link href="http://indyrb.github.io/posts/2017/08/09/meetup-august9/"/>
+    <updated>2017-08-09T22:00:00-04:00</updated>
+    <id>http://indyrb.github.io/posts/2017/08/09/meetup-august9</id>
+    <content type="html"><![CDATA[<h3><a href="https://twitter.com/nic_ollis">Nic Ollis</a> - GraphQL and You</h3>
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/-TaqAcPQ1Jk" frameborder="0" allowfullscreen></iframe>
+
+
+<p>Nic provides a beginners intro into <a href="http://graphql.org/">GraphQL</a>. How its compares to REST, as well how easy it is to get it integrated into your existing Rails project with a small tutorial on adding a query operation to a web app.</p>
+
+<p>Nic Ollis is a Software Engineer at <a href="https://www.clustertruck.com/">ClusterTruck</a>. He primarily focuses on creating amazing software using Rails and React, with interest in moving over into machine learning in the near future. You can find out about his past and current projects at <a href="http://ollis.me/">http://ollis.me</a></p>
+
+<ul>
+<li><a href="/assets/20170809/GraphQL%20and%20You.pdf">Slides</a></li>
+<li><a href="http://graphql.org/">GraphQL</a></li>
+<li><a href="https://github.com/rmosolgo/graphql-ruby">GraphQL-Ruby Gem</a></li>
+<li><a href="http://bit.ly/indy_rb_otter">Otter (example Rails project with GraphQL)</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>

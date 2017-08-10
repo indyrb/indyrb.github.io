@@ -4,7 +4,7 @@
   <title><![CDATA[IndyRB.org]]></title>
   <link href="http://indyrb.github.io/atom.xml" rel="self"/>
   <link href="http://indyrb.github.io/"/>
-  <updated>2017-07-18T12:35:59-04:00</updated>
+  <updated>2017-08-10T13:40:32-04:00</updated>
   <id>http://indyrb.github.io/</id>
   <author>
     <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup August 9, 2017]]></title>
+    <link href="http://indyrb.github.io/posts/2017/08/09/meetup-august9/"/>
+    <updated>2017-08-09T22:00:00-04:00</updated>
+    <id>http://indyrb.github.io/posts/2017/08/09/meetup-august9</id>
+    <content type="html"><![CDATA[<h3><a href="https://twitter.com/nic_ollis">Nic Ollis</a> - GraphQL and You</h3>
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/-TaqAcPQ1Jk" frameborder="0" allowfullscreen></iframe>
+
+
+<p>Nic provides a beginners intro into <a href="http://graphql.org/">GraphQL</a>. How its compares to REST, as well how easy it is to get it integrated into your existing Rails project with a small tutorial on adding a query operation to a web app.</p>
+
+<p>Nic Ollis is a Software Engineer at <a href="https://www.clustertruck.com/">ClusterTruck</a>. He primarily focuses on creating amazing software using Rails and React, with interest in moving over into machine learning in the near future. You can find out about his past and current projects at <a href="http://ollis.me/">http://ollis.me</a></p>
+
+<ul>
+<li><a href="http://indyrb.github.io/assets/20170809/GraphQL%20and%20You.pdf">Slides</a></li>
+<li><a href="http://graphql.org/">GraphQL</a></li>
+<li><a href="https://github.com/rmosolgo/graphql-ruby">GraphQL-Ruby Gem</a></li>
+<li><a href="http://bit.ly/indy_rb_otter">Otter (example Rails project with GraphQL)</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Meetup July 12, 2017]]></title>
@@ -517,22 +541,6 @@ When we enforce conventions in a project, we often do so without a good understa
 <li><a href="https://github.com/unixmonkey/voltron">Voltron (Volt.rb)</a></li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Meetup March 11]]></title>
-    <link href="http://indyrb.github.io/posts/2015/03/11/meetup-march-11/"/>
-    <updated>2015-03-11T22:00:00-04:00</updated>
-    <id>http://indyrb.github.io/posts/2015/03/11/meetup-march-11</id>
-    <content type="html"><![CDATA[<h3><a href="https://twitter.com/stevegrossi">Steve Grossi</a> - Load Testing Rails apps with Apache Bench, Siege, and JMeter</h3>
-
-<p><a href="http://podcast.404dev.com/episodes/084_Steve_Grossi_-_Load_Testing.mp4">Video</a> (52m : 01s) /
-<a href="http://work.stevegrossi.com/2015/02/07/load-testing-rails-apps-with-apache-bench-siege-and-jmeter/">Related Blog Post</a></p>
-
-<h3><a href="https://twitter.com/BFGeorge9000">George Milberger</a> - The Theater of MVC</h3>
-
-<p><a href="http://podcast.404dev.com/episodes/085_George_Milberger_-_The_Theater_of_MVC.mp4">Video</a> (13m : 36s)</p>
 ]]></content>
   </entry>
   
