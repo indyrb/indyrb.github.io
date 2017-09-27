@@ -1,0 +1,340 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>IndyRB.org</title>
+  <meta name="author" content="The Indianapolis Ruby Brigade">
+
+  
+  <meta name="description" content="Garrett Hart - CouchDB Video (22m : 49s) John Nunemaker - MongoMapper Audio (1h : 1m) /
+Slides
+">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://indyrb.github.io/posts/29/">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/atom.xml" rel="alternate" title="IndyRB.org" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="/javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="//fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.4.0/slick.css"/>
+<script type="text/javascript" src="/javascripts/formatdate.js"></script>
+
+  
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <a href="/"><img src="/images/indyrb_logo.png"></a>
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="https://www.google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="sitesearch" value="indyrb.github.io">
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Meetings</a></li>
+  <li><a href="/talk">Talk</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div class="blog-index">
+  
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/posts/2009/08/12/meetup-august-12/">Meetup August 2009</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+<time class='entry-date' datetime='2009-08-12T01:30:24-04:00'><span class='date'><span class='date-month'>Aug</span> <span class='date-day'>12</span><span class='date-suffix'>th</span>, <span class='date-year'>2009</span></span> <span class='time'>1:30 am</span></time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><h3><a href="https://twitter.com/thirdshift">Garrett Hart</a> - CouchDB</h3>
+
+<p><a href="http://podcast.404dev.com/episodes/010_Garrett_Hart-CouchDB.mp4">Video</a> (22m : 49s)</p>
+
+<h3><a href="https://twitter.com/jnunemaker">John Nunemaker</a> - MongoMapper</h3>
+
+<p><a href="http://podcast.404dev.com/episodes/011_John_Nunemaker-MongoMapper.mp3">Audio</a> (1h : 1m) /
+<a href="http://railstips.org/blog/archives/2009/08/19/mongomapper-indy-rb-presentation/">Slides</a></p>
+</div>
+  
+  
+
+
+    </article>
+  
+  <div class="pagination">
+    
+    <a href="/blog/archives">Meeting Archives</a>
+    
+    <a class="next" href="/posts/28">Newer &rarr;</a>
+    
+  </div>
+</div>
+<aside class="sidebar">
+  
+    <section>
+  <h1>indy.rb</h1>
+  <p>
+    A group that meets once a month to chat about Ruby on Rails and the Ruby programming language.
+  </p>
+  <p><a href="http://www.meetup.com/indyrb/">Join now</a> (it&#8217;s free)</p>
+</section>
+<script>
+  $(document).ready(function(){
+
+    $.getJSON("http://api.meetup.com/events.json/?topic=ruby&groupnum=89&key=6a7801841e16295e1e722e254370&callback=?",
+    function (data) {
+      nextMeetup = data.results[0];
+      $('#next_meetup_name').html(nextMeetup.name);
+      date = new Date(nextMeetup.time)
+      $('#next_meetup_date').html(date.formatDate('l, F j'));
+      $('#next_meetup_time').html(date.formatDate('g:i a'));
+      $('#next_meetup_rsvpcount').html(nextMeetup.rsvpcount);
+      $('.next_meetup_event_url').attr('href', nextMeetup.event_url)
+    });
+  });
+</script>
+<section>
+  <div id="next_meetup">
+    <h1>Next Meetup</h1>
+    <strong>Date:</strong>
+    <span id="next_meetup_date">2nd Wednesday of the month</span>
+    <br>
+    <strong>Time:</strong>
+    <span id="next_meetup_time">7:00 pm</span>
+    <br>
+    <a class="next_meetup_event_url" href="#">Location and Additional Details</a>
+    <br>
+    <strong># Attending:</strong>
+    <span id="next_meetup_rsvpcount"></span>
+    <a class="next_meetup_event_url" href="#">RSVP Now!</a>
+  </div>
+</section>
+<section>
+  <h1>YouTube</h1>
+  <a href="https://www.youtube.com/channel/UCuwZgyA6KVErxK3mCf2Wzdg">Subscribe to our YouTube channel to view past presentations</a>
+</section>
+<section>
+  <h1>Chat</h1>
+  <ul>
+    <li>Join us at #indy_rb on <a href="https://indyhackers-slack.herokuapp.com/">Slack</a></li>
+    <li>Join our <a href="https://www.flowdock.com/invitations/94a1bf817fd42ec852f693da30f685ddccb57a7c">Flowdock channel</a></li>
+    <li>Join us at #indyrb on <a href="http://webchat.freenode.net/">Freenode IRC</a></li>
+  </ul>
+</section>
+<section>
+  <h1>Sponsors</h1>
+  <div class="sponsors">
+
+    <div class="sponsor">
+      <div class="img-container">
+        <a href="http://www.getfretless.com"><img src="/images/fretless_logo.png" style="width:200px;margin:0 8px 2px 0;padding:2px;"></a>
+      </div>
+      <p>
+        <strong>
+          Sponsored by Fretless
+        </strong>
+      </p>
+      <p>
+        <a href="http://www.getfretless.com" target="_blank">Fretless</a>
+        automates businesses with quality software. We&#8217;re a consultancy in Indianapolis that works with companies like yours to build solutions to automate and streamline your business.
+      </p>
+    </div>
+
+    <div class="sponsor">
+      <div class="img-container">
+        <a href="http://www.lessonly.com/"><img src="/images/lessonly_logo.png" style="width:200px;margin:0 8px 2px 0;padding:2px;background-color: #292933"></a>
+      </div>
+      <p>
+        <strong>
+          Sponsored by Lessonly
+        </strong>
+      </p>
+      <p>
+        <a href="http://www.lessonly.com/" target="_blank">Lessonly</a>
+        is modern learning software used by teams to translate important work knowledge into Lessons that accelerate productivity.
+      </p>
+    </div>
+
+    <div class="sponsor">
+      <div class="img-container">
+        <a href="http://springbuk.com"><img src="/images/springbuk_logo.png" style="width:200px;margin:0 8px 2px 0"></a>
+      </div>
+      <p>
+        <strong>
+          Sponsored by Springbuk
+        </strong>
+      </p>
+      <p>
+        <a href="http://ourhealth.org" target="_blank">Springbuk</a>
+        is a health analytics solution that offers a <strong>complete view</strong> of an employer population.
+      </p>
+    </div>
+
+    <div class="sponsor">
+      <div class="img-container">
+        <a href="http://flowdock.com"><img src="/images/flowdock_logo.png" style="width:200px;margin:0 8px 2px 0;padding:2px;"></a>
+      </div>
+      <p>
+        <strong>
+          Sponsored by Flowdock
+        </strong>
+      </p>
+      <p>
+        <a href="http://flowdock.com" target="_blank">Flowdock</a>
+        is a team collaboration app for desktop, mobile and web. Work on things that matter, be transparent and solve problems across tools, teams and time zones.
+      </p>
+    </div>
+  </div>
+
+ <script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.4.0/slick.min.js"></script>
+
+  <script type="text/javascript">
+    $(document).ready(function(){
+      $('.sponsors').slick({
+        autoplay: true,
+        autoplaySpeed: 4000,
+        arrows: false,
+        fade: true,
+        speed: 100
+      });
+    });
+  </script>
+</section>
+<section>
+  <h1>Recent Meetings</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/posts/2017/09/13/meetup-september13/">Meetup September 13, 2017</a>
+      </li>
+    
+      <li class="post">
+        <a href="/posts/2017/08/09/meetup-august9/">Meetup August 9, 2017</a>
+      </li>
+    
+      <li class="post">
+        <a href="/posts/2017/07/12/meetup-july12/">Meetup July 12, 2017</a>
+      </li>
+    
+      <li class="post">
+        <a href="/posts/2017/06/14/meetup-june14/">Meetup June 14, 2017</a>
+      </li>
+    
+      <li class="post">
+        <a href="/posts/2017/02/08/meetup-march-8/">Meetup March 8, 2017</a>
+      </li>
+    
+  </ul>
+</section>
+
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating&#8230;</li>
+  </ul>
+  
+  <a href="https://github.com/indyrb">@indyrb</a> on GitHub
+  
+  <script type="text/javascript">
+    $(document).ready(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'indyrb',
+            count: 5,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
+
+
+
+
+  
+</aside>
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2017 - The Indianapolis Ruby Brigade -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

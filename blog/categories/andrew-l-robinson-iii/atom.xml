@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Andrew L Robinson Iii | IndyRB.org]]></title>
   <link href="http://indyrb.github.io/blog/categories/andrew-l-robinson-iii/atom.xml" rel="self"/>
   <link href="http://indyrb.github.io/"/>
-  <updated>2017-08-10T13:40:32-04:00</updated>
+  <updated>2017-09-27T15:49:39-04:00</updated>
   <id>http://indyrb.github.io/</id>
   <author>
     <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
@@ -12,6 +12,76 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup September 13, 2017]]></title>
+    <link href="http://indyrb.github.io/posts/2017/09/13/meetup-september13/"/>
+    <updated>2017-09-13T22:00:00-04:00</updated>
+    <id>http://indyrb.github.io/posts/2017/09/13/meetup-september13</id>
+    <content type="html"><![CDATA[<h3>Lightning Panel!</h3>
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/zMnFZz3sYZQ" frameborder="0" allowfullscreen></iframe>
+
+
+<h3>Topics:</h3>
+
+<ul>
+<li>What is important to me when looking for a job?</li>
+<li>What is important to me when looking to hire?</li>
+<li>What code lesson could you have learned early in your career that would&rsquo;ve saved you a ton of pain?</li>
+<li>What gem do you keep returning to, time and time again? i.e. a long-lived, super useful, under-the-radar thing.</li>
+<li>What is your favorite non-standard pattern to apply to a Rails project?</li>
+<li>When do you open source your code? How do you keep up with managing it?</li>
+</ul>
+
+
+<h3>Panelists:</h3>
+
+<p><a href="https://twitter.com/stevehodgesindy">Steve Hodges</a></p>
+
+<p>Steve is a full-time rubyist and director of technology at Localstake, an Indy-based financial startup. He&rsquo;s written web apps since 1999, switching to primarily working in Ruby on Rails work in 2011.</p>
+
+<p><a href="https://twitter.com/claytron">Clayton Parker</a></p>
+
+<p>Clayton is the DevOps wizard at Octiv, where he got his professional start in Ruby. When he&rsquo;s not hacking away in Vim, you&rsquo;ll find him on the soccer field or drinking a craft beer somewhere around town.</p>
+
+<p><a href="http://twitter.com/ar3_me">Andrew Robinson III</a></p>
+
+<p>Andrew is the head of product and engineering at Lessonly. He started out doing Net and Java (even some COBOL back in the high school days)&hellip; but found the light around 2011 which is when he found RoR. He loves engineering, but recently his passions have been split between engineering, design, product, and servant leadership.</p>
+
+<p><a href="http://twitter.com/annamul">Anna Carey</a></p>
+
+<p>Anna is a Team Lead/Senior Developer for MOBI and has been programming in Ruby since 2007.  She likes DevOps and performance work far more than UI. Before that, she wrote java for the NCAA. She has two adorable goofball daughters that are 1 and 5.</p>
+
+<p><a href="https://twitter.com/t27duck">Tony Drake</a></p>
+
+<p>A senior web developer with about 10 years (most of it in Ruby) of total experience building web sites professionally. By day, he curses DHH&rsquo;s name while hacking away at code and trying to keep junior devs from scraping their knees. By night, he&rsquo;s peeling away from the starting line while blowing up other vehicles in his way in Mario Kart.</p>
+
+<h3>Resources:</h3>
+
+<ul>
+<li><a href="http://dilbert.com/">Dilbert</a></li>
+<li><a href="https://github.com">GitHub</a></li>
+<li><a href="https://www.python.org/dev/peps/pep-0020/">The Zen of Python</a></li>
+<li><a href="https://www.sandimetz.com/99bottles/sample/#_shameless_green">Sandi Metz - Shameless Green</a></li>
+<li><a href="http://www.engineyard.com/blog/keeping-your-rails-controllers-dry-with-services">Service Objects (POROs)</a></li>
+<li><a href="https://robots.thoughtbot.com/activemodel-form-objects">Form Objects</a></li>
+<li><a href="https://semaphoreci.com/community/tutorials/how-to-reduce-controller-bloat-with-interactors-in-ruby">Interactor pattern</a></li>
+<li><a href="https://practicingruby.com/articles/creational-design-patterns#factory-method">Factory Pattern</a></li>
+<li><a href="https://github.com/mperham/sidekiq">Sidekiq</a></li>
+<li><a href="https://github.com/resque/resque">Resque</a></li>
+<li><a href="http://haml.info/">Haml Comments</a></li>
+<li><a href="https://activeadmin.info/">ActiveAdmin</a></li>
+<li><a href="http://pryrepl.org/">Pry</a></li>
+<li><a href="https://github.com/activerecord-hackery/squeel">Squeel</a></li>
+<li><a href="https://github.com/elabs/pundit">Pundit</a></li>
+<li><a href="https://github.com/dejan/rails_panel">Rails Panel</a></li>
+<li><a href="https://github.com/flyerhzm/bullet">Bullet</a></li>
+<li><a href="https://github.com/cldwalker/hirb">Hirb</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Meetup August 12, 2015]]></title>
@@ -113,29 +183,6 @@
 <h3><a href="http://twitter.com/ar3_me">Andrew L Robinson III</a> - Discussion on contributing to the Indy.rb UserVoice and future meeting planning</h3>
 
 <p><a href="http://indyrb.uservoice.com">Indy.rb UserVoice Forum</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Meetup December 11, 2013]]></title>
-    <link href="http://indyrb.github.io/posts/2013/12/11/meetup-december-11/"/>
-    <updated>2013-12-11T21:30:24-05:00</updated>
-    <id>http://indyrb.github.io/posts/2013/12/11/meetup-december-11</id>
-    <content type="html"><![CDATA[<h3><a href="http://twitter.com/ar3_me">Andrew L Robinson III </a> - Agile in a Non-agile World</h3>
-
-<p><a href="http://prezi.com/tfegr-9gr2se/agile-in-a-non-agile-world/?utm_campaign=share&amp;utm_medium=copy">Agile in a Non-Agile World</a></p>
-
-<h3><a href="http://twitter.com/joelmeador">Joel Meador</a> - PDF Generation as-a-service with DocRaptor</h3>
-
-<p><a href="https://docraptor.com/">DocRaptor</a></p>
-
-<h3><a href="http://twitter.com/baldwindavid">David Baldwin</a> - Authorization</h3>
-
-<p><a href="https://github.com/baldwindavid/authorization-examples">Authorization Examples</a></p>
-
-<h3><a href="http://twitter.com/_swanson">Matt Swanson</a> - Team-Based Git Workflow (that doesn&rsquo;t suck!)</h3>
-
-<p><a href="http://mdswanson.com/talk/2012/03/15/lightning-talk-team-based-git-workflow-that-doesnt-suck.html">Slides</a></p>
 ]]></content>
   </entry>
   
