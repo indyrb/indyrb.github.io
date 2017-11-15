@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Chris Vannoy | IndyRB.org]]></title>
   <link href="http://indyrb.github.io/blog/categories/chris-vannoy/atom.xml" rel="self"/>
   <link href="http://indyrb.github.io/"/>
-  <updated>2017-09-27T15:49:39-04:00</updated>
+  <updated>2017-11-15T14:59:45-06:00</updated>
   <id>http://indyrb.github.io/</id>
   <author>
     <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Meetup June 14, 2017]]></title>
     <link href="http://indyrb.github.io/posts/2017/06/14/meetup-june14/"/>
-    <updated>2017-06-14T22:00:00-04:00</updated>
+    <updated>2017-06-14T21:00:00-05:00</updated>
     <id>http://indyrb.github.io/posts/2017/06/14/meetup-june14</id>
     <content type="html"><![CDATA[<h3><a href="https://twitter.com/t27duck">Tony Drake</a> - Testing a Gem Against Different Databases and Different Versions of Rails</h3>
 
@@ -41,7 +41,7 @@
   <entry>
     <title type="html"><![CDATA[Meetup September 14, 2016]]></title>
     <link href="http://indyrb.github.io/posts/2016/09/14/meetup-september-14/"/>
-    <updated>2016-09-14T22:00:00-04:00</updated>
+    <updated>2016-09-14T21:00:00-05:00</updated>
     <id>http://indyrb.github.io/posts/2016/09/14/meetup-september-14</id>
     <content type="html"><![CDATA[<h3><a href="https://twitter.com/t27duck">Tony Drake</a> - Arbitrary Multi Tenant Configuration for <strike>Fun</strike> and Profit</h3>
 
@@ -68,7 +68,7 @@
   <entry>
     <title type="html"><![CDATA[Meetup August 10, 2016]]></title>
     <link href="http://indyrb.github.io/posts/2016/08/10/meetup-august-10/"/>
-    <updated>2016-08-10T22:00:00-04:00</updated>
+    <updated>2016-08-10T21:00:00-05:00</updated>
     <id>http://indyrb.github.io/posts/2016/08/10/meetup-august-10</id>
     <content type="html"><![CDATA[<h3><a href="https://twitter.com/netshade">Chris Zelenak</a> - So You Have to Build Some Analytics</h3>
 
@@ -98,7 +98,7 @@
   <entry>
     <title type="html"><![CDATA[Meetup September 9, 2015]]></title>
     <link href="http://indyrb.github.io/posts/2015/09/20/meetup-september-9/"/>
-    <updated>2015-09-20T22:00:00-04:00</updated>
+    <updated>2015-09-20T21:00:00-05:00</updated>
     <id>http://indyrb.github.io/posts/2015/09/20/meetup-september-9</id>
     <content type="html"><![CDATA[<h3><a href="https://twitter.com/matthewrnewell">Matt Newell</a> - How to Parse Excel with Ruby</h3>
 
@@ -124,7 +124,7 @@
   <entry>
     <title type="html"><![CDATA[Meetup November 2010]]></title>
     <link href="http://indyrb.github.io/posts/2010/11/10/meetup-november-2010/"/>
-    <updated>2010-11-10T22:37:20-05:00</updated>
+    <updated>2010-11-10T21:37:20-06:00</updated>
     <id>http://indyrb.github.io/posts/2010/11/10/meetup-november-2010</id>
     <content type="html"><![CDATA[<h3><a href="https://twitter.com/esquivalient">Matt Gordon</a> - Ruby News local &amp; Global</h3>
 

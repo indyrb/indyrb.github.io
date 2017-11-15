@@ -4,7 +4,7 @@
   <title><![CDATA[IndyRB.org]]></title>
   <link href="http://indyrb.github.io/atom.xml" rel="self"/>
   <link href="http://indyrb.github.io/"/>
-  <updated>2017-09-27T15:49:39-04:00</updated>
+  <updated>2017-11-15T14:59:45-06:00</updated>
   <id>http://indyrb.github.io/</id>
   <author>
     <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
@@ -14,9 +14,35 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Meetup November 8th, 2017]]></title>
+    <link href="http://indyrb.github.io/posts/2017/11/08/meetup-november8/"/>
+    <updated>2017-11-08T20:00:00-06:00</updated>
+    <id>http://indyrb.github.io/posts/2017/11/08/meetup-november8</id>
+    <content type="html"><![CDATA[<h3><a href="https://twitter.com/dan_alyst">Daniel Carpenter</a> - Let&rsquo;s Do Some (Data) Science in Ruby</h3>
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/3MZFCB8A5AY" frameborder="0" allowfullscreen></iframe>
+
+
+<p>When faced with a data science problem, most people reach for Python or R but there is a growing ecosystem of data science tools for Ruby. Daniel briefly discusses what data science is, how it is similar and different from software engineering, and gives an introduction to some of the tools available to Rubyists.</p>
+
+<p>Daniel Carpenter is a software engineer and data scientist with special interest in health technology. He works for Omada Health, a San Francisco based digital health company offering online health coaching for pre-diabetes. He&rsquo;s been a software engineer for about 8 years and Rubyist for about 6 years.</p>
+
+<h3><a href="https://twitter.com/kyleashipley">Kyle Shipley</a> - Webpacker Basics for a Scalable Frontend</h3>
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/50KHLBaOU18" frameborder="0" allowfullscreen></iframe>
+
+
+<p>Rails has had a pathological aversion to frontend JavaScript frameworks for years, but no more! Learn about Webpack, the module bundling technology that&rsquo;s taken the JavaScript world by storm &ndash; at least for a week or two &ndash; and how you can incorporate it seamlessly into your Rails application.</p>
+
+<p>Who is Kyle Shipley?
+He&rsquo;s the co-founder of Woven, exploring better ways to hire software engineers. He&rsquo;s been fighting modern JavaScript frameworks since Backbone in 2011 and actually started enjoying them in 2014 with React.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Meetup September 13, 2017]]></title>
     <link href="http://indyrb.github.io/posts/2017/09/13/meetup-september13/"/>
-    <updated>2017-09-13T22:00:00-04:00</updated>
+    <updated>2017-09-13T21:00:00-05:00</updated>
     <id>http://indyrb.github.io/posts/2017/09/13/meetup-september13</id>
     <content type="html"><![CDATA[<h3>Lightning Panel!</h3>
 
@@ -86,7 +112,7 @@
   <entry>
     <title type="html"><![CDATA[Meetup August 9, 2017]]></title>
     <link href="http://indyrb.github.io/posts/2017/08/09/meetup-august9/"/>
-    <updated>2017-08-09T22:00:00-04:00</updated>
+    <updated>2017-08-09T21:00:00-05:00</updated>
     <id>http://indyrb.github.io/posts/2017/08/09/meetup-august9</id>
     <content type="html"><![CDATA[<h3><a href="https://twitter.com/nic_ollis">Nic Ollis</a> - GraphQL and You</h3>
 
@@ -110,7 +136,7 @@
   <entry>
     <title type="html"><![CDATA[Meetup July 12, 2017]]></title>
     <link href="http://indyrb.github.io/posts/2017/07/12/meetup-july12/"/>
-    <updated>2017-07-12T22:00:00-04:00</updated>
+    <updated>2017-07-12T21:00:00-05:00</updated>
     <id>http://indyrb.github.io/posts/2017/07/12/meetup-july12</id>
     <content type="html"><![CDATA[<h3><a href="https://twitter.com/panozzaj">Anthony Panozzo</a> - Sidekiq</h3>
 
@@ -141,7 +167,7 @@
   <entry>
     <title type="html"><![CDATA[Meetup June 14, 2017]]></title>
     <link href="http://indyrb.github.io/posts/2017/06/14/meetup-june14/"/>
-    <updated>2017-06-14T22:00:00-04:00</updated>
+    <updated>2017-06-14T21:00:00-05:00</updated>
     <id>http://indyrb.github.io/posts/2017/06/14/meetup-june14</id>
     <content type="html"><![CDATA[<h3><a href="https://twitter.com/t27duck">Tony Drake</a> - Testing a Gem Against Different Databases and Different Versions of Rails</h3>
 
@@ -166,7 +192,7 @@
   <entry>
     <title type="html"><![CDATA[Meetup March 8, 2017]]></title>
     <link href="http://indyrb.github.io/posts/2017/02/08/meetup-march-8/"/>
-    <updated>2017-02-08T21:00:00-05:00</updated>
+    <updated>2017-02-08T20:00:00-06:00</updated>
     <id>http://indyrb.github.io/posts/2017/02/08/meetup-march-8</id>
     <content type="html"><![CDATA[<h3><a href="https://twitter.com/t27duck">Tony Drake</a> - Reporting on Rails - ActiveRecord and ROLAP Working Together</h3>
 
@@ -212,7 +238,7 @@ When we enforce conventions in a project, we often do so without a good understa
   <entry>
     <title type="html"><![CDATA[Meetup February 8, 2017]]></title>
     <link href="http://indyrb.github.io/posts/2017/02/08/meetup-february-8/"/>
-    <updated>2017-02-08T21:00:00-05:00</updated>
+    <updated>2017-02-08T20:00:00-06:00</updated>
     <id>http://indyrb.github.io/posts/2017/02/08/meetup-february-8</id>
     <content type="html"><![CDATA[<h3><a href="https://twitter.com/nullvoxpopuli">L. Preston Sego III</a> - My App is Too Big - Architecting for the Lazy</h3>
 
@@ -240,7 +266,7 @@ When we enforce conventions in a project, we often do so without a good understa
   <entry>
     <title type="html"><![CDATA[Meetup January 11, 2017]]></title>
     <link href="http://indyrb.github.io/posts/2017/01/11/meetup-january-11/"/>
-    <updated>2017-01-11T21:00:00-05:00</updated>
+    <updated>2017-01-11T20:00:00-06:00</updated>
     <id>http://indyrb.github.io/posts/2017/01/11/meetup-january-11</id>
     <content type="html"><![CDATA[<h3><a href="https://twitter.com/milamsoft">Aaron Milam</a> - Building a Gem</h3>
 
@@ -263,7 +289,7 @@ When we enforce conventions in a project, we often do so without a good understa
   <entry>
     <title type="html"><![CDATA[Meetup September 14, 2016]]></title>
     <link href="http://indyrb.github.io/posts/2016/09/14/meetup-september-14/"/>
-    <updated>2016-09-14T22:00:00-04:00</updated>
+    <updated>2016-09-14T21:00:00-05:00</updated>
     <id>http://indyrb.github.io/posts/2016/09/14/meetup-september-14</id>
     <content type="html"><![CDATA[<h3><a href="https://twitter.com/t27duck">Tony Drake</a> - Arbitrary Multi Tenant Configuration for <strike>Fun</strike> and Profit</h3>
 
@@ -290,7 +316,7 @@ When we enforce conventions in a project, we often do so without a good understa
   <entry>
     <title type="html"><![CDATA[Meetup August 10, 2016]]></title>
     <link href="http://indyrb.github.io/posts/2016/08/10/meetup-august-10/"/>
-    <updated>2016-08-10T22:00:00-04:00</updated>
+    <updated>2016-08-10T21:00:00-05:00</updated>
     <id>http://indyrb.github.io/posts/2016/08/10/meetup-august-10</id>
     <content type="html"><![CDATA[<h3><a href="https://twitter.com/netshade">Chris Zelenak</a> - So You Have to Build Some Analytics</h3>
 
@@ -320,7 +346,7 @@ When we enforce conventions in a project, we often do so without a good understa
   <entry>
     <title type="html"><![CDATA[Meetup June 8th, 2016]]></title>
     <link href="http://indyrb.github.io/posts/2016/06/08/meetup-june-8/"/>
-    <updated>2016-06-08T22:00:00-04:00</updated>
+    <updated>2016-06-08T21:00:00-05:00</updated>
     <id>http://indyrb.github.io/posts/2016/06/08/meetup-june-8</id>
     <content type="html"><![CDATA[<h3><a href="https://twitter.com/plamere">Paul Lamere</a> - Data Mining Music</h3>
 
@@ -338,7 +364,7 @@ When we enforce conventions in a project, we often do so without a good understa
   <entry>
     <title type="html"><![CDATA[Meetup May 11, 2016]]></title>
     <link href="http://indyrb.github.io/posts/2016/05/11/meetup-may-11/"/>
-    <updated>2016-05-11T22:00:00-04:00</updated>
+    <updated>2016-05-11T21:00:00-05:00</updated>
     <id>http://indyrb.github.io/posts/2016/05/11/meetup-may-11</id>
     <content type="html"><![CDATA[<h3><a href="https://twitter.com/jheth">Joe Heth</a> - Bundler</h3>
 
@@ -355,7 +381,7 @@ When we enforce conventions in a project, we often do so without a good understa
   <entry>
     <title type="html"><![CDATA[Meetup April 13, 2016]]></title>
     <link href="http://indyrb.github.io/posts/2016/04/13/meetup-april-13/"/>
-    <updated>2016-04-13T22:00:00-04:00</updated>
+    <updated>2016-04-13T21:00:00-05:00</updated>
     <id>http://indyrb.github.io/posts/2016/04/13/meetup-april-13</id>
     <content type="html"><![CDATA[<h3><a href="https://twitter.com/ajporterfield">Andrew Porterfield</a> - Incorporating SMS into your Rails app using Twilio</h3>
 
@@ -374,7 +400,7 @@ When we enforce conventions in a project, we often do so without a good understa
   <entry>
     <title type="html"><![CDATA[Meetup February 10, 2016]]></title>
     <link href="http://indyrb.github.io/posts/2016/02/10/meetup-february-10/"/>
-    <updated>2016-02-10T21:00:00-05:00</updated>
+    <updated>2016-02-10T20:00:00-06:00</updated>
     <id>http://indyrb.github.io/posts/2016/02/10/meetup-february-10</id>
     <content type="html"><![CDATA[<h3><a href="https://twitter.com/jheth">Joe Heth</a> - Mutation Testing</h3>
 
@@ -406,7 +432,7 @@ When we enforce conventions in a project, we often do so without a good understa
   <entry>
     <title type="html"><![CDATA[Meetup January 13, 2016]]></title>
     <link href="http://indyrb.github.io/posts/2016/01/13/meetup-january-13/"/>
-    <updated>2016-01-13T21:00:00-05:00</updated>
+    <updated>2016-01-13T20:00:00-06:00</updated>
     <id>http://indyrb.github.io/posts/2016/01/13/meetup-january-13</id>
     <content type="html"><![CDATA[<h3><a href="https://twitter.com/stevegrossi">Steve Grossi</a> - Ruby News</h3>
 
@@ -431,7 +457,7 @@ When we enforce conventions in a project, we often do so without a good understa
   <entry>
     <title type="html"><![CDATA[Meetup October 14, 2015]]></title>
     <link href="http://indyrb.github.io/posts/2015/10/14/meetup-october-14/"/>
-    <updated>2015-10-14T22:00:00-04:00</updated>
+    <updated>2015-10-14T21:00:00-05:00</updated>
     <id>http://indyrb.github.io/posts/2015/10/14/meetup-october-14</id>
     <content type="html"><![CDATA[<h3><a href="https://twitter.com/duncanson50">Matt Duncan</a>, <a href="https://twitter.com/1bertlol">Adam Darrah</a>, <a href="https://twitter.com/davecornelius">David Cornelius</a> - Brackets for Good: A Nonprofit Rails app that Processes over $1M in Donations Annually</h3>
 
@@ -460,7 +486,7 @@ When we enforce conventions in a project, we often do so without a good understa
   <entry>
     <title type="html"><![CDATA[Meetup September 9, 2015]]></title>
     <link href="http://indyrb.github.io/posts/2015/09/20/meetup-september-9/"/>
-    <updated>2015-09-20T22:00:00-04:00</updated>
+    <updated>2015-09-20T21:00:00-05:00</updated>
     <id>http://indyrb.github.io/posts/2015/09/20/meetup-september-9</id>
     <content type="html"><![CDATA[<h3><a href="https://twitter.com/matthewrnewell">Matt Newell</a> - How to Parse Excel with Ruby</h3>
 
@@ -486,7 +512,7 @@ When we enforce conventions in a project, we often do so without a good understa
   <entry>
     <title type="html"><![CDATA[Meetup August 12, 2015]]></title>
     <link href="http://indyrb.github.io/posts/2015/07/12/meetup-august-12/"/>
-    <updated>2015-07-12T22:00:00-04:00</updated>
+    <updated>2015-07-12T21:00:00-05:00</updated>
     <id>http://indyrb.github.io/posts/2015/07/12/meetup-august-12</id>
     <content type="html"><![CDATA[<h3><a href="https://twitter.com/_swanson">Matt Swanson</a> - Negativity Bias in Written Communication (How to not Accidentally be an Asshole)</h3>
 
@@ -524,7 +550,7 @@ When we enforce conventions in a project, we often do so without a good understa
   <entry>
     <title type="html"><![CDATA[Meetup July 8, 2015]]></title>
     <link href="http://indyrb.github.io/posts/2015/07/08/meetup-july-8/"/>
-    <updated>2015-07-08T22:00:00-04:00</updated>
+    <updated>2015-07-08T21:00:00-05:00</updated>
     <id>http://indyrb.github.io/posts/2015/07/08/meetup-july-8</id>
     <content type="html"><![CDATA[<h3><a href="https://twitter.com/stevegrossi">Steve Grossi</a> - Ruby News</h3>
 
@@ -558,7 +584,7 @@ When we enforce conventions in a project, we often do so without a good understa
   <entry>
     <title type="html"><![CDATA[Meetup June 10, 2015]]></title>
     <link href="http://indyrb.github.io/posts/2015/06/10/meetup-june-10/"/>
-    <updated>2015-06-10T22:00:00-04:00</updated>
+    <updated>2015-06-10T21:00:00-05:00</updated>
     <id>http://indyrb.github.io/posts/2015/06/10/meetup-june-10</id>
     <content type="html"><![CDATA[<h3><a href="https://twitter.com/joelmeador">Joel Meador</a> - Elixir</h3>
 
@@ -574,24 +600,6 @@ When we enforce conventions in a project, we often do so without a good understa
 <li><a href="http://elm-lang.org/">The Elm Language</a></li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Meetup May 13, 2015]]></title>
-    <link href="http://indyrb.github.io/posts/2015/05/13/meetup-may-13/"/>
-    <updated>2015-05-13T22:00:00-04:00</updated>
-    <id>http://indyrb.github.io/posts/2015/05/13/meetup-may-13</id>
-    <content type="html"><![CDATA[<h3><a href="https://twitter.com/joelmeador">Joel Meador</a> - Ruby News</h3>
-
-<p><a href="http://podcast.404dev.com/episodes/2015-05-Joel_Meador-Ruby_News.pdf">Slides</a></p>
-
-<h3><a href="https://twitter.com/unixmonkey">David Jones</a> - Volt.rb</h3>
-
-<p><a href="https://github.com/unixmonkey/volt_todos">Code</a> /
-<a href="http://voltframework.com/">Volt Framework</a> /
-<a href="https://www.youtube.com/watch?v=KbFtIt7-ge8">Building a Todo Tracking App in Volt in 10 minutes</a> /
-<a href="https://www.youtube.com/watch?v=7i6AL7Walc4">Isomorphic App Development with Ruby and Volt by Ryan Stout</a></p>
 ]]></content>
   </entry>
   

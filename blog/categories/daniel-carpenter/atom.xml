@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Daniel Carpenter | IndyRB.org]]></title>
+  <link href="http://indyrb.github.io/blog/categories/daniel-carpenter/atom.xml" rel="self"/>
+  <link href="http://indyrb.github.io/"/>
+  <updated>2017-11-15T14:59:45-06:00</updated>
+  <id>http://indyrb.github.io/</id>
+  <author>
+    <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup November 8th, 2017]]></title>
+    <link href="http://indyrb.github.io/posts/2017/11/08/meetup-november8/"/>
+    <updated>2017-11-08T20:00:00-06:00</updated>
+    <id>http://indyrb.github.io/posts/2017/11/08/meetup-november8</id>
+    <content type="html"><![CDATA[<h3><a href="https://twitter.com/dan_alyst">Daniel Carpenter</a> - Let&rsquo;s Do Some (Data) Science in Ruby</h3>
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/3MZFCB8A5AY" frameborder="0" allowfullscreen></iframe>
+
+
+<p>When faced with a data science problem, most people reach for Python or R but there is a growing ecosystem of data science tools for Ruby. Daniel briefly discusses what data science is, how it is similar and different from software engineering, and gives an introduction to some of the tools available to Rubyists.</p>
+
+<p>Daniel Carpenter is a software engineer and data scientist with special interest in health technology. He works for Omada Health, a San Francisco based digital health company offering online health coaching for pre-diabetes. He&rsquo;s been a software engineer for about 8 years and Rubyist for about 6 years.</p>
+
+<h3><a href="https://twitter.com/kyleashipley">Kyle Shipley</a> - Webpacker Basics for a Scalable Frontend</h3>
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/50KHLBaOU18" frameborder="0" allowfullscreen></iframe>
+
+
+<p>Rails has had a pathological aversion to frontend JavaScript frameworks for years, but no more! Learn about Webpack, the module bundling technology that&rsquo;s taken the JavaScript world by storm &ndash; at least for a week or two &ndash; and how you can incorporate it seamlessly into your Rails application.</p>
+
+<p>Who is Kyle Shipley?
+He&rsquo;s the co-founder of Woven, exploring better ways to hire software engineers. He&rsquo;s been fighting modern JavaScript frameworks since Backbone in 2011 and actually started enjoying them in 2014 with React.</p>
+]]></content>
+  </entry>
+  
+</feed>

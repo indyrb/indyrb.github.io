@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Nate Acuff | IndyRB.org]]></title>
   <link href="http://indyrb.github.io/blog/categories/nate-acuff/atom.xml" rel="self"/>
   <link href="http://indyrb.github.io/"/>
-  <updated>2017-09-27T15:49:39-04:00</updated>
+  <updated>2017-11-15T14:59:45-06:00</updated>
   <id>http://indyrb.github.io/</id>
   <author>
     <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Meetup March 14, 2012]]></title>
     <link href="http://indyrb.github.io/posts/2012/03/14/meetup-march-14/"/>
-    <updated>2012-03-14T22:30:24-04:00</updated>
+    <updated>2012-03-14T21:30:24-05:00</updated>
     <id>http://indyrb.github.io/posts/2012/03/14/meetup-march-14</id>
     <content type="html"><![CDATA[<h3><a href="https://twitter.com/futuremint">David Woodward</a> - attr_accessible: Don&rsquo;t get caught with your pants down</h3>
 
@@ -38,7 +38,7 @@
   <entry>
     <title type="html"><![CDATA[Meetup October 13, 2011]]></title>
     <link href="http://indyrb.github.io/posts/2011/10/13/meetup-october-13/"/>
-    <updated>2011-10-13T22:30:24-04:00</updated>
+    <updated>2011-10-13T21:30:24-05:00</updated>
     <id>http://indyrb.github.io/posts/2011/10/13/meetup-october-13</id>
     <content type="html"><![CDATA[<h3><a href="https://twitter.com/esquivalient">Matt Gordon</a> - Ruby News</h3>
 
@@ -61,7 +61,7 @@
   <entry>
     <title type="html"><![CDATA[Meetup April 13, 2011]]></title>
     <link href="http://indyrb.github.io/posts/2011/04/13/meetup-april-13/"/>
-    <updated>2011-04-13T22:30:24-04:00</updated>
+    <updated>2011-04-13T21:30:24-05:00</updated>
     <id>http://indyrb.github.io/posts/2011/04/13/meetup-april-13</id>
     <content type="html"><![CDATA[<h3><a href="https://twitter.com/esquivalient">Matt Gordon</a> - Ruby News, Local &amp; Global</h3>
 
@@ -90,7 +90,7 @@
   <entry>
     <title type="html"><![CDATA[Meetup March 9, 2011]]></title>
     <link href="http://indyrb.github.io/posts/2011/03/09/meetup-march-9/"/>
-    <updated>2011-03-09T21:30:24-05:00</updated>
+    <updated>2011-03-09T20:30:24-06:00</updated>
     <id>http://indyrb.github.io/posts/2011/03/09/meetup-march-9</id>
     <content type="html"><![CDATA[<h3><a href="https://twitter.com/esquivalient">Matt Gordon</a> - Ruby News, Local &amp; Global</h3>
 
@@ -117,7 +117,7 @@
   <entry>
     <title type="html"><![CDATA[Meetup February 9, 2011]]></title>
     <link href="http://indyrb.github.io/posts/2011/02/09/meetup-february-9/"/>
-    <updated>2011-02-09T21:30:24-05:00</updated>
+    <updated>2011-02-09T20:30:24-06:00</updated>
     <id>http://indyrb.github.io/posts/2011/02/09/meetup-february-9</id>
     <content type="html"><![CDATA[<h3><a href="https://twitter.com/mediocretes">Nate Acuff</a> - Resque-Mongo, a Resque on MongoDB implementation</h3>
 
