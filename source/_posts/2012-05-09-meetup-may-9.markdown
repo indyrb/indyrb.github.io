@@ -11,14 +11,22 @@ categories: [Joel Meador, Alex Conner, Chris Achard, Christopher Sansone]
 
 
 ###[Alex Conner](https://twitter.com/codatory) - Why does Rails not run callbacks on nested_attributes?
-[Video](http://podcast.404dev.com/episodes/067_Alex_Conner-Why_Does_Rails_Not_Run_Callbacks_on_Nested_Attributes.m4v) (4m : 1s)
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/wK_Q7gH3iD8" frameborder="0" allowfullscreen></iframe>
+
+Alex demonstrates a Rails gotcha
 
 
 ###[Chris Achard](https://twitter.com/MobileSort) - RubyMotion
-[Video](http://podcast.404dev.com/episodes/068_Chris_Achard-RubyMotion.m4v) (17m : 37s) /
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/u1AajBEUt7U" frameborder="0" allowfullscreen></iframe>
+
+Chris gives us an overview and his impressions of RubyMotion, a product that attempts to make iOS development more accessible to Ruby developers.
+
 [RubyMotion](https://rubymotion.com)
 
 
 ###[Christopher Sansone](https://github.com/christophersansone) - Rails + Ember.JS in 7 Minutes
-[Video](http://podcast.404dev.com/episodes/069_Christopher_Sansone-Rails_and_EmberJS_in_7_Minutes.m4v) (25m : 35s) /
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/8DJrALX1fW8" frameborder="0" allowfullscreen></iframe>
+
+Christopher shows us EmberJS and how it fits into a Rails project
+
 [Ember.JS](https://emberjs.com)

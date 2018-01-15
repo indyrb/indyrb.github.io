@@ -7,12 +7,18 @@ categories: [Matt Swanson, Chris Stephan]
 ---
 
 ###[Matt Swanson](https://twitter.com/_swanson) - Code Smells
-[Video](http://podcast.404dev.com/episodes/086_Matt_Swanson_-_Code_Smells.m4v) (39m : 46s) /
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/mkH97J9v8GM" frameborder="0" allowfullscreen></iframe>
+
+Matt Swanson talks about "Code Smells" and ways to sniff out bad design or needed refactorings
+
 [Exercises Repository](https://github.com/swanson/code-smell-refactoring)
 
 
 ###[Chris Stephan](http://twitter.com/endozemedia) - Chef
-[Watch Now](http://podcast.404dev.com/episodes/087_Chris_Stephan_-_Chef.m4v) (27m : 12s) /
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/3ms-uzeX0vI" frameborder="0" allowfullscreen></iframe>
+
+Chris Stephan talks about Opscode Chef for configuration management
+
 [Slides](https://speakerdeck.com/endoze/chef-presentation) /
 [Learn Chef Repository](https://github.com/endoze/learn-chef) /
 [Chef RubyCAS Cookbook](https://github.com/sqm/cookbook-rubycas)

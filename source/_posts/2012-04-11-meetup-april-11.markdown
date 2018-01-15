@@ -7,16 +7,25 @@ categories: [Matt Swanson, Matt Brown, Garrett Honeycutt]
 ---
 
 ###[Matt Swanson](https://twitter.com/_swanson) - Anatomy of a Weekend Project
-[Video](http://podcast.404dev.com/episodes/063_Matt_Swanson-Anatomy_of_a_Weekend_Project.m4v) (9m : 31s) /
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/aQrUZj8SSz8" frameborder="0" allowfullscreen></iframe>
+
+Matt Swanson shares how to manage a weekend project without getting overwhelmed or abandoning it
+
 [Code](https://github.com/swanson)
 
 
 ###[Matt Brown](http://github.com/gowabash) - 5 Brains, 2 solutions: An Experiment in Problem Solving
-[Video](http://podcast.404dev.com/episodes/064_Matt_Brown-5_Brains_2_Solutions.m4v) (31m : 36s) /
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/tMWVH42Fy1w" frameborder="0" allowfullscreen></iframe>
+
+Matt Brown walks through a programming exercise his team found on Google's Code Jam, and shows how different team members solved the same problem
+
 [Google Code Jam](https://code.google.com/codejam) /
 [Code](https://github.com/gowabash/prog_challenge)
 
 
 ###[Garrett Honeycutt](https://twitter.com/learnpuppet) - Expanded Introduction to Puppet
-[Video](http://podcast.404dev.com/episodes/065_Garrett_Honeycutt-Introduction_to_Puppet.m4v)  (36m : 27s) /
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/6StU9g-BpOI" frameborder="0" allowfullscreen></iframe>
+
+Garrett Honeycutt gives a detailed talk about using Puppet for configuration management of your infrastructure
+
 [Puppet Labs](https://puppetlabs.com)

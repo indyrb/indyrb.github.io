@@ -8,7 +8,7 @@ categories: [Matt Duncan, Adam Darrah, David Cornelius]
 
 
 ###[Matt Duncan](https://twitter.com/duncanson50), [Adam Darrah](https://twitter.com/1bertlol), [David Cornelius](https://twitter.com/davecornelius) - Brackets for Good: A Nonprofit Rails app that Processes over $1M in Donations Annually
-[Video](http://podcast.404dev.com/episodes/2015-10-14_Brackets_for_Good/2015-10-14_Brackets_for_Good.mp4) (26m : 41s)
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/3PIpVu0exPo" frameborder="0" allowfullscreen></iframe>
 
 * [Slides: Brackets for Good Introduction](http://podcast.404dev.com/episodes/2015-10-14_Brackets_for_Good/BFG%20Introduction%202016%20Indy%20RB.pdf)
 * [Slides: Brackets for Good Development](http://podcast.404dev.com/episodes/2015-10-14_Brackets_for_Good/Brackets%20For%20Good%20Development.pdf)
@@ -17,7 +17,7 @@ categories: [Matt Duncan, Adam Darrah, David Cornelius]
 
 
 ###[David Cornelius](https://twitter.com/davecornelius) - React with Rails (in Brackets for Good)
-[Video](http://podcast.404dev.com/episodes/2015-10-14_Brackets_for_Good/) (1h : 12m)
+[Resources](http://podcast.404dev.com/episodes/2015-10-14_Brackets_for_Good/)
 
 * [Slides](http://podcast.404dev.com/episodes/2015-10-14_Brackets_for_Good/rails+react_landscape.pdf)
 * [ReactJS](https://facebook.github.io/react/)

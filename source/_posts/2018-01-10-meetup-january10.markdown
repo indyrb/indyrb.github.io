@@ -6,7 +6,7 @@ comments: true
 categories: [David Michael Gregg]
 ---
 
-###[David Michael Gregg](http://linkedin.com/in/dmgregg/) - The Ubiquitous Utility of RegEx
+###[David Michael Gregg](http://linkedin.com/in/dmgregg/) - The Ubiquitous Utility of Regular Expressions
 <iframe width="100%" height="300" src="https://www.youtube.com/embed/zXh7RtLXPEQ" frameborder="0" allowfullscreen></iframe>
 
 David Michael Gregg walks through some basic RegEx features and use-cases in a sensible way.

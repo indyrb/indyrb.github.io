@@ -17,7 +17,7 @@ categories: [Matt Swanson, Andrew L Robinson III]
 
 
 ###[Andrew L Robinson III](http://twitter.com/ar3_me) - An API Journey
-[Video](http://podcast.404dev.com/episodes/2015-08-12_Andrew%20Robinson%20III%20-%20An%20API%20Journey.mp4) (43m : 46s)
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/pYW3z4OryGI" frameborder="0" allowfullscreen></iframe>
 
 * [Prezi Slides](https://prezi.com/mkwcvhrs6rjp/an-api-journey/)
 * [JSON-HAL](http://stateless.co/hal_specification.html)

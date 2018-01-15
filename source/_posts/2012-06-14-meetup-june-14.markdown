@@ -7,14 +7,22 @@ categories: [Anthony Panozzo, David Estes]
 ---
 
 ###[Anthony Panozzo](https://twitter.com/panozzaj) - Testing File Operations in Ruby
-[Video](http://podcast.404dev.com/episodes/070_Anthony_Panozzo-Testing_File_Operations_in_Ruby.m4v) (13m : 29s)
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/ioCoYQWQ65I" frameborder="0" allowfullscreen></iframe>
+
+Anthony Panozzo shows a few techniques for testing file access and saving operations with MockFS, FakeFS, as well as rolling your own.
 
 
 ###[Anthony Panozzo](https://twitter.com/panozzaj) - RailsThemes
-[Video](http://podcast.404dev.com/episodes/071_Anthony_Panozzo-RailsThemes.m4v) (8m : 46s) /
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/st8bsqoPMLg" frameborder="0" allowfullscreen></iframe>
+
+Anthony Panozzo shows off RailsThemes (http://railsthemes.com) for quick theming of a Rails application
+
 [RailsThemes.com](http://railsthemes.com)
 
 
 ###[David Estes](https://twitter.com/davydotcom) - My Baby Reveal
-[Video](http://podcast.404dev.com/episodes/072_David_Estes-My_Baby_Reveal.m4v) (7m : 41s) /
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/u0clxs3KuTQ" frameborder="0" allowfullscreen></iframe>
+
+David Estes shows off a site he made as a virtual companion or alternative to traditional baby gender reveal parties.
+
 [MyBabyReveal.com](http://mybabyreveal.com)

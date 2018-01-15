@@ -7,6 +7,8 @@ categories: [Sandi Metz, Andrew L Robinson III]
 ---
 
 ###[Sandi Metz](https://twitter.com/sandimetz) - All the Little Things (group watching of the RailsConf 2014 video)
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/8bZh5LMaSmE" frameborder="0" allowfullscreen></iframe>
+
 Sandi takes an ugly section of conditional code and converts it into a few simple objects. It bridges the gap between OO theory and practice and teaches straightforward strategies that all can use to improve their code.
 
 [Video](http://www.confreaks.com/videos/3358-railsconf-all-the-little-things) (38m : 47s)

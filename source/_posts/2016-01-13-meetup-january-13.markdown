@@ -13,7 +13,7 @@ categories: [Steve Grossi, Joel Meador]
 
 
 ###[Joel Meador](https://twitter.com/joelmeador) - Action Cable
-[Video](http://podcast.404dev.com/episodes/2016-01-13_Joel_Meador-Action_Cable.mp4) (46m : 6s)
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/u_q-IRmFp_E" frameborder="0" allowfullscreen></iframe>
 
 * [Code](https://github.com/expectedbehavior/indyrb-actioncable)
 * [Action Cable (source repo)](https://github.com/rails/rails/tree/master/actioncable)
