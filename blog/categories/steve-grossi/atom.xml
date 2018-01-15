@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Steve Grossi | IndyRB.org]]></title>
   <link href="http://indyrb.github.io/blog/categories/steve-grossi/atom.xml" rel="self"/>
   <link href="http://indyrb.github.io/"/>
-  <updated>2018-01-15T12:32:11-05:00</updated>
+  <updated>2018-01-15T13:36:14-05:00</updated>
   <id>http://indyrb.github.io/</id>
   <author>
     <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
@@ -27,7 +27,8 @@
 
 <h3><a href="https://twitter.com/joelmeador">Joel Meador</a> - Action Cable</h3>
 
-<p><a href="http://podcast.404dev.com/episodes/2016-01-13_Joel_Meador-Action_Cable.mp4">Video</a> (46m : 6s)</p>
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/u_q-IRmFp_E" frameborder="0" allowfullscreen></iframe>
+
 
 <ul>
 <li><a href="https://github.com/expectedbehavior/indyrb-actioncable">Code</a></li>

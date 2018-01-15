@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Matt Swanson | IndyRB.org]]></title>
   <link href="http://indyrb.github.io/blog/categories/matt-swanson/atom.xml" rel="self"/>
   <link href="http://indyrb.github.io/"/>
-  <updated>2018-01-15T12:32:11-05:00</updated>
+  <updated>2018-01-15T13:36:14-05:00</updated>
   <id>http://indyrb.github.io/</id>
   <author>
     <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
@@ -33,7 +33,8 @@
 
 <h3><a href="http://twitter.com/ar3_me">Andrew L Robinson III</a> - An API Journey</h3>
 
-<p><a href="http://podcast.404dev.com/episodes/2015-08-12_Andrew%20Robinson%20III%20-%20An%20API%20Journey.mp4">Video</a> (43m : 46s)</p>
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/pYW3z4OryGI" frameborder="0" allowfullscreen></iframe>
+
 
 <ul>
 <li><a href="https://prezi.com/mkwcvhrs6rjp/an-api-journey/">Prezi Slides</a></li>
@@ -86,13 +87,21 @@
     <id>http://indyrb.github.io/posts/2014/04/08/meetup-april-8</id>
     <content type="html"><![CDATA[<h3><a href="https://twitter.com/_swanson">Matt Swanson</a> - Code Smells</h3>
 
-<p><a href="http://podcast.404dev.com/episodes/086_Matt_Swanson_-_Code_Smells.m4v">Video</a> (39m : 46s) /
-<a href="https://github.com/swanson/code-smell-refactoring">Exercises Repository</a></p>
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/mkH97J9v8GM" frameborder="0" allowfullscreen></iframe>
+
+
+<p>Matt Swanson talks about &ldquo;Code Smells&rdquo; and ways to sniff out bad design or needed refactorings</p>
+
+<p><a href="https://github.com/swanson/code-smell-refactoring">Exercises Repository</a></p>
 
 <h3><a href="http://twitter.com/endozemedia">Chris Stephan</a> - Chef</h3>
 
-<p><a href="http://podcast.404dev.com/episodes/087_Chris_Stephan_-_Chef.m4v">Watch Now</a> (27m : 12s) /
-<a href="https://speakerdeck.com/endoze/chef-presentation">Slides</a> /
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/3ms-uzeX0vI" frameborder="0" allowfullscreen></iframe>
+
+
+<p>Chris Stephan talks about Opscode Chef for configuration management</p>
+
+<p><a href="https://speakerdeck.com/endoze/chef-presentation">Slides</a> /
 <a href="https://github.com/endoze/learn-chef">Learn Chef Repository</a> /
 <a href="https://github.com/sqm/cookbook-rubycas">Chef RubyCAS Cookbook</a></p>
 ]]></content>

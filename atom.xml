@@ -4,7 +4,7 @@
   <title><![CDATA[IndyRB.org]]></title>
   <link href="http://indyrb.github.io/atom.xml" rel="self"/>
   <link href="http://indyrb.github.io/"/>
-  <updated>2018-01-15T12:32:11-05:00</updated>
+  <updated>2018-01-15T13:36:14-05:00</updated>
   <id>http://indyrb.github.io/</id>
   <author>
     <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
@@ -18,7 +18,7 @@
     <link href="http://indyrb.github.io/posts/2018/01/10/meetup-january10/"/>
     <updated>2018-01-10T21:00:00-05:00</updated>
     <id>http://indyrb.github.io/posts/2018/01/10/meetup-january10</id>
-    <content type="html"><![CDATA[<h3><a href="http://linkedin.com/in/dmgregg/">David Michael Gregg</a> - The Ubiquitous Utility of RegEx</h3>
+    <content type="html"><![CDATA[<h3><a href="http://linkedin.com/in/dmgregg/">David Michael Gregg</a> - The Ubiquitous Utility of Regular Expressions</h3>
 
 <iframe width="100%" height="300" src="https://www.youtube.com/embed/zXh7RtLXPEQ" frameborder="0" allowfullscreen></iframe>
 
@@ -488,7 +488,8 @@ When we enforce conventions in a project, we often do so without a good understa
 
 <h3><a href="https://twitter.com/joelmeador">Joel Meador</a> - Action Cable</h3>
 
-<p><a href="http://podcast.404dev.com/episodes/2016-01-13_Joel_Meador-Action_Cable.mp4">Video</a> (46m : 6s)</p>
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/u_q-IRmFp_E" frameborder="0" allowfullscreen></iframe>
+
 
 <ul>
 <li><a href="https://github.com/expectedbehavior/indyrb-actioncable">Code</a></li>
@@ -506,7 +507,8 @@ When we enforce conventions in a project, we often do so without a good understa
     <id>http://indyrb.github.io/posts/2015/10/14/meetup-october-14</id>
     <content type="html"><![CDATA[<h3><a href="https://twitter.com/duncanson50">Matt Duncan</a>, <a href="https://twitter.com/1bertlol">Adam Darrah</a>, <a href="https://twitter.com/davecornelius">David Cornelius</a> - Brackets for Good: A Nonprofit Rails app that Processes over $1M in Donations Annually</h3>
 
-<p><a href="http://podcast.404dev.com/episodes/2015-10-14_Brackets_for_Good/2015-10-14_Brackets_for_Good.mp4">Video</a> (26m : 41s)</p>
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/3PIpVu0exPo" frameborder="0" allowfullscreen></iframe>
+
 
 <ul>
 <li><a href="http://podcast.404dev.com/episodes/2015-10-14_Brackets_for_Good/BFG%20Introduction%202016%20Indy%20RB.pdf">Slides: Brackets for Good Introduction</a></li>
@@ -518,7 +520,7 @@ When we enforce conventions in a project, we often do so without a good understa
 
 <h3><a href="https://twitter.com/davecornelius">David Cornelius</a> - React with Rails (in Brackets for Good)</h3>
 
-<p><a href="http://podcast.404dev.com/episodes/2015-10-14_Brackets_for_Good/">Video</a> (1h : 12m)</p>
+<p><a href="http://podcast.404dev.com/episodes/2015-10-14_Brackets_for_Good/">Resources</a></p>
 
 <ul>
 <li><a href="http://podcast.404dev.com/episodes/2015-10-14_Brackets_for_Good/rails+react_landscape.pdf">Slides</a></li>
@@ -574,7 +576,8 @@ When we enforce conventions in a project, we often do so without a good understa
 
 <h3><a href="http://twitter.com/ar3_me">Andrew L Robinson III</a> - An API Journey</h3>
 
-<p><a href="http://podcast.404dev.com/episodes/2015-08-12_Andrew%20Robinson%20III%20-%20An%20API%20Journey.mp4">Video</a> (43m : 46s)</p>
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/pYW3z4OryGI" frameborder="0" allowfullscreen></iframe>
+
 
 <ul>
 <li><a href="https://prezi.com/mkwcvhrs6rjp/an-api-journey/">Prezi Slides</a></li>

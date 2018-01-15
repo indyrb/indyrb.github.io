@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Sandi Metz | IndyRB.org]]></title>
   <link href="http://indyrb.github.io/blog/categories/sandi-metz/atom.xml" rel="self"/>
   <link href="http://indyrb.github.io/"/>
-  <updated>2018-01-15T12:32:11-05:00</updated>
+  <updated>2018-01-15T13:36:14-05:00</updated>
   <id>http://indyrb.github.io/</id>
   <author>
     <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
@@ -19,6 +19,9 @@
     <updated>2014-07-10T00:30:24-04:00</updated>
     <id>http://indyrb.github.io/posts/2014/07/10/meetup-july-9</id>
     <content type="html"><![CDATA[<h3><a href="https://twitter.com/sandimetz">Sandi Metz</a> - All the Little Things (group watching of the RailsConf 2014 video)</h3>
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/8bZh5LMaSmE" frameborder="0" allowfullscreen></iframe>
+
 
 <p>Sandi takes an ugly section of conditional code and converts it into a few simple objects. It bridges the gap between OO theory and practice and teaches straightforward strategies that all can use to improve their code.</p>
 

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Miles Sterrett | IndyRB.org]]></title>
   <link href="http://indyrb.github.io/blog/categories/miles-sterrett/atom.xml" rel="self"/>
   <link href="http://indyrb.github.io/"/>
-  <updated>2018-01-15T12:32:11-05:00</updated>
+  <updated>2018-01-15T13:36:14-05:00</updated>
   <id>http://indyrb.github.io/</id>
   <author>
     <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
@@ -82,10 +82,19 @@
     <id>http://indyrb.github.io/posts/2014/10/08/meetup-october-8</id>
     <content type="html"><![CDATA[<h3><a href="http://twitter.com/kyleashipley">Kyle Shipley</a> - Let&rsquo;s Get Enumerable</h3>
 
-<p><a href="http://podcast.404dev.com/episodes/079_Kyle_Shipley_-_Enumerables.mp4">Video</a> (1h : 5m) /
-<a href="http://presentations.kyleshipley.com/ruby_enumerable/">Slides</a></p>
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/RlrmJdD3xBw" frameborder="0" allowfullscreen></iframe>
+
+
+<p>Kyle Shipley gives an overview of the Ruby Enumerable class and methods for better code.</p>
+
+<p><a href="http://presentations.kyleshipley.com/ruby_enumerable/">Slides</a></p>
 
 <h3><a href="http://twitter.com/mileszs">Miles Sterrett</a> - Sonic Pi</h3>
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/_CDc2XmxvYc" frameborder="0" allowfullscreen></iframe>
+
+
+<p>Miles Sterrett demonstrates how to make music programmatically with Ruby and Sonic Pi</p>
 
 <p><a href="http://podcast.404dev.com/episodes/080_Miles_Sterrett_-_Sonic_Pi.mp4">Video</a> (27m : 54s) /
 <a href="http://sonic-pi.net">Sonic Pi</a></p>
@@ -99,12 +108,19 @@
     <id>http://indyrb.github.io/posts/2014/05/15/meetup-may-14</id>
     <content type="html"><![CDATA[<h3><a href="https://twitter.com/mileszs">Miles Sterrett</a> - Code Smells 2: Smell Harder</h3>
 
-<p><a href="http://podcast.404dev.com/episodes/073_Miles_Sterrett-Code_Smells_2-Smell-Harder.mp4">Video</a> (55m : 21s)</p>
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/3f49taWEBP4" frameborder="0" allowfullscreen></iframe>
+
+
+<p>Miles Sterrett gives a follow-up to Matt Swanson&rsquo;s original Code Smells talk at Indy.rb</p>
 
 <h3><a href="http://twitter.com/endozemedia">Chris Stephan</a> - Developing with Docker</h3>
 
-<p><a href="http://podcast.404dev.com/episodes/074_Chris_Stephan-Developing_With_Docker.mp4">Video</a> (58m : 54s) /
-<a href="https://speakerdeck.com/endoze/developing-with-docker">Slides</a> /
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/abD6YGH2rdk" frameborder="0" allowfullscreen></iframe>
+
+
+<p>Chris Stephan shows how his team uses Docker for disposable architecture and developer environments</p>
+
+<p><a href="https://speakerdeck.com/endoze/developing-with-docker">Slides</a> /
 <a href="https://github.com/endoze/docker_playground">Code</a></p>
 ]]></content>
   </entry>
