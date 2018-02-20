@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://indyrb.github.io/posts/2018/02/14/meetup-february14/</loc>
+<lastmod>2018-02-14T21:00:00-05:00</lastmod>
+</url>
+<url>
 <loc>http://indyrb.github.io/posts/2018/01/10/meetup-january10/</loc>
 <lastmod>2018-01-10T21:00:00-05:00</lastmod>
 </url>
@@ -422,6 +426,9 @@
 </url>
 <url>
 <loc>http://indyrb.github.io/blog/categories/david-michael-gregg/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/bradely-schaefer/</loc>
 </url>
 <url>
 <loc>http://indyrb.github.io/assets/20170809/GraphQL%20and%20You.pdf</loc>
