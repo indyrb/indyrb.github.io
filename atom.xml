@@ -4,7 +4,7 @@
   <title><![CDATA[IndyRB.org]]></title>
   <link href="http://indyrb.github.io/atom.xml" rel="self"/>
   <link href="http://indyrb.github.io/"/>
-  <updated>2018-02-20T14:21:59-05:00</updated>
+  <updated>2018-03-26T16:54:45-04:00</updated>
   <id>http://indyrb.github.io/</id>
   <author>
     <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup March 14th, 2018]]></title>
+    <link href="http://indyrb.github.io/posts/2018/03/14/meetup-march14/"/>
+    <updated>2018-03-14T22:00:00-04:00</updated>
+    <id>http://indyrb.github.io/posts/2018/03/14/meetup-march14</id>
+    <content type="html"><![CDATA[<h3><a href="https://twitter.com/weswinham">Wes Winham</a> - Pen Testing The Developer Interview: Attacks that ace tech interviews and defenses that build better teams</h3>
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/X-m2zO6epiE" frameborder="0" allowfullscreen></iframe>
+
+
+<p>The developer hiring process is vulnerable. Let’s attack it!</p>
+
+<p>We’ll draw on the pen testers toolkit and lessons learned the hard way across my decade of startup hiring. We&rsquo;ll break down the typical developer interview process. Then, we&rsquo;ll use the lens of social engineering and cognitive bias to identify specific tactics for acing interviews. Finally, we’ll defend our interviews to make them better at predicting team success.</p>
+
+<p>Attendees will leave armed with both a) tools to be a more effective interviewer and b) tools to presents their best self as a candidate.</p>
+
+<p>Wes spent the last 10 years responsible for engineering at an Indianapolis SaaS startup called PolicyStat. Through building that product team from scratch, he learned (the hard way) a lot about hiring. He discovered that&rsquo;s it is deceptively difficult. After selling PolicyStat last year, Wes started a SaaS company called Woven to fix developer hiring.</p>
+
+<h3><a href="https://twitter.com/t27duck">Tony Drake</a> - Rolling your own Ruby package</h3>
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/kPUzLZN6Zx8" frameborder="0" allowfullscreen></iframe>
+
+
+<p>There may come a time when rbenv, rvm, or cruby won&rsquo;t cut it for your use case. Sometimes you need or want a current-day Ruby version installed on the system level but most Linux distros provide really out of date Rubies. To get what you want, you need to roll your own Ruby. Creating OS packages may sound scary, but in reality they are easy once you have a build system setup. I currently maintain a small set of servers for my side projects and have used my own self-built package of Ruby for quite a while now.</p>
+
+<p>Who is Tony Drake?
+Tony is a senior web developer with about 10 years (most of it in Ruby) of total experience building websites professionally. By day, he curses DHH&rsquo;s name while hacking away at code and trying to keep junior devs from scraping their knees. By night, he&rsquo;s peeling away from the starting line while blowing up other vehicles in my way in Mario Kart.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Meetup February 14th, 2018]]></title>
@@ -553,32 +583,6 @@ When we enforce conventions in a project, we often do so without a good understa
 <li><a href="http://podcast.404dev.com/episodes/2015-10-14_Brackets_for_Good/rails+react_landscape.pdf">Slides</a></li>
 <li><a href="https://facebook.github.io/react/">ReactJS</a></li>
 </ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Meetup September 9, 2015]]></title>
-    <link href="http://indyrb.github.io/posts/2015/09/20/meetup-september-9/"/>
-    <updated>2015-09-20T22:00:00-04:00</updated>
-    <id>http://indyrb.github.io/posts/2015/09/20/meetup-september-9</id>
-    <content type="html"><![CDATA[<h3><a href="https://twitter.com/matthewrnewell">Matt Newell</a> - How to Parse Excel with Ruby</h3>
-
-<p><a href="http://podcast.404dev.com/episodes/2015-09-09_Matt_Newell_-_How_to_Parse_Excel_with_Ruby.mp4">Video</a> (17m : 31s)</p>
-
-<ul>
-<li><a href="http://podcast.404dev.com/episodes/2015-09-09_Matt_Newell_-_How_to_Parse_Excel_with_Ruby.pdf">Slides</a></li>
-<li><a href="https://github.com/matthewnewell/vet">Parse Excel Github Repository</a></li>
-<li><a href="http://www.amazon.com/The-Little-Book-Talent-Improving/dp/034553025X">The Little Book of Talent</a></li>
-<li><a href="https://github.com/roo-rb/roo">Roo</a></li>
-<li><a href="http://pryrepl.org/">pry</a></li>
-<li><a href="https://github.com/randym/axlsx">AXSLX</a></li>
-</ul>
-
-
-<h3><a href="https://twitter.com/dstrus">Davey Strus</a>, <a href="https://twitter.com/chris_vannoy">Chris Vannoy</a>, <a href="https://twitter.com/barnes7td">Timothy Barnes</a> - Panel: Teaching Ruby</h3>
-
-<iframe width="100%" height="300" src="https://www.youtube.com/embed/yb0EpP2xFe4" frameborder="0" allowfullscreen></iframe>
 
 ]]></content>
   </entry>
