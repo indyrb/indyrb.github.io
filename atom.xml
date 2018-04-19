@@ -4,7 +4,7 @@
   <title><![CDATA[IndyRB.org]]></title>
   <link href="http://indyrb.github.io/atom.xml" rel="self"/>
   <link href="http://indyrb.github.io/"/>
-  <updated>2018-03-26T16:54:45-04:00</updated>
+  <updated>2018-04-19T12:59:25-04:00</updated>
   <id>http://indyrb.github.io/</id>
   <author>
     <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
@@ -12,6 +12,206 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup April 11th, 2018]]></title>
+    <link href="http://indyrb.github.io/posts/2018/04/11/meetup-april11/"/>
+    <updated>2018-04-11T22:00:00-04:00</updated>
+    <id>http://indyrb.github.io/posts/2018/04/11/meetup-april11</id>
+    <content type="html"><![CDATA[<h3>Ben Cochran - Pry - A Ruby Developer&rsquo;s Friend</h3>
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/96OkAtDaBbg" frameborder="0" allowfullscreen></iframe>
+
+
+<p>In the Ruby world, Pry is IRB on steroids. In a blazingly short period of time you will learn how to install and invoke it, replace your Rails console with it, use it to debug server issues inline, configure macros and shortcuts, and a couple of other neat tips and tricks.</p>
+
+<p>Ben is a Polyglot Principal Full Stack Developer and Architect with 15 years of experience developing standalone and web based applications in Enterprise, Freelance and Startup environments. His company, enhasa.io, is seeking contract work and potential CTO-for-hire engagements. He also has a penchant for 3D Printing as well as using Kubernetes for orchestration of containerized applications.</p>
+
+<h3><a href="https://www.linkedin.com/in/jamesbvsh/">James Bush</a> - Generating Markdown Docs for Rails Models with James Bush</h3>
+
+<p>James shows off a practical solution to crawl a typical Rails app to generate documentation on models, fields and relationships and output to Markdown.</p>
+
+<p>Video is not available, but here&rsquo;s the code shown in the talk:</p>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+<span class='line-number'>17</span>
+<span class='line-number'>18</span>
+<span class='line-number'>19</span>
+<span class='line-number'>20</span>
+<span class='line-number'>21</span>
+<span class='line-number'>22</span>
+<span class='line-number'>23</span>
+<span class='line-number'>24</span>
+<span class='line-number'>25</span>
+<span class='line-number'>26</span>
+<span class='line-number'>27</span>
+<span class='line-number'>28</span>
+<span class='line-number'>29</span>
+<span class='line-number'>30</span>
+<span class='line-number'>31</span>
+<span class='line-number'>32</span>
+<span class='line-number'>33</span>
+<span class='line-number'>34</span>
+<span class='line-number'>35</span>
+<span class='line-number'>36</span>
+<span class='line-number'>37</span>
+<span class='line-number'>38</span>
+<span class='line-number'>39</span>
+<span class='line-number'>40</span>
+<span class='line-number'>41</span>
+<span class='line-number'>42</span>
+<span class='line-number'>43</span>
+<span class='line-number'>44</span>
+<span class='line-number'>45</span>
+<span class='line-number'>46</span>
+<span class='line-number'>47</span>
+<span class='line-number'>48</span>
+<span class='line-number'>49</span>
+</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="no">Rails</span><span class="o">.</span><span class="n">application</span><span class="o">.</span><span class="n">eager_load!</span>
+</span><span class='line'>
+</span><span class='line'><span class="n">models_to_document</span> <span class="o">=</span> <span class="no">ApplicationRecord</span><span class="o">.</span><span class="n">descendants</span>
+</span><span class='line'>  <span class="o">.</span><span class="n">map</span><span class="p">(</span><span class="o">&amp;</span><span class="ss">:to_s</span><span class="p">)</span>
+</span><span class='line'>  <span class="o">.</span><span class="n">uniq</span>
+</span><span class='line'>  <span class="o">.</span><span class="n">select</span> <span class="p">{</span> <span class="o">|</span><span class="n">m</span><span class="o">|</span>
+</span><span class='line'>    <span class="no">ActiveRecord</span><span class="o">::</span><span class="no">Base</span><span class="o">.</span><span class="n">connection</span><span class="o">.</span><span class="n">table_exists?</span> <span class="n">m</span><span class="o">.</span><span class="n">underscore</span><span class="o">.</span><span class="n">pluralize</span>
+</span><span class='line'>  <span class="p">}</span>
+</span><span class='line'>  <span class="o">.</span><span class="n">map</span><span class="p">(</span><span class="o">&amp;</span><span class="ss">:constantize</span><span class="p">)</span>
+</span><span class='line'>
+</span><span class='line'><span class="n">model_descriptions</span> <span class="o">||=</span> <span class="p">{}</span>
+</span><span class='line'>
+</span><span class='line'><span class="n">models_to_document</span><span class="o">.</span><span class="n">each</span> <span class="k">do</span> <span class="o">|</span><span class="n">model</span><span class="o">|</span>
+</span><span class='line'>  <span class="n">model_referenced_by</span> <span class="o">=</span> <span class="n">models_to_document</span>
+</span><span class='line'>    <span class="o">.</span><span class="n">select</span> <span class="p">{</span> <span class="o">|</span><span class="n">m</span><span class="o">|</span> <span class="n">m</span><span class="o">.</span><span class="n">column_names</span><span class="o">.</span><span class="n">include?</span><span class="p">(</span><span class="s2">&quot;</span><span class="si">#{</span> <span class="n">model</span><span class="o">.</span><span class="n">table_name</span><span class="o">.</span><span class="n">singularize</span> <span class="si">}</span><span class="s2">_id&quot;</span><span class="p">)</span> <span class="p">}</span>
+</span><span class='line'>    <span class="o">.</span><span class="n">map</span><span class="p">(</span><span class="o">&amp;</span><span class="ss">:to_s</span><span class="p">)</span>
+</span><span class='line'>    <span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="s1">&#39;, &#39;</span><span class="p">)</span>
+</span><span class='line'>
+</span><span class='line'>  <span class="n">model_references_to</span> <span class="o">=</span> <span class="n">model</span>
+</span><span class='line'>    <span class="o">.</span><span class="n">column_names</span>
+</span><span class='line'>    <span class="o">.</span><span class="n">select</span> <span class="p">{</span> <span class="o">|</span><span class="n">cn</span><span class="o">|</span> <span class="n">cn</span> <span class="o">=~</span> <span class="sr">/_id/</span> <span class="p">}</span>
+</span><span class='line'>    <span class="o">.</span><span class="n">map</span> <span class="p">{</span> <span class="o">|</span><span class="n">r</span><span class="o">|</span> <span class="n">r</span><span class="o">.</span><span class="n">gsub</span><span class="p">(</span><span class="sr">/_id/</span><span class="p">,</span> <span class="s1">&#39;&#39;</span><span class="p">)</span> <span class="p">}</span>
+</span><span class='line'>    <span class="o">.</span><span class="n">map</span><span class="p">(</span><span class="o">&amp;</span><span class="ss">:camelize</span><span class="p">)</span>
+</span><span class='line'>    <span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="s1">&#39;, &#39;</span><span class="p">)</span>
+</span><span class='line'>
+</span><span class='line'>  <span class="n">model_ancestors</span> <span class="o">=</span> <span class="n">model</span><span class="o">.</span><span class="n">ancestors</span><span class="o">.</span><span class="n">select</span> <span class="p">{</span> <span class="o">|</span><span class="n">k</span><span class="o">|</span> <span class="n">k</span> <span class="o">&lt;</span> <span class="no">ApplicationRecord</span> <span class="p">}</span>
+</span><span class='line'>
+</span><span class='line'>  <span class="n">model_descendants</span> <span class="o">=</span> <span class="n">model</span><span class="o">.</span><span class="n">descendants</span>
+</span><span class='line'>
+</span><span class='line'>  <span class="n">model_heirarchy</span> <span class="o">=</span> <span class="p">(</span><span class="n">model_ancestors</span> <span class="o">+</span> <span class="n">model_descendants</span><span class="p">)</span><span class="o">.</span><span class="n">map</span><span class="p">(</span><span class="o">&amp;</span><span class="ss">:to_s</span><span class="p">)</span>
+</span><span class='line'>
+</span><span class='line'>  <span class="n">model_column_names</span> <span class="o">=</span> <span class="n">model</span><span class="o">.</span><span class="n">column_names</span><span class="o">.</span><span class="n">reject</span> <span class="p">{</span> <span class="o">|</span><span class="n">cn</span><span class="o">|</span> <span class="n">cn</span> <span class="o">=~</span> <span class="sr">/\Aid|created_at|updated_at|uuid/</span> <span class="p">}</span>
+</span><span class='line'>
+</span><span class='line'>  <span class="n">model_description</span> <span class="o">=</span> <span class="n">model_descriptions</span><span class="o">[</span><span class="n">model</span><span class="o">.</span><span class="n">to_s</span><span class="o">]</span>
+</span><span class='line'>
+</span><span class='line'>  <span class="nb">puts</span> <span class="s2">&quot;### </span><span class="si">#{</span> <span class="n">model</span><span class="o">.</span><span class="n">to_s</span> <span class="si">}</span><span class="s2">&quot;</span>
+</span><span class='line'>  <span class="nb">puts</span>
+</span><span class='line'>  <span class="nb">print</span> <span class="n">obj</span> <span class="s2">&quot;```&quot;</span>
+</span><span class='line'>  <span class="s2">&quot;</span><span class="si">#{</span> <span class="n">model_heirarchy</span><span class="o">.</span><span class="n">each</span> <span class="p">{</span> <span class="o">|</span><span class="n">model_name</span><span class="o">|</span> <span class="nb">puts</span> <span class="n">model_name</span> <span class="si">}</span><span class="s2"> }&quot;</span> <span class="k">if</span> <span class="n">model_heirarchy</span><span class="o">.</span><span class="n">length</span> <span class="o">&gt;</span> <span class="mi">1</span>
+</span><span class='line'>  <span class="nb">puts</span>
+</span><span class='line'>  <span class="nb">puts</span> <span class="s2">&quot;</span><span class="si">#{</span> <span class="n">model</span><span class="o">.</span><span class="n">to_s</span> <span class="si">}</span><span class="s2"> &lt;- </span><span class="si">#{</span> <span class="n">model_referenced_by</span> <span class="si">}</span><span class="s2">&quot;</span> <span class="k">if</span> <span class="n">model_referenced_by</span><span class="o">.</span><span class="n">present?</span>
+</span><span class='line'>  <span class="nb">puts</span> <span class="s2">&quot;</span><span class="si">#{</span> <span class="n">model</span><span class="o">.</span><span class="n">to_s</span> <span class="si">}</span><span class="s2"> -&gt; </span><span class="si">#{</span> <span class="n">model_references_to</span> <span class="si">}</span><span class="s2">&quot;</span> <span class="k">if</span> <span class="n">model_references</span><span class="p">)</span><span class="n">_to</span><span class="o">.</span><span class="n">present?</span>
+</span><span class='line'>  <span class="nb">puts</span>
+</span><span class='line'>  <span class="n">model_column_names</span><span class="o">.</span><span class="n">each</span> <span class="p">{</span> <span class="o">|</span><span class="n">cn</span><span class="o">|</span> <span class="nb">puts</span> <span class="s2">&quot;  |</span><span class="si">#{</span> <span class="n">cn</span> <span class="si">}</span><span class="s2">&quot;</span> <span class="p">}</span>
+</span><span class='line'>  <span class="nb">puts</span> <span class="s2">&quot;```&quot;</span>
+</span><span class='line'>  <span class="nb">puts</span>
+</span><span class='line'>  <span class="nb">puts</span> <span class="s2">&quot;</span><span class="si">#{</span> <span class="n">model</span><span class="o">.</span><span class="n">description</span> <span class="si">}</span><span class="s2">&quot;</span>
+</span><span class='line'>  <span class="nb">puts</span>
+</span><span class='line'><span class="k">end</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<h2>Output as Markdown (for a few models):</h2>
+
+<h3>User</h3>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+<span class='line-number'>17</span>
+<span class='line-number'>18</span>
+<span class='line-number'>19</span>
+</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="no">User</span> <span class="o">&lt;-</span> <span class="no">Certification</span><span class="p">,</span> <span class="no">Invitation</span><span class="p">,</span> <span class="no">Message</span><span class="p">,</span> <span class="no">Philosophy</span><span class="p">,</span> <span class="no">Prep</span><span class="p">,</span> <span class="no">Resource</span>
+</span><span class='line'>
+</span><span class='line'>  <span class="o">|</span><span class="n">email</span>
+</span><span class='line'>  <span class="o">|</span><span class="n">encrypted_password</span>
+</span><span class='line'>  <span class="o">|</span><span class="n">reset_password_token</span>
+</span><span class='line'>  <span class="o">|</span><span class="n">reset_password_sent_at</span>
+</span><span class='line'>  <span class="o">|</span><span class="n">sign_in_count</span>
+</span><span class='line'>  <span class="o">|</span><span class="n">current_sign_in_at</span>
+</span><span class='line'>  <span class="o">|</span><span class="n">last_sign_in_ip</span>
+</span><span class='line'>  <span class="o">|</span><span class="nb">name</span>
+</span><span class='line'>  <span class="o">|</span><span class="n">gender</span>
+</span><span class='line'>  <span class="o">|</span><span class="n">age</span>
+</span><span class='line'>  <span class="o">|</span><span class="n">bio</span>
+</span><span class='line'>  <span class="o">|</span><span class="n">height</span>
+</span><span class='line'>  <span class="o">|</span><span class="n">phone_number</span>
+</span><span class='line'>  <span class="o">|</span><span class="n">avatar_file_name</span>
+</span><span class='line'>  <span class="o">|</span><span class="n">avatar_content_type</span>
+</span><span class='line'>  <span class="o">|</span><span class="n">avatar_file_size</span>
+</span><span class='line'>  <span class="o">|</span><span class="n">coach</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<h3>Contest</h3>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="no">Contest</span> <span class="o">-&gt;</span> <span class="no">Prep</span>
+</span><span class='line'>
+</span><span class='line'>  <span class="o">|</span><span class="n">title</span>
+</span><span class='line'>  <span class="o">|</span><span class="n">prep_id</span>
+</span><span class='line'>  <span class="o">|</span><span class="n">date</span>
+</span><span class='line'>  <span class="o">|</span><span class="n">url</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<h3>Conversation</h3>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="no">Conversation</span> <span class="o">&lt;-</span> <span class="no">Message</span>
+</span><span class='line'><span class="no">Conversation</span> <span class="o">-&gt;</span> <span class="no">Sender</span><span class="p">,</span> <span class="no">Recipient</span>
+</span><span class='line'>
+</span><span class='line'>  <span class="o">|</span><span class="n">sender_id</span>
+</span><span class='line'>  <span class="o">|</span><span class="n">recipient_id</span>
+</span></code></pre></td></tr></table></div></figure>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Meetup March 14th, 2018]]></title>
@@ -552,36 +752,6 @@ When we enforce conventions in a project, we often do so without a good understa
 <li><a href="https://github.com/expectedbehavior/indyrb-actioncable">Code</a></li>
 <li><a href="https://github.com/rails/rails/tree/master/actioncable">Action Cable (source repo)</a></li>
 <li><a href="https://youtu.be/n0WUjGkDFS0">Action Cable Introduction from rubyonrails.org</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Meetup October 14, 2015]]></title>
-    <link href="http://indyrb.github.io/posts/2015/10/14/meetup-october-14/"/>
-    <updated>2015-10-14T22:00:00-04:00</updated>
-    <id>http://indyrb.github.io/posts/2015/10/14/meetup-october-14</id>
-    <content type="html"><![CDATA[<h3><a href="https://twitter.com/duncanson50">Matt Duncan</a>, <a href="https://twitter.com/1bertlol">Adam Darrah</a>, <a href="https://twitter.com/davecornelius">David Cornelius</a> - Brackets for Good: A Nonprofit Rails app that Processes over $1M in Donations Annually</h3>
-
-<iframe width="100%" height="300" src="https://www.youtube.com/embed/3PIpVu0exPo" frameborder="0" allowfullscreen></iframe>
-
-
-<ul>
-<li><a href="http://podcast.404dev.com/episodes/2015-10-14_Brackets_for_Good/BFG%20Introduction%202016%20Indy%20RB.pdf">Slides: Brackets for Good Introduction</a></li>
-<li><a href="http://podcast.404dev.com/episodes/2015-10-14_Brackets_for_Good/Brackets%20For%20Good%20Development.pdf">Slides: Brackets for Good Development</a></li>
-<li><a href="https://www.youtube.com/v/NiDGTprVJu4?start=49&amp;end=100&amp;version=3">Starcraft: Epic Moments of All Time clip (0:49-1:40)</a></li>
-<li><a href="https://bfg.org/">Brackets for Good</a></li>
-</ul>
-
-
-<h3><a href="https://twitter.com/davecornelius">David Cornelius</a> - React with Rails (in Brackets for Good)</h3>
-
-<p><a href="http://podcast.404dev.com/episodes/2015-10-14_Brackets_for_Good/">Resources</a></p>
-
-<ul>
-<li><a href="http://podcast.404dev.com/episodes/2015-10-14_Brackets_for_Good/rails+react_landscape.pdf">Slides</a></li>
-<li><a href="https://facebook.github.io/react/">ReactJS</a></li>
 </ul>
 
 ]]></content>
