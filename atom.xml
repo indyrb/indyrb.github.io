@@ -4,7 +4,7 @@
   <title><![CDATA[IndyRB.org]]></title>
   <link href="http://indyrb.github.io/atom.xml" rel="self"/>
   <link href="http://indyrb.github.io/"/>
-  <updated>2018-04-19T12:59:25-04:00</updated>
+  <updated>2018-04-24T12:25:10-04:00</updated>
   <id>http://indyrb.github.io/</id>
   <author>
     <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
@@ -32,6 +32,8 @@
 <p>James shows off a practical solution to crawl a typical Rails app to generate documentation on models, fields and relationships and output to Markdown.</p>
 
 <p>Video is not available, but here&rsquo;s the code shown in the talk:</p>
+
+<p><a href="https://gist.github.com/jajajames/b1033b27904b275f0b29ffb321de92b0">GitHub Gist</a></p>
 
 <figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 <span class='line-number'>2</span>
