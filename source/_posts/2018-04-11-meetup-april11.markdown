@@ -19,6 +19,9 @@ Ben is a Polyglot Principal Full Stack Developer and Architect with 15 years of 
 James shows off a practical solution to crawl a typical Rails app to generate documentation on models, fields and relationships and output to Markdown.
 
 Video is not available, but here's the code shown in the talk:
+
+[GitHub Gist](https://gist.github.com/jajajames/b1033b27904b275f0b29ffb321de92b0)
+
 ```ruby
 Rails.application.eager_load!
 
