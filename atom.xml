@@ -4,7 +4,7 @@
   <title><![CDATA[IndyRB.org]]></title>
   <link href="http://indyrb.github.io/atom.xml" rel="self"/>
   <link href="http://indyrb.github.io/"/>
-  <updated>2018-04-24T12:25:10-04:00</updated>
+  <updated>2018-05-21T21:13:44-04:00</updated>
   <id>http://indyrb.github.io/</id>
   <author>
     <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
@@ -12,6 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup May 9th, 2018]]></title>
+    <link href="http://indyrb.github.io/posts/2018/05/09/meetup-may9/"/>
+    <updated>2018-05-09T22:00:00-04:00</updated>
+    <id>http://indyrb.github.io/posts/2018/05/09/meetup-may9</id>
+    <content type="html"><![CDATA[<h3><a href="https://twitter.com/10scuba_steve">Stephen Freund</a> - Dispelling The Magic of the Params Variable</h3>
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/tenJB1UxkCM" frameborder="0" allowfullscreen></iframe>
+
+
+<p>Active Record makes interfacing with the database in a Rails app easy and clean, but it can cause headaches when working with a lot of data. I will walk through how to effectively use Rails to Create, Read, Update, and Destroy Mb or Gb of data, as well as what might be causing the headaches in the first place.</p>
+
+<p>Stephen Freund is a data engineer at Springbuk. His primary focus for the last ~1 year has been normalizing and importing healthcare data for use in the Springbuk app. Besides writing Ruby, he enjoys running, reading, watching football, and debating the merits of Star Wars vs Star Trek.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Meetup April 11th, 2018]]></title>
@@ -728,32 +744,6 @@ When we enforce conventions in a project, we often do so without a good understa
 <li><a href="https://github.com/claytron/pry-talk">Slides Code</a></li>
 <li><a href="http://www.slideshare.net/claytron/exploring-code-with-pry">Slides and Notes</a></li>
 <li><a href="http://pryrepl.org">Pry-Repl website</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Meetup January 13, 2016]]></title>
-    <link href="http://indyrb.github.io/posts/2016/01/13/meetup-january-13/"/>
-    <updated>2016-01-13T21:00:00-05:00</updated>
-    <id>http://indyrb.github.io/posts/2016/01/13/meetup-january-13</id>
-    <content type="html"><![CDATA[<h3><a href="https://twitter.com/stevegrossi">Steve Grossi</a> - Ruby News</h3>
-
-<ul>
-<li><a href="http://work.stevegrossi.com/2016/01/14/new-features-in-ruby-2-3/">New Features in Ruby 2.3</a></li>
-</ul>
-
-
-<h3><a href="https://twitter.com/joelmeador">Joel Meador</a> - Action Cable</h3>
-
-<iframe width="100%" height="300" src="https://www.youtube.com/embed/u_q-IRmFp_E" frameborder="0" allowfullscreen></iframe>
-
-
-<ul>
-<li><a href="https://github.com/expectedbehavior/indyrb-actioncable">Code</a></li>
-<li><a href="https://github.com/rails/rails/tree/master/actioncable">Action Cable (source repo)</a></li>
-<li><a href="https://youtu.be/n0WUjGkDFS0">Action Cable Introduction from rubyonrails.org</a></li>
 </ul>
 
 ]]></content>
