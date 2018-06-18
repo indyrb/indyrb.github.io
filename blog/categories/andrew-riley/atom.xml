@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Andrew Riley | IndyRB.org]]></title>
+  <link href="http://indyrb.github.io/blog/categories/andrew-riley/atom.xml" rel="self"/>
+  <link href="http://indyrb.github.io/"/>
+  <updated>2018-06-18T13:00:32-04:00</updated>
+  <id>http://indyrb.github.io/</id>
+  <author>
+    <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup June 13th, 2018]]></title>
+    <link href="http://indyrb.github.io/posts/2018/06/13/meetup-june13/"/>
+    <updated>2018-06-13T22:00:00-04:00</updated>
+    <id>http://indyrb.github.io/posts/2018/06/13/meetup-june13</id>
+    <content type="html"><![CDATA[<h3><a href="https://twitter.com/whatintheflack">Chris Flack</a> - Strong Parameters (&amp; other fun party conversations)</h3>
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/CbPTb_4bVQw" frameborder="0" allowfullscreen></iframe>
+
+
+<p>Ruby Jam by Chris Flack:</p>
+
+<p>With some inspiration from Stephen’s params talk last month, Chris talks little about some useful tricks and dangerous pitfalls I’ve learned from working with Rails&#8217; Strong Parameters protections.</p>
+
+<p>Chris is an Associate Software Developer at MOBI. He started in tech working as a Genius for Apple, and he still has a big head about that title. He wandered around for a few years as an IT generalist before attending The Iron Yard and starting a career in coding.</p>
+
+<p>Away from work, he&rsquo;s an avid reader, home-brewer, and gamer. He has a degree from Ball State in religious studies and counseling psychology. And he thinks all of that is a lot more relevant to software development than it might sound.</p>
+
+<ul>
+<li><a href="https://slides.com/ccflack/strong-params/">Slides</a></li>
+</ul>
+
+
+<h3>Fishbowl Panel on Mentoring Engineers</h3>
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/TSwL8n9xL28" frameborder="0" allowfullscreen></iframe>
+
+
+<h3>Panelists (in order of first appearance in a chair):</h3>
+
+<ul>
+<li><a href="https://twitter.com/andrewariley87">Andrew Riley</a></li>
+<li><a href="https://twitter.com/d_palaz">Dana Palazzo</a></li>
+<li><a href="https://twitter.com/dstrus">Davey Strus</a></li>
+<li><a href="https://twitter.com/coleydotco">Stephen Coley</a></li>
+<li><a href="https://twitter.com/Ben_Doane">Ben Doane</a></li>
+<li><a href="https://twitter.com/mileszs">Miles Sterrett</a></li>
+<li><a href="https://twitter.com/unixmonkey">Dave Jones</a></li>
+<li><a href="https://twitter.com/cvannoy">Chris Vannoy</a></li>
+<li><a href="https://twitter.com/whatintheflack">Chris Flack</a></li>
+<li><a href="https://twitter.com/10scuba_steve">Stephen Freund</a></li>
+<li><a href="https://twitter.com/afstanton">Aaron F. Stanton</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>

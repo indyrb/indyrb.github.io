@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://indyrb.github.io/posts/2018/06/13/meetup-june13/</loc>
+<lastmod>2018-06-13T22:00:00-04:00</lastmod>
+</url>
+<url>
 <loc>http://indyrb.github.io/posts/2018/05/09/meetup-may9/</loc>
 <lastmod>2018-05-09T22:00:00-04:00</lastmod>
 </url>
@@ -450,6 +454,27 @@
 </url>
 <url>
 <loc>http://indyrb.github.io/blog/categories/ben-cochran/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/chris-flack/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/andrew-riley/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/dana-palazzo/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/stephen-coley/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/ben-doane/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/dave-jones/</loc>
+</url>
+<url>
+<loc>http://indyrb.github.io/blog/categories/aaron-f-stanton/</loc>
 </url>
 <url>
 <loc>http://indyrb.github.io/assets/20170809/GraphQL%20and%20You.pdf</loc>
