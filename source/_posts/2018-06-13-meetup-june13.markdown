@@ -1,0 +1,38 @@
+---
+layout: post
+title: "Meetup June 13th, 2018"
+date: 2018-06-13 21:00:00 -0500
+comments: true
+categories: [Chris Flack,Andrew Riley,Dana Palazzo,Davey Strus,Stephen Coley,Ben Doane,Miles Sterrett,Dave Jones,Chris Vannoy,Chris Flack,Stephen Freund,Aaron F. Stanton]
+---
+
+###[Chris Flack](https://twitter.com/whatintheflack) - Strong Parameters (& other fun party conversations)
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/CbPTb_4bVQw" frameborder="0" allowfullscreen></iframe>
+
+Ruby Jam by Chris Flack:
+
+With some inspiration from Stephen’s params talk last month, Chris talks little about some useful tricks and dangerous pitfalls I’ve learned from working with Rails' Strong Parameters protections.
+
+Chris is an Associate Software Developer at MOBI. He started in tech working as a Genius for Apple, and he still has a big head about that title. He wandered around for a few years as an IT generalist before attending The Iron Yard and starting a career in coding.
+
+Away from work, he's an avid reader, home-brewer, and gamer. He has a degree from Ball State in religious studies and counseling psychology. And he thinks all of that is a lot more relevant to software development than it might sound.
+
+* [Slides](https://slides.com/ccflack/strong-params/)
+
+
+### Fishbowl Panel on Mentoring Engineers
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/TSwL8n9xL28" frameborder="0" allowfullscreen></iframe>
+
+### Panelists (in order of first appearance in a chair):
+
+- [Andrew Riley](https://twitter.com/andrewariley87)
+- [Dana Palazzo](https://twitter.com/d_palaz)
+- [Davey Strus](https://twitter.com/dstrus)
+- [Stephen Coley](https://twitter.com/coleydotco)
+- [Ben Doane](https://twitter.com/Ben_Doane)
+- [Miles Sterrett](https://twitter.com/mileszs)
+- [Dave Jones](https://twitter.com/unixmonkey)
+- [Chris Vannoy](https://twitter.com/cvannoy)
+- [Chris Flack](https://twitter.com/whatintheflack)
+- [Stephen Freund](https://twitter.com/10scuba_steve)
+- [Aaron F. Stanton](https://twitter.com/afstanton)
