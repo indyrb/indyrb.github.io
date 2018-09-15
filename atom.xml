@@ -4,7 +4,7 @@
   <title><![CDATA[IndyRB.org]]></title>
   <link href="http://indyrb.github.io/atom.xml" rel="self"/>
   <link href="http://indyrb.github.io/"/>
-  <updated>2018-07-23T11:59:46-04:00</updated>
+  <updated>2018-09-15T10:58:24-04:00</updated>
   <id>http://indyrb.github.io/</id>
   <author>
     <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
@@ -12,6 +12,64 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup September 12th, 2018]]></title>
+    <link href="http://indyrb.github.io/posts/2018/09/12/meetup-sep12/"/>
+    <updated>2018-09-12T22:00:00-04:00</updated>
+    <id>http://indyrb.github.io/posts/2018/09/12/meetup-sep12</id>
+    <content type="html"><![CDATA[<h3>Fishbowl Panel on Mentoring Engineers</h3>
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/XoQIKX8g7vE" frameborder="0" allowfullscreen></iframe>
+
+
+<h3>Emcees (left to right):</h3>
+
+<ul>
+<li><a href="https://twitter.com/panozzaj">Anthony Panozzo</a></li>
+<li><a href="http://twitter.com/kyleashipley">Kyle Shipley</a></li>
+</ul>
+
+
+<p>Kyle Shipley and Anthony Panozzo (aka Shipnozzo, aka Biggie Talls) are cofounders of Woven, an evidence-based developer hiring platform. They&rsquo;ve been engineering leaders at OurHealth, Castlight Health, Haven, Lessonly, and a variety of other early-stage companies. Woven runs on Ruby/Rails and JS/React and supports exercises in a variety of other languages and frameworks.</p>
+
+<h3>Panelists (left to right):</h3>
+
+<ul>
+<li><p><a href="http://twitter.com/ar3_me">Andrew Robinson III</a>
+is the head of product and engineering at Lessonly. He started out doing Net and Java (even some COBOL back in the high school days)&hellip; but found the light around 2011 which is when he found RoR. He loves engineering, but recently his passions have been split between engineering, design, product, and servant leadership.</p></li>
+<li><p><a href="https://twitter.com/stevecaldwell">Steve Caldwell</a>
+is the Vice President of Technology at Springbuk, the health intelligence platform for employers. Over the past decade, Steve has devised, built, and sold software applications ranging from the Department of Defense to the Fortune 500. He is a serial entrepreneur with a passion for building businesses that are innovative and impactful. When he’s not geeking out over the next big thing in technology, he’s most likely out missing a putt somewhere.</p></li>
+<li><p>Lindsey Ashburn
+is a Development Manager at Conga. She is a firm believer in servant leadership and enjoys striving to provide the best environment possible for the success of her team. In a previous life she was a Software Developer, Configuration Manager, QA Engineer, Project Manager and a stay at home Mom. When she&rsquo;s not working she is most likely chasing after her two small children or sleeping because well, children.</p></li>
+<li><p><a href="https://github.com/gowabash">Matt Brown</a>
+is CTO at Pattern89, the data science for paid social platform, where he leads a team of engineers who help marketers experiment at scale. In his past, he was Director of Engineering for both Salesforce and ExactTarget. Those positions came after the acquisition of iGoDigital where he was VP of Engineering. He has interests in many things including ruby, scones and good beverages (only ask about coffee if you have time to spare)</p></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup August 8th, 2018]]></title>
+    <link href="http://indyrb.github.io/posts/2018/08/08/meetup-aug8/"/>
+    <updated>2018-08-08T22:00:00-04:00</updated>
+    <id>http://indyrb.github.io/posts/2018/08/08/meetup-aug8</id>
+    <content type="html"><![CDATA[<h3><a href="https://twitter.com/armzilla82">Seth Baughman</a> - Block, Proc, and Two Smoking Lambdas</h3>
+
+<p>More than you ever wanted to know about Ruby closures.</p>
+
+<p>Unfortunately, there was no sound to this recording.</p>
+
+<p>Seth likes Ruby, JavaScript, and lifting heavy things.</p>
+
+<h3><a href="https://twitter.com/Ben_Doane">Ben Doane</a> - Gettin&#8217; Plucky</h3>
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/38mlh9101BM" frameborder="0" allowfullscreen></iframe>
+
+
+<p>Ben Doane is a full time developer at Iris-Works working with Ruby on Rails &amp; friends. Ben wears many hats at his current role, from new feature development to project management to DevOps. Out side of work, he teaches dance, works part-time at a bar he loves, and enjoys strategy table top games.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Meetup June 13th, 2018]]></title>
@@ -722,41 +780,6 @@ When we enforce conventions in a project, we often do so without a good understa
 
 <ul>
 <li><a href="https://github.com/rails/rails/tree/master/activerecord">ActiveRecord</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Meetup June 8th, 2016]]></title>
-    <link href="http://indyrb.github.io/posts/2016/06/08/meetup-june-8/"/>
-    <updated>2016-06-08T22:00:00-04:00</updated>
-    <id>http://indyrb.github.io/posts/2016/06/08/meetup-june-8</id>
-    <content type="html"><![CDATA[<h3><a href="https://twitter.com/plamere">Paul Lamere</a> - Data Mining Music</h3>
-
-<iframe width="100%" height="300" src="https://www.youtube.com/embed/f7XN3RuDzmc" frameborder="0" allowfullscreen></iframe>
-
-
-<ul>
-<li><a href="http://confreaks.tv/videos/railsconf2016-closing-keynote-paul-lamere">Confreaks - Closing Keynote: Paul Lamere</a></li>
-<li><a href="https://www.spotify.com/us/">Spotify</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Meetup May 11, 2016]]></title>
-    <link href="http://indyrb.github.io/posts/2016/05/11/meetup-may-11/"/>
-    <updated>2016-05-11T22:00:00-04:00</updated>
-    <id>http://indyrb.github.io/posts/2016/05/11/meetup-may-11</id>
-    <content type="html"><![CDATA[<h3><a href="https://twitter.com/jheth">Joe Heth</a> - Bundler</h3>
-
-<iframe width="100%" height="300" src="https://www.youtube.com/embed/BPX9adQCRvM" frameborder="0" allowfullscreen></iframe>
-
-
-<ul>
-<li><a href="http://bundler.io/">Bundler</a></li>
 </ul>
 
 ]]></content>
