@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Meetup August 8th, 2018"
+date: 2018-08-08 21:00:00 -0500
+comments: true
+categories: [Seth Baughman, Ben Doane]
+---
+
+###[Seth Baughman](https://twitter.com/armzilla82) - Block, Proc, and Two Smoking Lambdas
+
+More than you ever wanted to know about Ruby closures.
+
+Unfortunately, there was no sound to this recording.
+
+Seth likes Ruby, JavaScript, and lifting heavy things.
+
+###[Ben Doane](https://twitter.com/Ben_Doane) - Gettin' Plucky
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/38mlh9101BM" frameborder="0" allowfullscreen></iframe>
+
+Ben Doane is a full time developer at Iris-Works working with Ruby on Rails & friends. Ben wears many hats at his current role, from new feature development to project management to DevOps. Out side of work, he teaches dance, works part-time at a bar he loves, and enjoys strategy table top games.
