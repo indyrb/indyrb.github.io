@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Meetup October 10th, 2018"
+date: 2018-10-10 21:00:00 -0500
+comments: true
+categories: [Tony Drake, Steve Hodges]
+---
+
+###[Tony Drake](https://twitter.com/t27duck) - The Anatomy of a Ruby Gem: Going from Zero to Sharing Code
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/XkGFMTyUr5A" frameborder="0" allowfullscreen></iframe>
+
+Tony gave us an early preview of his talk at RubyConf 2018. The video wasn't great, so just watch the final product from RubyConf!
+
+To many Rubyists just starting out, gems can appear very mysterious. You list them in a Gemfile and run 'bundle install' or install them directly with 'gem install'. Suddenly, your programs gain more functionality than they had before. But what are gems? What makes them work? How can you make your own to share with the world? Let's find out.
+
+Tony is a senior developer with about 10 years of professional development experience (8 of those with Ruby). He enjoys working in development teams of all sizes and helping junior developers level up. When he's not hacking away or being a part-time DevOp, you can find him online kicking butt in Mario Kart.
+
+###[Steve Hodges](https://twitter.com/stevehodgesindy) - Testing gems in your Ruby apps
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/cfMaLe9k6tg" frameborder="0" allowfullscreen></iframe>
+
+We Rubyists tend to include lots of open-source gems in our projects. How do we responsibly use them and keep our production apps from breaking? In this quick Ruby Jam, Steve covers how he tests to make using gems safer and upgrading them cleaner, and how gem authors can help.
+
+Steve has been writing Ruby since 2011, and writes (and relies on) tests daily. He's written web applications for money since the dark days of PHP 3.x. He enjoys solving problems, improving craftsmanship, mentoring, and tacos.

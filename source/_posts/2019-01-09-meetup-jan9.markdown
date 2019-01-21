@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Meetup January 9th, 2019"
+date: 2019-01-09 21:00:00 -0500
+comments: true
+categories: [Adam Darrah, Chris Flack]
+---
+
+###[Adam Darrah](https://twitter.com/t27duck) - The "Hooked" model on building habit-forming products
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/VWI4kaX5cNk" frameborder="0" allowfullscreen></iframe>
+
+Adam discusses the ethical questions of developing a habit-forming product. We will look at the “Hook” model that is used to create a habit-forming product: Trigger, Action, Variable Reward, and Investment. Finally, we will look at the “Make It Rain” iOS app as a case study of the lessons learned from this book.
+
+Adam Darrah leads a team of Ruby on Rails developers at Tangoe (formerly MOBI), a global technology expense management company. Adam has been involved in several startups in Indianapolis including Challonge and Brackets for Good. Away from the keyboard, Adam enjoys traveling, cooking, and economics podcasts.
+
+###[Chris Flack](https://twitter.com/whatintheflack) - Level Up - Growth in Individuals, Teams, and Organizations
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/AehEQVkfT0E" frameborder="0" allowfullscreen></iframe>
+
+Mentorship and growth at 3 levels: Individual, Team, and Organization.
+
+Over the past year, I’ve put a lot of my focus into growth and "learning how to learn”. This is a quick synthesis of some of my experiences, what I’ve picked up from my own mentors, and the lessons I’ve brought back to my team.
+
+Chris is an Iron Yard Indianapolis Alumnus and Ruby developer for Tangoe’s GoMobile division (formerly MOBI). Home brewer, tinkerer, gamer, and generalist nerd.
