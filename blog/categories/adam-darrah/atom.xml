@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Adam Darrah | IndyRB.org]]></title>
   <link href="http://indyrb.github.io/blog/categories/adam-darrah/atom.xml" rel="self"/>
   <link href="http://indyrb.github.io/"/>
-  <updated>2018-09-15T10:58:24-04:00</updated>
+  <updated>2019-01-20T23:02:44-05:00</updated>
   <id>http://indyrb.github.io/</id>
   <author>
     <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
@@ -12,6 +12,33 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup January 9th, 2019]]></title>
+    <link href="http://indyrb.github.io/posts/2019/01/09/meetup-jan9/"/>
+    <updated>2019-01-09T21:00:00-05:00</updated>
+    <id>http://indyrb.github.io/posts/2019/01/09/meetup-jan9</id>
+    <content type="html"><![CDATA[<h3><a href="https://twitter.com/t27duck">Adam Darrah</a> - The &ldquo;Hooked&rdquo; model on building habit-forming products</h3>
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/VWI4kaX5cNk" frameborder="0" allowfullscreen></iframe>
+
+
+<p>Adam discusses the ethical questions of developing a habit-forming product. We will look at the “Hook” model that is used to create a habit-forming product: Trigger, Action, Variable Reward, and Investment. Finally, we will look at the “Make It Rain” iOS app as a case study of the lessons learned from this book.</p>
+
+<p>Adam Darrah leads a team of Ruby on Rails developers at Tangoe (formerly MOBI), a global technology expense management company. Adam has been involved in several startups in Indianapolis including Challonge and Brackets for Good. Away from the keyboard, Adam enjoys traveling, cooking, and economics podcasts.</p>
+
+<h3><a href="https://twitter.com/whatintheflack">Chris Flack</a> - Level Up - Growth in Individuals, Teams, and Organizations</h3>
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/AehEQVkfT0E" frameborder="0" allowfullscreen></iframe>
+
+
+<p>Mentorship and growth at 3 levels: Individual, Team, and Organization.</p>
+
+<p>Over the past year, I’ve put a lot of my focus into growth and &ldquo;learning how to learn”. This is a quick synthesis of some of my experiences, what I’ve picked up from my own mentors, and the lessons I’ve brought back to my team.</p>
+
+<p>Chris is an Iron Yard Indianapolis Alumnus and Ruby developer for Tangoe’s GoMobile division (formerly MOBI). Home brewer, tinkerer, gamer, and generalist nerd.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Meetup October 14, 2015]]></title>

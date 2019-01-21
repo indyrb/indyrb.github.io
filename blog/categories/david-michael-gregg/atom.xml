@@ -4,7 +4,7 @@
   <title><![CDATA[Category: David Michael Gregg | IndyRB.org]]></title>
   <link href="http://indyrb.github.io/blog/categories/david-michael-gregg/atom.xml" rel="self"/>
   <link href="http://indyrb.github.io/"/>
-  <updated>2018-09-15T10:58:24-04:00</updated>
+  <updated>2019-01-20T23:02:44-05:00</updated>
   <id>http://indyrb.github.io/</id>
   <author>
     <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
@@ -12,6 +12,35 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup November 28th, 2018]]></title>
+    <link href="http://indyrb.github.io/posts/2018/11/28/meetup-nov28/"/>
+    <updated>2018-11-28T21:00:00-05:00</updated>
+    <id>http://indyrb.github.io/posts/2018/11/28/meetup-nov28</id>
+    <content type="html"><![CDATA[<h3><a href="https://twitter.com/t27duck">David Michael Gregg</a> - The Physics of Software Design</h3>
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/qS48JJClmDk" frameborder="0" allowfullscreen></iframe>
+
+
+<p>David Michael Gregg introduces Meilir Page-Jones&#8217; software design principle of &ldquo;connascence&rdquo; - Popularized formerly by Jim Weirich.</p>
+
+<p>Learning how to write quality, maintainable code has been a question left to intuition, personal reinvention (after repeated failure), and the memorization of maxims such as &ldquo;Tell Don&rsquo;t Ask&rdquo;, &ldquo;Feature Envy&rdquo;, SOLID, et al.</p>
+
+<p>But can we compare these maxims – these learned lessons – across paradigms, and arrive at a generalization which serves as a sort of guiding &ldquo;Grand Unified Theory of Software Development&rdquo; (Jim Weirich)?</p>
+
+<p>Some of this work has been done, and the resulting concept and vocabulary is not only simple to explain (and immediately applicable) to early learners, but can serve as a metric for quantifying maintainability and refactoring opportunities at all levels of software architecture.</p>
+
+<h3><a href="https://twitter.com/stevehodgesindy">Steve Hodges</a> - JavaScript Sprinkles: Avoiding client-side hell with view-over-the-wire</h3>
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/OUEBD7OBFNA" frameborder="0" allowfullscreen></iframe>
+
+
+<p>A brief tour of building a speedy Rails app with Turbolinks and Stimulus.</p>
+
+<p>Matt Swanson leads teams and build products for customers at SEP, a software product design and development agency in Carmel. He’s been using Ruby in some capacity since 2010. His favorite Ruby method is Array#compact.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Meetup January 10th, 2018]]></title>
