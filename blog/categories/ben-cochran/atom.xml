@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ben Cochran | IndyRB.org]]></title>
   <link href="http://indyrb.github.io/blog/categories/ben-cochran/atom.xml" rel="self"/>
   <link href="http://indyrb.github.io/"/>
-  <updated>2019-01-20T23:19:35-05:00</updated>
+  <updated>2019-02-21T22:39:09-05:00</updated>
   <id>http://indyrb.github.io/</id>
   <author>
     <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
@@ -12,6 +12,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup February 13th, 2019]]></title>
+    <link href="http://indyrb.github.io/posts/2019/02/13/meetup-feb13/"/>
+    <updated>2019-02-13T21:00:00-05:00</updated>
+    <id>http://indyrb.github.io/posts/2019/02/13/meetup-feb13</id>
+    <content type="html"><![CDATA[<h3><a href="https://twitter.com/mileszs">Miles Sterrett</a> - Basics of Benchmarking and Profiling</h3>
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/q1oAu5AKuYc" frameborder="0" allowfullscreen></iframe>
+
+
+<p>Miles shows off how he approaches benchmarking a slow API endpoint of a Rails application, and demonstrates usage of Apache Bench &amp; RubyProf, and how to interpret their results.</p>
+
+<p>Building applications for the Web has long been a passion for Miles, though cultivating communities has become a new passion.</p>
+
+<p>Miles organizes the Indianapolis Ruby Brigade, founded Indy Hackers, and, once in a while, helps with the Indianapolis Javascript Society. He finds people to be even more interesting than the code he spends hours upon hours writing. That said, you’ll still find him glued to his guitar once in a while.</p>
+
+<h3>Ben Cochran - Kubernetes 101</h3>
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/m6ZDCp8WI8w" frameborder="0" allowfullscreen></iframe>
+
+
+<p>Ben is a Principal Developer and Systems Architect with 15 years of experience developing standalone and web based applications in Enterprise, Freelance and Startup environments. He is currently the Head of Machine Learning Engineering locally at Crowe LLP. He&rsquo;s looking to hire three Machine Learning Engineers, come talk to him after the presentation! He also has a penchant for brewing beer, role playing games and 3D Printing as well as using Kubernetes for orchestration of containerized applications.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Meetup April 11th, 2018]]></title>
