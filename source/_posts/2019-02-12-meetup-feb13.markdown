@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Meetup February 13th, 2019"
+date: 2019-02-13 21:00:00 -0500
+comments: true
+categories: [Miles Sterrett, Ben Cochran]
+---
+
+###[Miles Sterrett](https://twitter.com/mileszs) - Basics of Benchmarking and Profiling
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/q1oAu5AKuYc" frameborder="0" allowfullscreen></iframe>
+
+Miles shows off how he approaches benchmarking a slow API endpoint of a Rails application, and demonstrates usage of Apache Bench & RubyProf, and how to interpret their results.
+
+Building applications for the Web has long been a passion for Miles, though cultivating communities has become a new passion.
+
+Miles organizes the Indianapolis Ruby Brigade, founded Indy Hackers, and, once in a while, helps with the Indianapolis Javascript Society. He finds people to be even more interesting than the code he spends hours upon hours writing. That said, you’ll still find him glued to his guitar once in a while.
+
+
+### Ben Cochran - Kubernetes 101
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/m6ZDCp8WI8w" frameborder="0" allowfullscreen></iframe>
+
+Ben is a Principal Developer and Systems Architect with 15 years of experience developing standalone and web based applications in Enterprise, Freelance and Startup environments. He is currently the Head of Machine Learning Engineering locally at Crowe LLP. He's looking to hire three Machine Learning Engineers, come talk to him after the presentation! He also has a penchant for brewing beer, role playing games and 3D Printing as well as using Kubernetes for orchestration of containerized applications.
