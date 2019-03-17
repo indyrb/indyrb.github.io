@@ -4,7 +4,7 @@
   <title><![CDATA[IndyRB.org]]></title>
   <link href="http://indyrb.github.io/atom.xml" rel="self"/>
   <link href="http://indyrb.github.io/"/>
-  <updated>2019-02-21T22:39:09-05:00</updated>
+  <updated>2019-03-16T21:31:37-04:00</updated>
   <id>http://indyrb.github.io/</id>
   <author>
     <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
@@ -12,6 +12,42 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup March 13th, 2019]]></title>
+    <link href="http://indyrb.github.io/posts/2019/03/13/meetup-mar13/"/>
+    <updated>2019-03-13T22:00:00-04:00</updated>
+    <id>http://indyrb.github.io/posts/2019/03/13/meetup-mar13</id>
+    <content type="html"><![CDATA[<h3><a href="https://twitter.com/10scuba_steve">Stephen Freund</a> - Ruby All The Way Down: Diving Deep With The Ruby Shell</h3>
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/ZxU0lpjj7fs" frameborder="0" allowfullscreen></iframe>
+
+
+<p>The ruby shell is something many of us use but rarely think about. In this talk, I will be digging in to the ruby shell to find out how it works and how we could build our own.</p>
+
+<p>Steven is a software engineer at Springbuk. He writes flawless backend Ruby, pristine frontend React, and has <em>never</em> pushed a bug to production.</p>
+
+<ul>
+<li><a href="https://github.com/sdfreund10/ruby_shell_example">Ruby Shell Example Code from Presentation</a></li>
+</ul>
+
+
+<h3><a href="https://twitter.com/nic_ollis">Nic Ollis</a> - Web Accessibility</h3>
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/mElNXIjLdDw" frameborder="0" allowfullscreen></iframe>
+
+
+<p>Join Nic for a talk about web accessibility. How easy it is to implement, why it matters, and how you can increase your user base without internationalizing your product. This talk will focus primarily on vision-based disabilities and the options to make your sites/apps delightful for them.</p>
+
+<p>While Nic&rsquo;s official title is &ldquo;iOS Engineer who also contributes to the web team&rdquo; he typically just goes by &ldquo;Software Engineer&rdquo;. As a remote employee of Big Nerd Ranch, Nic is currently focusing on accessibility issues on a project at a Fortune 500 company and studying computer vision.</p>
+
+<ul>
+<li><a href="https://nic.oll.is">https://nic.oll.is</a></li>
+<li><a href="oll.is/indyrb">Slides and resources from the presentation</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Meetup February 13th, 2019]]></title>
@@ -736,52 +772,6 @@ He&rsquo;s the co-founder of Woven, exploring better ways to hire software engin
 <p>Ruby’s a scripting language, so why not use it for, you know, scripting. When you combine MacOS’s built-in scripting and automation tools - such as Automator, launchd, AppleScript, Workflows and Services - with Ruby, nothing is out of reach. Let’s walk through MacOS’ core automation and scripting tools, and use a dash of Ruby to build ourselves something useful (or, failing that, something silly).</p>
 
 <p>Chris has been developing in Ruby for more than a decade, is a former instructor at The Iron Yard coding bootcamp, and current Senior Engineer at Sigtsr. He cares entirely too much about college football, naps, and podcasts.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Meetup March 8, 2017]]></title>
-    <link href="http://indyrb.github.io/posts/2017/02/08/meetup-march-8/"/>
-    <updated>2017-02-08T21:00:00-05:00</updated>
-    <id>http://indyrb.github.io/posts/2017/02/08/meetup-march-8</id>
-    <content type="html"><![CDATA[<h3><a href="https://twitter.com/t27duck">Tony Drake</a> - Reporting on Rails - ActiveRecord and ROLAP Working Together</h3>
-
-<iframe width="100%" height="300" src="https://www.youtube.com/embed/L1E8cKWCEtU" frameborder="0" allowfullscreen></iframe>
-
-
-<p>This talk is over a brief journey through the world of Relational Online Analytical Processing (ROLAP) and seeing how this can apply to Rails. This will also include a couple database considerations and possibly an overview of a DSL he&rsquo;s building that ties it all together.</p>
-
-<p>Tony Drake is currently senior developer on a team specializing in billing and reporting for an enterprise-level Rails application where he co-architected a custom ROLAP framework using PostgreSQL on the backend. He&rsquo;d like to share his ten years (seven of those with Rails) of professional web development experience with others.  He can also kick anyone&rsquo;s butt in Mario Kart with Rosalina.</p>
-
-<ul>
-<li><a href="https://github.com/t27duck/showandtell/tree/master/presentations/indyrb/2017-03">Slides</a></li>
-<li><a href="https://github.com/t27duck/active_reporting">Active Reporting Gem</a></li>
-<li><a href="http://railsconf.com/program#session-130">Link to this Session at upcoming RailsConf 2017!</a></li>
-</ul>
-
-
-<h3><a href="https://twitter.com/rydertimberlake">Ryder Timberlake</a> - Expand Your Perspective and Change Your Life Through Pair Programming</h3>
-
-<iframe width="100%" height="300" src="https://www.youtube.com/embed/LEHqhp1-zNQ" frameborder="0" allowfullscreen></iframe>
-
-
-<p><em><em>Editor&rsquo;s Note:</em> This video is highly condensed for time and has poor audio due to many people speaking simultaneously. That said, I think it&rsquo;s a wonderful example of how to run an impromptu meetup workshop, and a view into the thought and processes of solving a few simple puzzles on Codewars.</em></p>
-
-<p>Tech is siloed. Languages, teams, and services are siloed. Good design is frequently portrayed and interpreted as a constellation of context-independent best practices. And oftentimes we can hardly have a productive conversation about design without our knee-jerk ideas of the way we ought to build something getting in the way.<br/>
-When we enforce conventions in a project, we often do so without a good understanding of which conventions are essential and which are peripheral. We often do so without a sufficiently shared vocabulary of design with which to argue constructively. And when we choose a tool, we often do so by merely defaulting to what we know behind a shield of inscrutable buzzwords &ndash; words whose meaning is rarely exposed to the same rigorous inquiry with which we examine spaces or tabs or choice of editor.</p>
-
-<p>I would argue that a startling majority of the most intractable technical problems we face in software are simply interpersonal and communication problems expressing themselves in a technical domain. And I think we can make things a whole lot better by just putting our heads together.</p>
-
-<p>This is more workshop than talk. Bring your laptop and ideally your free <a href="https://www.codewars.com">Codewars account</a>.</p>
-
-<p>Ryder is an Iron Yard alumnus and engineer at Salesforce, where he writes tests for the Approvals app and is a contributor to the automated testing framework used across the Marketing Cloud. He is an outspoken advocate of sound implementations of pair programming, which he believes to holistically aid all manner of technical and human endeavors in software &ndash; from writing maintainable code and fostering good user experiences to encouraging effective communication and diversity in the workplace.</p>
-
-<ul>
-<li><a href="https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9">Codewars kata: Shortest Word</a></li>
-<li><a href="https://www.codewars.com/kata/511f11d355fe575d2c000001">CodeWars kata: 2 Oldest Ages</a></li>
-<li><a href="http://www.greaterthancode.com/podcast/episode-022-you-are-an-asset/">Ryder on Greater Than Code podcast: &ldquo;You Are an Asset&rdquo;</a></li>
-</ul>
-
 ]]></content>
   </entry>
   

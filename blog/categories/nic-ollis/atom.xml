@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Nic Ollis | IndyRB.org]]></title>
   <link href="http://indyrb.github.io/blog/categories/nic-ollis/atom.xml" rel="self"/>
   <link href="http://indyrb.github.io/"/>
-  <updated>2019-02-21T22:39:09-05:00</updated>
+  <updated>2019-03-16T21:31:37-04:00</updated>
   <id>http://indyrb.github.io/</id>
   <author>
     <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
@@ -12,6 +12,42 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup March 13th, 2019]]></title>
+    <link href="http://indyrb.github.io/posts/2019/03/13/meetup-mar13/"/>
+    <updated>2019-03-13T22:00:00-04:00</updated>
+    <id>http://indyrb.github.io/posts/2019/03/13/meetup-mar13</id>
+    <content type="html"><![CDATA[<h3><a href="https://twitter.com/10scuba_steve">Stephen Freund</a> - Ruby All The Way Down: Diving Deep With The Ruby Shell</h3>
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/ZxU0lpjj7fs" frameborder="0" allowfullscreen></iframe>
+
+
+<p>The ruby shell is something many of us use but rarely think about. In this talk, I will be digging in to the ruby shell to find out how it works and how we could build our own.</p>
+
+<p>Steven is a software engineer at Springbuk. He writes flawless backend Ruby, pristine frontend React, and has <em>never</em> pushed a bug to production.</p>
+
+<ul>
+<li><a href="https://github.com/sdfreund10/ruby_shell_example">Ruby Shell Example Code from Presentation</a></li>
+</ul>
+
+
+<h3><a href="https://twitter.com/nic_ollis">Nic Ollis</a> - Web Accessibility</h3>
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/mElNXIjLdDw" frameborder="0" allowfullscreen></iframe>
+
+
+<p>Join Nic for a talk about web accessibility. How easy it is to implement, why it matters, and how you can increase your user base without internationalizing your product. This talk will focus primarily on vision-based disabilities and the options to make your sites/apps delightful for them.</p>
+
+<p>While Nic&rsquo;s official title is &ldquo;iOS Engineer who also contributes to the web team&rdquo; he typically just goes by &ldquo;Software Engineer&rdquo;. As a remote employee of Big Nerd Ranch, Nic is currently focusing on accessibility issues on a project at a Fortune 500 company and studying computer vision.</p>
+
+<ul>
+<li><a href="https://nic.oll.is">https://nic.oll.is</a></li>
+<li><a href="oll.is/indyrb">Slides and resources from the presentation</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Meetup August 9, 2017]]></title>
