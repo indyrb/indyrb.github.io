@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Meetup March 13th, 2019"
+date: 2019-03-13 21:00:00 -0500
+comments: true
+categories: [Stephen Freund, Nic Ollis]
+---
+
+###[Stephen Freund](https://twitter.com/10scuba_steve) - Ruby All The Way Down: Diving Deep With The Ruby Shell
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/ZxU0lpjj7fs" frameborder="0" allowfullscreen></iframe>
+
+The ruby shell is something many of us use but rarely think about. In this talk, I will be digging in to the ruby shell to find out how it works and how we could build our own.
+
+Steven is a software engineer at Springbuk. He writes flawless backend Ruby, pristine frontend React, and has _never_ pushed a bug to production.
+
+* [Ruby Shell Example Code from Presentation](https://github.com/sdfreund10/ruby_shell_example)
+
+###[Nic Ollis](https://twitter.com/nic_ollis) - Web Accessibility
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/mElNXIjLdDw" frameborder="0" allowfullscreen></iframe>
+
+Join Nic for a talk about web accessibility. How easy it is to implement, why it matters, and how you can increase your user base without internationalizing your product. This talk will focus primarily on vision-based disabilities and the options to make your sites/apps delightful for them.
+
+While Nic's official title is "iOS Engineer who also contributes to the web team" he typically just goes by "Software Engineer". As a remote employee of Big Nerd Ranch, Nic is currently focusing on accessibility issues on a project at a Fortune 500 company and studying computer vision.
+
+* [https://nic.oll.is](https://nic.oll.is)
+* [Slides and resources from the presentation](oll.is/indyrb)
