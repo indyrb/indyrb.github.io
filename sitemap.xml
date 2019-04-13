@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://indyrb.github.io/posts/2019/04/10/meetup-apr10/</loc>
+<lastmod>2019-04-10T22:00:00-04:00</lastmod>
+</url>
+<url>
 <loc>http://indyrb.github.io/posts/2019/03/13/meetup-mar13/</loc>
 <lastmod>2019-03-13T22:00:00-04:00</lastmod>
 </url>
@@ -511,5 +515,9 @@
 <url>
 <loc>http://indyrb.github.io/assets/20170809/GraphQL%20and%20You.pdf</loc>
 <lastmod>2019-01-20T20:54:10-05:00</lastmod>
+</url>
+<url>
+<loc>http://indyrb.github.io/assets/20190410/remote-pairing.pdf</loc>
+<lastmod>2019-04-11T13:33:19-04:00</lastmod>
 </url>
 </urlset>

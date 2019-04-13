@@ -4,7 +4,7 @@
   <title><![CDATA[IndyRB.org]]></title>
   <link href="http://indyrb.github.io/atom.xml" rel="self"/>
   <link href="http://indyrb.github.io/"/>
-  <updated>2019-03-16T21:31:37-04:00</updated>
+  <updated>2019-04-13T08:55:21-04:00</updated>
   <id>http://indyrb.github.io/</id>
   <author>
     <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
@@ -12,6 +12,38 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup April 10th, 2019]]></title>
+    <link href="http://indyrb.github.io/posts/2019/04/10/meetup-apr10/"/>
+    <updated>2019-04-10T22:00:00-04:00</updated>
+    <id>http://indyrb.github.io/posts/2019/04/10/meetup-apr10</id>
+    <content type="html"><![CDATA[<h3><a href="https://twitter.com/dstrus">Davey Strus</a> &amp; <a href="https://twitter.com/d_palaz">Dana Palazzo</a> - Remote Pairing: Tools and Practices</h3>
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/ShL37t_JE74" frameborder="0" allowfullscreen></iframe>
+
+
+<p>The benefits of pair programming are well-documented—and accessible to even remote workers. In our workshop, we&rsquo;ll discuss tips, best practices, and tools we&rsquo;ve used to pair efficiently, constructively, and enjoyably when working from different cities. This workshop is for any kind of developer—new, senior, or just curious!</p>
+
+<p>Davey is a partner and co-founder at Fretless, a web and mobile consultancy. He has taught numerous front-end and full-stack coding bootcamps and is known to sing the blues from time to time.</p>
+
+<p>Dana is a web and mobile app developer at Fretless. She completed an immersive full-stack program through General Assembly after changing careers. Dana is one of the organizers of Hoosier Women in Tech, a member of the board of the Indiana University Credit Union, and Secretary of the Board of Public Works for the City of Bloomington. When she’s not coding or serving on a board, she’s usually cooking food or talking about it.</p>
+
+<ul>
+<li><a href="http://indyrb.github.io/assets/20190410/remote-pairing.pdf">Slides</a></li>
+<li><a href="https://slack.com/screenhero">Slack&rsquo;s ScreenHero</a></li>
+<li><a href="https://www.use-together.com">Use Together: Collaborative screen sharing with multiple mouse cursors</a></li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare">Visual Studio Code Live Share: Real-time collaborate development from the comfort of your favorite tools</a></li>
+<li><a href="https://appear.in">Appear.in: Easy Video Conversations</a></li>
+<li><a href="https://ngrok.com">NGrok: Secure introspectable tunnels to localhost</a></li>
+<li><a href="https://tmate.io">TMate: Instant terminal sharing</a></li>
+<li><a href="https://zoom.us">Zoom: Video Conferencing, Web Conferencing, Webinars, Screen Sharing</a></li>
+<li><a href="https://serveo.net">Serveo: expose local servers to the internet using SSH</a></li>
+<li><a href="https://floobits.com">Floobits: Cross-editor real-time collaboration</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Meetup March 13th, 2019]]></title>
@@ -747,31 +779,6 @@ He&rsquo;s the co-founder of Woven, exploring better ways to hire software engin
 <p>Who is Daniel?</p>
 
 <p>I (Daniel Brown) am a husband (to Nina), co-founder (of Occam Education) and code monkey (Rails!) in roughly that order. I studied Arabic and Russian as an undergrad, went to Syria and then dropped out of an MS program in Arabic to start Occam Education with my brother. In 2014, I went to a Rails coding bootcamp, and in 2016, I received an MS in Applied Positive Psychology. I have worked in education (tutoring and ESL) since 2005, and much of my recent work has been in coaching adolescents striving to build internal motivation and grit.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Meetup June 14, 2017]]></title>
-    <link href="http://indyrb.github.io/posts/2017/06/14/meetup-june14/"/>
-    <updated>2017-06-14T22:00:00-04:00</updated>
-    <id>http://indyrb.github.io/posts/2017/06/14/meetup-june14</id>
-    <content type="html"><![CDATA[<h3><a href="https://twitter.com/t27duck">Tony Drake</a> - Testing a Gem Against Different Databases and Different Versions of Rails</h3>
-
-<iframe width="100%" height="300" src="https://www.youtube.com/embed/7H6AiL7Hi7I" frameborder="0" allowfullscreen></iframe>
-
-
-<p>So you built a gem that integrates with ActiveRecord. You write tests, push to Github, CI passes, and then publish to RubyGems. Great! But later, someone submits a bug&hellip; the gem doesn&rsquo;t work with MySQL and Rails 4.2 and you only tested your gem against PostgreSQL and Rails 5. You want your gem to support all &ldquo;active&rdquo; versions of Rails and at least both PostgreSQL and MySQL. So how to do you it? How do you get your tests to be able to run against different versions of Rails and databases on a whim? Let&rsquo;s go through from start to finish the story of creating a gem and testing against these permutations of real world setups.</p>
-
-<p>Tony Drake is a senior web developer with about 10 years (most of it in Ruby) of total experience building sites professionally. By day, He curses DHH&rsquo;s name while hacking away at code. By night, he&rsquo;s peeling away from the starting line while blowing up other vehicles in my way in Mario Kart.</p>
-
-<h3><a href="https://twitter.com/chris_vannoy">Chris Vannoy</a> - Scripting the Mac with Ruby</h3>
-
-<iframe width="100%" height="300" src="https://www.youtube.com/embed/owXhe4mKqwc" frameborder="0" allowfullscreen></iframe>
-
-
-<p>Ruby’s a scripting language, so why not use it for, you know, scripting. When you combine MacOS’s built-in scripting and automation tools - such as Automator, launchd, AppleScript, Workflows and Services - with Ruby, nothing is out of reach. Let’s walk through MacOS’ core automation and scripting tools, and use a dash of Ruby to build ourselves something useful (or, failing that, something silly).</p>
-
-<p>Chris has been developing in Ruby for more than a decade, is a former instructor at The Iron Yard coding bootcamp, and current Senior Engineer at Sigtsr. He cares entirely too much about college football, naps, and podcasts.</p>
 ]]></content>
   </entry>
   

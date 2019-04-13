@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Davey Strus | IndyRB.org]]></title>
   <link href="http://indyrb.github.io/blog/categories/davey-strus/atom.xml" rel="self"/>
   <link href="http://indyrb.github.io/"/>
-  <updated>2019-03-16T21:31:37-04:00</updated>
+  <updated>2019-04-13T08:55:21-04:00</updated>
   <id>http://indyrb.github.io/</id>
   <author>
     <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
@@ -12,6 +12,38 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup April 10th, 2019]]></title>
+    <link href="http://indyrb.github.io/posts/2019/04/10/meetup-apr10/"/>
+    <updated>2019-04-10T22:00:00-04:00</updated>
+    <id>http://indyrb.github.io/posts/2019/04/10/meetup-apr10</id>
+    <content type="html"><![CDATA[<h3><a href="https://twitter.com/dstrus">Davey Strus</a> &amp; <a href="https://twitter.com/d_palaz">Dana Palazzo</a> - Remote Pairing: Tools and Practices</h3>
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/ShL37t_JE74" frameborder="0" allowfullscreen></iframe>
+
+
+<p>The benefits of pair programming are well-documented—and accessible to even remote workers. In our workshop, we&rsquo;ll discuss tips, best practices, and tools we&rsquo;ve used to pair efficiently, constructively, and enjoyably when working from different cities. This workshop is for any kind of developer—new, senior, or just curious!</p>
+
+<p>Davey is a partner and co-founder at Fretless, a web and mobile consultancy. He has taught numerous front-end and full-stack coding bootcamps and is known to sing the blues from time to time.</p>
+
+<p>Dana is a web and mobile app developer at Fretless. She completed an immersive full-stack program through General Assembly after changing careers. Dana is one of the organizers of Hoosier Women in Tech, a member of the board of the Indiana University Credit Union, and Secretary of the Board of Public Works for the City of Bloomington. When she’s not coding or serving on a board, she’s usually cooking food or talking about it.</p>
+
+<ul>
+<li><a href="/assets/20190410/remote-pairing.pdf">Slides</a></li>
+<li><a href="https://slack.com/screenhero">Slack&rsquo;s ScreenHero</a></li>
+<li><a href="https://www.use-together.com">Use Together: Collaborative screen sharing with multiple mouse cursors</a></li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare">Visual Studio Code Live Share: Real-time collaborate development from the comfort of your favorite tools</a></li>
+<li><a href="https://appear.in">Appear.in: Easy Video Conversations</a></li>
+<li><a href="https://ngrok.com">NGrok: Secure introspectable tunnels to localhost</a></li>
+<li><a href="https://tmate.io">TMate: Instant terminal sharing</a></li>
+<li><a href="https://zoom.us">Zoom: Video Conferencing, Web Conferencing, Webinars, Screen Sharing</a></li>
+<li><a href="https://serveo.net">Serveo: expose local servers to the internet using SSH</a></li>
+<li><a href="https://floobits.com">Floobits: Cross-editor real-time collaboration</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Meetup June 13th, 2018]]></title>
