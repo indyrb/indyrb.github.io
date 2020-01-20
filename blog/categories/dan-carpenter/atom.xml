@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Dan Carpenter | IndyRB.org]]></title>
+  <link href="http://indyrb.github.io/blog/categories/dan-carpenter/atom.xml" rel="self"/>
+  <link href="http://indyrb.github.io/"/>
+  <updated>2020-01-20T16:39:18-05:00</updated>
+  <id>http://indyrb.github.io/</id>
+  <author>
+    <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup May 8th, 2019]]></title>
+    <link href="http://indyrb.github.io/posts/2019/05/08/meetup-may8/"/>
+    <updated>2019-05-08T22:00:00-04:00</updated>
+    <id>http://indyrb.github.io/posts/2019/05/08/meetup-may8</id>
+    <content type="html"><![CDATA[<h3><a href="https://twitter.com/dan_alyst">Dan Carpenter</a> - Machine Learning: An Introduction for Engineers</h3>
+
+<p>Machine learning and software development certainly have some overlapping concerns but have different development processes and each require their own skillsets. It can be difficult to know where to start. This talk will discuss the types of problems that machine learning can solve and how to get started. Some introductory models will be discussed with examples in Ruby.</p>
+
+<p>Daniel is a software engineer and data scientist with special interest in health technology. He works for Springbuk, an Indy-based health intelligence platform. He&rsquo;s been a software engineer for about 10 years and Rubyist for about 8 years.</p>
+]]></content>
+  </entry>
+  
+</feed>

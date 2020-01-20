@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Adam Schwartz | IndyRB.org]]></title>
+  <link href="http://indyrb.github.io/blog/categories/adam-schwartz/atom.xml" rel="self"/>
+  <link href="http://indyrb.github.io/"/>
+  <updated>2020-01-20T16:39:18-05:00</updated>
+  <id>http://indyrb.github.io/</id>
+  <author>
+    <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup January 8th, 2020]]></title>
+    <link href="http://indyrb.github.io/posts/2020/01/08/meetup-jan8/"/>
+    <updated>2020-01-08T21:00:00-05:00</updated>
+    <id>http://indyrb.github.io/posts/2020/01/08/meetup-jan8</id>
+    <content type="html"><![CDATA[<h3><a href="hhttps://anschwa.com/">Adam Schwartz</a> - Emacs and the joy of text editing</h3>
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/0tFFQKdM2cg" frameborder="0" allowfullscreen></iframe>
+
+
+<p>Let&rsquo;s explore text editing as a tool for thought as we examine the way of EMACS. This talk covers the history of text editors as well as what sets it apart from commercial software and IDEs.</p>
+
+<p>Adam Schwartz is a Software Engineer at Diagnotes and a recent graduate from Earlham College, where he studied ceramics, philosophy, and computer science.</p>
+]]></content>
+  </entry>
+  
+</feed>

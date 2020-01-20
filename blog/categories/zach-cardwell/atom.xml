@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Zach Cardwell | IndyRB.org]]></title>
+  <link href="http://indyrb.github.io/blog/categories/zach-cardwell/atom.xml" rel="self"/>
+  <link href="http://indyrb.github.io/"/>
+  <updated>2020-01-20T16:39:18-05:00</updated>
+  <id>http://indyrb.github.io/</id>
+  <author>
+    <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup September 11th, 2019]]></title>
+    <link href="http://indyrb.github.io/posts/2019/09/11/meetup-sep11/"/>
+    <updated>2019-09-11T22:00:00-04:00</updated>
+    <id>http://indyrb.github.io/posts/2019/09/11/meetup-sep11</id>
+    <content type="html"><![CDATA[<h3><a href="https://www.linkedin.com/in/zachcardwell271828/">Zach Cardwell</a> - Hacking Data Structures with Math</h3>
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/iQrjZ6DYUfE" frameborder="0" allowfullscreen></iframe>
+
+
+<p>We all know the data structures that exist in most programming languages - hashes, arrays, linked lists, etc. Using some math and hacking some pretty simple concepts, you can build algorithms that out perform and scale better than some of the most advanced deep learning networks. This talk will focus on a few algorithms around similarity detection and some ways you can implement this in a scalable way.</p>
+
+<p>Zach Cardwell is an independent data scientist helping to solve business problems with scalable and actionable solutions. A graduate from Purdue with a degree in math and physics, he&rsquo;s worked in both the private and public sectors, solving problems across industries as varied as logistics, loss prevention and healthcare.</p>
+]]></content>
+  </entry>
+  
+</feed>

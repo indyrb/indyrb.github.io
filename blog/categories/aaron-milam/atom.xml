@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Aaron Milam | IndyRB.org]]></title>
   <link href="http://indyrb.github.io/blog/categories/aaron-milam/atom.xml" rel="self"/>
   <link href="http://indyrb.github.io/"/>
-  <updated>2019-04-13T08:55:21-04:00</updated>
+  <updated>2020-01-20T16:39:18-05:00</updated>
   <id>http://indyrb.github.io/</id>
   <author>
     <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup June 17th, 2019]]></title>
+    <link href="http://indyrb.github.io/posts/2019/06/17/meetup-jun17/"/>
+    <updated>2019-06-17T22:00:00-04:00</updated>
+    <id>http://indyrb.github.io/posts/2019/06/17/meetup-jun17</id>
+    <content type="html"><![CDATA[<h3><a href="https://twitter.com/dan_alyst">James Bush</a> - Machine Learning: An Introduction for Engineers</h3>
+
+<p>James Bush will discuss:
+paper-trail &ndash; A simple &amp; elegant way of tracking changes.</p>
+
+<p>James is a self-taught bootcamp grad on a quest to become a senior software engineer.</p>
+
+<p>Learn&hellip;With Science!
+Improve non-machine-learning outcomes using science about when &amp; how to &ldquo;deliberate practice&rdquo;.</p>
+
+<h3><a href="https://twitter.com/milamsoft">Aaron Milam</a> - ASDF</h3>
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/DOqdWSuuxCQ" frameborder="0" allowfullscreen></iframe>
+
+
+<p>Working on multiple projects at once? Do those projects use different versions of everything? Learn how asdf can make your life easier! - With Araon Milam an engineer at Lessonly truly living out their mission by building tools that make work easier.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Meetup January 11, 2017]]></title>

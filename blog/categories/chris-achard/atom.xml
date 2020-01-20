@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Chris Achard | IndyRB.org]]></title>
   <link href="http://indyrb.github.io/blog/categories/chris-achard/atom.xml" rel="self"/>
   <link href="http://indyrb.github.io/"/>
-  <updated>2019-04-13T08:55:21-04:00</updated>
+  <updated>2020-01-20T16:39:18-05:00</updated>
   <id>http://indyrb.github.io/</id>
   <author>
     <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
@@ -12,6 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup October 9th, 2019]]></title>
+    <link href="http://indyrb.github.io/posts/2019/10/09/meetup-oct9/"/>
+    <updated>2019-10-09T22:00:00-04:00</updated>
+    <id>http://indyrb.github.io/posts/2019/10/09/meetup-oct9</id>
+    <content type="html"><![CDATA[<h3><a href="https://chrisachard.com/">Chris Achard</a> - Building a new Rails 6 app with React on Top</h3>
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/WzaZzruo32Y" frameborder="0" allowfullscreen></iframe>
+
+
+<p>Rails 6 added several cool new features, including building in Webpacker as the default javascript bundling option. In this talk, I&rsquo;ll go over a lot of the new Rails 6 features, and then create a brand new rails 6 app with React on top. Come to find out how easy it is to get a new app up and running!</p>
+
+<p>Chris is an independent React and Rails consultant, and online educator teaching about software development. You can find what he&rsquo;s working on at his site: <a href="https://chrisachard.com/">chrisachard.com</a> or on twitter: <a href="https://twitter.com/chrisachard">@chrisachard</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Meetup May 9, 2012]]></title>
