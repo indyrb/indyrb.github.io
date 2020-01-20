@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Meetup October 9th, 2019"
+date: 2019-10-09 21:00:00 -0500
+comments: true
+categories: [Chris Achard]
+---
+
+###[Chris Achard](https://chrisachard.com/) - Building a new Rails 6 app with React on Top
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/WzaZzruo32Y" frameborder="0" allowfullscreen></iframe>
+
+Rails 6 added several cool new features, including building in Webpacker as the default javascript bundling option. In this talk, I'll go over a lot of the new Rails 6 features, and then create a brand new rails 6 app with React on top. Come to find out how easy it is to get a new app up and running!
+
+Chris is an independent React and Rails consultant, and online educator teaching about software development. You can find what he's working on at his site: [chrisachard.com](https://chrisachard.com/) or on twitter: [@chrisachard](https://twitter.com/chrisachard)

@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Meetup September 11th, 2019"
+date: 2019-09-11 21:00:00 -0500
+comments: true
+categories: [Zach Cardwell]
+---
+
+###[Zach Cardwell](https://www.linkedin.com/in/zachcardwell271828/) - Hacking Data Structures with Math
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/iQrjZ6DYUfE" frameborder="0" allowfullscreen></iframe>
+
+We all know the data structures that exist in most programming languages - hashes, arrays, linked lists, etc. Using some math and hacking some pretty simple concepts, you can build algorithms that out perform and scale better than some of the most advanced deep learning networks. This talk will focus on a few algorithms around similarity detection and some ways you can implement this in a scalable way.
+
+Zach Cardwell is an independent data scientist helping to solve business problems with scalable and actionable solutions. A graduate from Purdue with a degree in math and physics, he's worked in both the private and public sectors, solving problems across industries as varied as logistics, loss prevention and healthcare.
