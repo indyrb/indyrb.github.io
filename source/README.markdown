@@ -28,8 +28,8 @@ Before trying to deploy an update, be sure to pull the latest from both source a
 
 Then you can deploy:
 
-    rake generate
-    rake deploy
+    bundle exec rake generate
+    bundle exec rake deploy
 
 and commit the changes to source:
 
@@ -40,13 +40,13 @@ and commit the changes to source:
 Some commands from [This helpful site](http://blog.revolunet.com/blog/2013/04/15/octopress-cheatsheet/)
 
     # create a new post
-    rake new_post['Title of the post']
+    bundle exec rake new_post['Title of the post']
 
     # create a new page
-    rake new_page['Title of the page']
+    bundle exec rake new_page['Title of the page']
 
     # preview your work on localhost:4000
-    rake preview
+    bundle exec rake preview
 
     # publish it
     cd _deploy
@@ -55,7 +55,7 @@ Some commands from [This helpful site](http://blog.revolunet.com/blog/2013/04/15
     cd ..
     git pull origin source
 
-    rake generate && rake deploy
+    bundle exec rake generate && bundle exec rake deploy
 
     # commit and backup(automatic message)
     git add .
