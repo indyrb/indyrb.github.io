@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Eric Oestrich | IndyRB.org]]></title>
   <link href="http://indyrb.github.io/blog/categories/eric-oestrich/atom.xml" rel="self"/>
   <link href="http://indyrb.github.io/"/>
-  <updated>2020-01-20T16:41:49-05:00</updated>
+  <updated>2023-02-10T11:11:51-05:00</updated>
   <id>http://indyrb.github.io/</id>
   <author>
     <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Meetup August 13]]></title>
-    <link href="http://indyrb.github.io/posts/2014/08/14/meetup-august-13/"/>
-    <updated>2014-08-14T00:30:24-04:00</updated>
-    <id>http://indyrb.github.io/posts/2014/08/14/meetup-august-13</id>
+    <link href="http://indyrb.github.io/posts/2014/08/13/meetup-august-13/"/>
+    <updated>2014-08-13T23:30:24-05:00</updated>
+    <id>http://indyrb.github.io/posts/2014/08/13/meetup-august-13</id>
     <content type="html"><![CDATA[<h3><a href="http://twitter.com/ericoestritch">Eric Oestrich</a> - Amazon SQS and Redis-Queue</h3>
 
 <iframe width="100%" height="300" src="https://www.youtube.com/embed/dXXez4pZaTE" frameborder="0" allowfullscreen></iframe>

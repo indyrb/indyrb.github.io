@@ -4,7 +4,7 @@
   <title><![CDATA[IndyRB.org]]></title>
   <link href="http://indyrb.github.io/atom.xml" rel="self"/>
   <link href="http://indyrb.github.io/"/>
-  <updated>2020-01-20T16:41:49-05:00</updated>
+  <updated>2023-02-10T11:11:51-05:00</updated>
   <id>http://indyrb.github.io/</id>
   <author>
     <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
@@ -12,6 +12,20 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup February 8th, 2023]]></title>
+    <link href="http://indyrb.github.io/posts/2023/02/08/meetup-february-8/"/>
+    <updated>2023-02-08T21:00:00-05:00</updated>
+    <id>http://indyrb.github.io/posts/2023/02/08/meetup-february-8</id>
+    <content type="html"><![CDATA[<p>Food, Drinks &amp; chat with local Rubyists.</p>
+
+<ul>
+<li><a href="https://broadripplebrewpub.com">Broad Ripple Brewpub</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Meetup January 8th, 2020]]></title>
@@ -54,7 +68,7 @@
   <entry>
     <title type="html"><![CDATA[Meetup October 9th, 2019]]></title>
     <link href="http://indyrb.github.io/posts/2019/10/09/meetup-oct9/"/>
-    <updated>2019-10-09T22:00:00-04:00</updated>
+    <updated>2019-10-09T21:00:00-05:00</updated>
     <id>http://indyrb.github.io/posts/2019/10/09/meetup-oct9</id>
     <content type="html"><![CDATA[<h3><a href="https://chrisachard.com/">Chris Achard</a> - Building a new Rails 6 app with React on Top</h3>
 
@@ -70,7 +84,7 @@
   <entry>
     <title type="html"><![CDATA[Meetup September 11th, 2019]]></title>
     <link href="http://indyrb.github.io/posts/2019/09/11/meetup-sep11/"/>
-    <updated>2019-09-11T22:00:00-04:00</updated>
+    <updated>2019-09-11T21:00:00-05:00</updated>
     <id>http://indyrb.github.io/posts/2019/09/11/meetup-sep11</id>
     <content type="html"><![CDATA[<h3><a href="https://www.linkedin.com/in/zachcardwell271828/">Zach Cardwell</a> - Hacking Data Structures with Math</h3>
 
@@ -86,7 +100,7 @@
   <entry>
     <title type="html"><![CDATA[Meetup June 17th, 2019]]></title>
     <link href="http://indyrb.github.io/posts/2019/06/17/meetup-jun17/"/>
-    <updated>2019-06-17T22:00:00-04:00</updated>
+    <updated>2019-06-17T21:00:00-05:00</updated>
     <id>http://indyrb.github.io/posts/2019/06/17/meetup-jun17</id>
     <content type="html"><![CDATA[<h3><a href="https://twitter.com/dan_alyst">James Bush</a> - Machine Learning: An Introduction for Engineers</h3>
 
@@ -110,7 +124,7 @@ Improve non-machine-learning outcomes using science about when &amp; how to &ldq
   <entry>
     <title type="html"><![CDATA[Meetup May 8th, 2019]]></title>
     <link href="http://indyrb.github.io/posts/2019/05/08/meetup-may8/"/>
-    <updated>2019-05-08T22:00:00-04:00</updated>
+    <updated>2019-05-08T21:00:00-05:00</updated>
     <id>http://indyrb.github.io/posts/2019/05/08/meetup-may8</id>
     <content type="html"><![CDATA[<h3><a href="https://twitter.com/dan_alyst">Dan Carpenter</a> - Machine Learning: An Introduction for Engineers</h3>
 
@@ -123,7 +137,7 @@ Improve non-machine-learning outcomes using science about when &amp; how to &ldq
   <entry>
     <title type="html"><![CDATA[Meetup April 10th, 2019]]></title>
     <link href="http://indyrb.github.io/posts/2019/04/10/meetup-apr10/"/>
-    <updated>2019-04-10T22:00:00-04:00</updated>
+    <updated>2019-04-10T21:00:00-05:00</updated>
     <id>http://indyrb.github.io/posts/2019/04/10/meetup-apr10</id>
     <content type="html"><![CDATA[<h3><a href="https://twitter.com/dstrus">Davey Strus</a> &amp; <a href="https://twitter.com/d_palaz">Dana Palazzo</a> - Remote Pairing: Tools and Practices</h3>
 
@@ -155,7 +169,7 @@ Improve non-machine-learning outcomes using science about when &amp; how to &ldq
   <entry>
     <title type="html"><![CDATA[Meetup March 13th, 2019]]></title>
     <link href="http://indyrb.github.io/posts/2019/03/13/meetup-mar13/"/>
-    <updated>2019-03-13T22:00:00-04:00</updated>
+    <updated>2019-03-13T21:00:00-05:00</updated>
     <id>http://indyrb.github.io/posts/2019/03/13/meetup-mar13</id>
     <content type="html"><![CDATA[<h3><a href="https://twitter.com/10scuba_steve">Stephen Freund</a> - Ruby All The Way Down: Diving Deep With The Ruby Shell</h3>
 
@@ -272,7 +286,7 @@ Improve non-machine-learning outcomes using science about when &amp; how to &ldq
   <entry>
     <title type="html"><![CDATA[Meetup October 10th, 2018]]></title>
     <link href="http://indyrb.github.io/posts/2018/10/10/meetup-oct10/"/>
-    <updated>2018-10-10T22:00:00-04:00</updated>
+    <updated>2018-10-10T21:00:00-05:00</updated>
     <id>http://indyrb.github.io/posts/2018/10/10/meetup-oct10</id>
     <content type="html"><![CDATA[<h3><a href="https://twitter.com/t27duck">Tony Drake</a> - The Anatomy of a Ruby Gem: Going from Zero to Sharing Code</h3>
 
@@ -299,7 +313,7 @@ Improve non-machine-learning outcomes using science about when &amp; how to &ldq
   <entry>
     <title type="html"><![CDATA[Meetup September 12th, 2018]]></title>
     <link href="http://indyrb.github.io/posts/2018/09/12/meetup-sep12/"/>
-    <updated>2018-09-12T22:00:00-04:00</updated>
+    <updated>2018-09-12T21:00:00-05:00</updated>
     <id>http://indyrb.github.io/posts/2018/09/12/meetup-sep12</id>
     <content type="html"><![CDATA[<h3>Fishbowl Panel on Mentoring Engineers</h3>
 
@@ -335,7 +349,7 @@ is CTO at Pattern89, the data science for paid social platform, where he leads a
   <entry>
     <title type="html"><![CDATA[Meetup August 8th, 2018]]></title>
     <link href="http://indyrb.github.io/posts/2018/08/08/meetup-aug8/"/>
-    <updated>2018-08-08T22:00:00-04:00</updated>
+    <updated>2018-08-08T21:00:00-05:00</updated>
     <id>http://indyrb.github.io/posts/2018/08/08/meetup-aug8</id>
     <content type="html"><![CDATA[<h3><a href="https://twitter.com/armzilla82">Seth Baughman</a> - Block, Proc, and Two Smoking Lambdas</h3>
 
@@ -357,7 +371,7 @@ is CTO at Pattern89, the data science for paid social platform, where he leads a
   <entry>
     <title type="html"><![CDATA[Meetup June 13th, 2018]]></title>
     <link href="http://indyrb.github.io/posts/2018/07/11/meetup-july11/"/>
-    <updated>2018-07-11T22:00:00-04:00</updated>
+    <updated>2018-07-11T21:00:00-05:00</updated>
     <id>http://indyrb.github.io/posts/2018/07/11/meetup-july11</id>
     <content type="html"><![CDATA[<h3><a href="https://twitter.com/t27duck">Tony Drake</a> - What to Expect when you are Expecting (to Parse a CSV)</h3>
 
@@ -374,7 +388,7 @@ Tony is currently a senior developer with 10 years of professional development e
   <entry>
     <title type="html"><![CDATA[Meetup June 13th, 2018]]></title>
     <link href="http://indyrb.github.io/posts/2018/06/13/meetup-june13/"/>
-    <updated>2018-06-13T22:00:00-04:00</updated>
+    <updated>2018-06-13T21:00:00-05:00</updated>
     <id>http://indyrb.github.io/posts/2018/06/13/meetup-june13</id>
     <content type="html"><![CDATA[<h3><a href="https://twitter.com/whatintheflack">Chris Flack</a> - Strong Parameters (&amp; other fun party conversations)</h3>
 
@@ -421,7 +435,7 @@ Tony is currently a senior developer with 10 years of professional development e
   <entry>
     <title type="html"><![CDATA[Meetup May 9th, 2018]]></title>
     <link href="http://indyrb.github.io/posts/2018/05/09/meetup-may9/"/>
-    <updated>2018-05-09T22:00:00-04:00</updated>
+    <updated>2018-05-09T21:00:00-05:00</updated>
     <id>http://indyrb.github.io/posts/2018/05/09/meetup-may9</id>
     <content type="html"><![CDATA[<h3><a href="https://twitter.com/10scuba_steve">Stephen Freund</a> - Dispelling The Magic of the Params Variable</h3>
 
@@ -437,7 +451,7 @@ Tony is currently a senior developer with 10 years of professional development e
   <entry>
     <title type="html"><![CDATA[Meetup April 11th, 2018]]></title>
     <link href="http://indyrb.github.io/posts/2018/04/11/meetup-april11/"/>
-    <updated>2018-04-11T22:00:00-04:00</updated>
+    <updated>2018-04-11T21:00:00-05:00</updated>
     <id>http://indyrb.github.io/posts/2018/04/11/meetup-april11</id>
     <content type="html"><![CDATA[<h3>Ben Cochran - Pry - A Ruby Developer&rsquo;s Friend</h3>
 
@@ -639,7 +653,7 @@ Tony is currently a senior developer with 10 years of professional development e
   <entry>
     <title type="html"><![CDATA[Meetup March 14th, 2018]]></title>
     <link href="http://indyrb.github.io/posts/2018/03/14/meetup-march14/"/>
-    <updated>2018-03-14T22:00:00-04:00</updated>
+    <updated>2018-03-14T21:00:00-05:00</updated>
     <id>http://indyrb.github.io/posts/2018/03/14/meetup-march14</id>
     <content type="html"><![CDATA[<h3><a href="https://twitter.com/weswinham">Wes Winham</a> - Pen Testing The Developer Interview: Attacks that ace tech interviews and defenses that build better teams</h3>
 
@@ -663,33 +677,6 @@ Tony is currently a senior developer with 10 years of professional development e
 
 <p>Who is Tony Drake?
 Tony is a senior web developer with about 10 years (most of it in Ruby) of total experience building websites professionally. By day, he curses DHH&rsquo;s name while hacking away at code and trying to keep junior devs from scraping their knees. By night, he&rsquo;s peeling away from the starting line while blowing up other vehicles in my way in Mario Kart.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Meetup February 14th, 2018]]></title>
-    <link href="http://indyrb.github.io/posts/2018/02/14/meetup-february14/"/>
-    <updated>2018-02-14T21:00:00-05:00</updated>
-    <id>http://indyrb.github.io/posts/2018/02/14/meetup-february14</id>
-    <content type="html"><![CDATA[<h3><a href="https://twitter.com/10scuba_steve">Stephen Freund</a> - A Brief Tour of Shoes (That Ruby GUI Framework)</h3>
-
-<iframe width="100%" height="300" src="https://www.youtube.com/embed/SEwu_BtfUSs" frameborder="0" allowfullscreen></iframe>
-
-
-<p>Stephen Freund gives an overview of the Shoes Ruby GUI framework.</p>
-
-<p>Stephen is a data engineer at Springbuk. He loves Ruby and has been professionally using it for around 2 years.</p>
-
-<h3><a href="https://twitter.com/soulcutter">Bradley Schaefer</a> - Metaprogramming with <code>super</code> powers</h3>
-
-<iframe width="100%" height="300" src="https://www.youtube.com/embed/ukfAgLKnYZM" frameborder="0" allowfullscreen></iframe>
-
-
-<p>Metaprogramming in Ruby gets a bad rap, yet Rails itself is chock-full of metaprogramming. So what is it that separates good metaprogramming from bad?</p>
-
-<p>Here we will take a look at some of the problems people encounter when they attempt to wield it themselves, and approaches that can make your own metaprogramming code feel as magical as it feels in Rails.</p>
-
-<p>Bradley has lived in six different states but has finally settled into Cleveland, Ohio as his base of operations. He&rsquo;s a lead engineer working remotely for Stitch Fix in San Francisco and will probably talk your ear off about the benefits of the remote life if you give him a chance. He&rsquo;s been a contributor to RSpec on the RSpec core team and wishes he had more time to spend on OSS. You can connect with him on Twitter as <a href="https://twitter.com/soulcutter">@soulcutter</a></p>
 ]]></content>
   </entry>
   

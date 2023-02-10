@@ -9,7 +9,7 @@
   <meta name="author" content="The Indianapolis Ruby Brigade">
 
   
-  <meta name="description" content="David Michael Gregg - The Ubiquitous Utility of Regular Expressions David Michael Gregg walks through some basic RegEx features and use-cases in a &hellip;">
+  <meta name="description" content="Stephen Freund - A Brief Tour of Shoes (That Ruby GUI Framework) Stephen Freund gives an overview of the Shoes Ruby GUI framework. Stephen is a data &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -71,6 +71,53 @@
       
   <header>
     
+      <h1 class="entry-title"><a href="/posts/2018/02/14/meetup-february14/">Meetup February 14th, 2018</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+<time class='entry-date' datetime='2018-02-14T21:00:00-05:00'><span class='date'><span class='date-month'>Feb</span> <span class='date-day'>14</span><span class='date-suffix'>th</span>, <span class='date-year'>2018</span></span> <span class='time'>9:00 pm</span></time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><h3><a href="https://twitter.com/10scuba_steve">Stephen Freund</a> - A Brief Tour of Shoes (That Ruby GUI Framework)</h3>
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/SEwu_BtfUSs" frameborder="0" allowfullscreen></iframe>
+
+
+<p>Stephen Freund gives an overview of the Shoes Ruby GUI framework.</p>
+
+<p>Stephen is a data engineer at Springbuk. He loves Ruby and has been professionally using it for around 2 years.</p>
+
+<h3><a href="https://twitter.com/soulcutter">Bradley Schaefer</a> - Metaprogramming with <code>super</code> powers</h3>
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/ukfAgLKnYZM" frameborder="0" allowfullscreen></iframe>
+
+
+<p>Metaprogramming in Ruby gets a bad rap, yet Rails itself is chock-full of metaprogramming. So what is it that separates good metaprogramming from bad?</p>
+
+<p>Here we will take a look at some of the problems people encounter when they attempt to wield it themselves, and approaches that can make your own metaprogramming code feel as magical as it feels in Rails.</p>
+
+<p>Bradley has lived in six different states but has finally settled into Cleveland, Ohio as his base of operations. He&rsquo;s a lead engineer working remotely for Stitch Fix in San Francisco and will probably talk your ear off about the benefits of the remote life if you give him a chance. He&rsquo;s been a contributor to RSpec on the RSpec core team and wishes he had more time to spend on OSS. You can connect with him on Twitter as <a href="https://twitter.com/soulcutter">@soulcutter</a></p>
+</div>
+  
+  
+
+
+    </article>
+  
+  
+    <article>
+      
+  <header>
+    
       <h1 class="entry-title"><a href="/posts/2018/01/10/meetup-january10/">Meetup January 10th, 2018</a></h1>
     
     
@@ -106,52 +153,6 @@
 
     </article>
   
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/posts/2017/11/08/meetup-november8/">Meetup November 8th, 2017</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-<time class='entry-date' datetime='2017-11-08T21:00:00-05:00'><span class='date'><span class='date-month'>Nov</span> <span class='date-day'>8</span><span class='date-suffix'>th</span>, <span class='date-year'>2017</span></span> <span class='time'>9:00 pm</span></time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><h3><a href="https://twitter.com/dan_alyst">Daniel Carpenter</a> - Let&rsquo;s Do Some (Data) Science in Ruby</h3>
-
-<iframe width="100%" height="300" src="https://www.youtube.com/embed/3MZFCB8A5AY" frameborder="0" allowfullscreen></iframe>
-
-
-<p>When faced with a data science problem, most people reach for Python or R but there is a growing ecosystem of data science tools for Ruby. Daniel briefly discusses what data science is, how it is similar and different from software engineering, and gives an introduction to some of the tools available to Rubyists.</p>
-
-<p>Daniel Carpenter is a software engineer and data scientist with special interest in health technology. He works for Omada Health, a San Francisco based digital health company offering online health coaching for pre-diabetes. He&rsquo;s been a software engineer for about 8 years and Rubyist for about 6 years.</p>
-
-<h3><a href="https://twitter.com/kyleashipley">Kyle Shipley</a> - Webpacker Basics for a Scalable Frontend</h3>
-
-<iframe width="100%" height="300" src="https://www.youtube.com/embed/50KHLBaOU18" frameborder="0" allowfullscreen></iframe>
-
-
-<p>Rails has had a pathological aversion to frontend JavaScript frameworks for years, but no more! Learn about Webpack, the module bundling technology that&rsquo;s taken the JavaScript world by storm &ndash; at least for a week or two &ndash; and how you can incorporate it seamlessly into your Rails application.</p>
-
-<p>Who is Kyle Shipley?
-He&rsquo;s the co-founder of Woven, exploring better ways to hire software engineers. He&rsquo;s been fighting modern JavaScript frameworks since Backbone in 2011 and actually started enjoying them in 2014 with React.</p>
-</div>
-  
-  
-
-
-    </article>
-  
   <div class="pagination">
     
       <a class="prev" href="/posts/12">&larr; Older</a>
@@ -172,19 +173,19 @@ He&rsquo;s the co-founder of Woven, exploring better ways to hire software engin
   <p><a href="http://www.meetup.com/indyrb/">Join now</a> (it&#8217;s free)</p>
 </section>
 <script>
-  $(document).ready(function(){
+  // $(document).ready(function(){
 
-    $.getJSON("http://api.meetup.com/events.json/?topic=ruby&groupnum=89&key=6a7801841e16295e1e722e254370&callback=?",
-    function (data) {
-      nextMeetup = data.results[0];
-      $('#next_meetup_name').html(nextMeetup.name);
-      date = new Date(nextMeetup.time)
-      $('#next_meetup_date').html(date.formatDate('l, F j'));
-      $('#next_meetup_time').html(date.formatDate('g:i a'));
-      $('#next_meetup_rsvpcount').html(nextMeetup.rsvpcount);
-      $('.next_meetup_event_url').attr('href', nextMeetup.event_url)
-    });
-  });
+  //   $.getJSON("http://api.meetup.com/events.json/?topic=ruby&groupnum=89&key=6a7801841e16295e1e722e254370&callback=?",
+  //   function (data) {
+  //     nextMeetup = data.results[0];
+  //     $('#next_meetup_name').html(nextMeetup.name);
+  //     date = new Date(nextMeetup.time)
+  //     $('#next_meetup_date').html(date.formatDate('l, F j'));
+  //     $('#next_meetup_time').html(date.formatDate('g:i a'));
+  //     $('#next_meetup_rsvpcount').html(nextMeetup.rsvpcount);
+  //     $('.next_meetup_event_url').attr('href', nextMeetup.event_url)
+  //   });
+  // });
 </script>
 <section>
   <div id="next_meetup">
@@ -195,11 +196,9 @@ He&rsquo;s the co-founder of Woven, exploring better ways to hire software engin
     <strong>Time:</strong>
     <span id="next_meetup_time">7:00 pm</span>
     <br>
-    <a class="next_meetup_event_url" href="#">Location and Additional Details</a>
+    <a class="next_meetup_event_url" href="https://www.meetup.com/indyrb/">Location and Additional Details</a>
     <br>
-    <strong># Attending:</strong>
-    <span id="next_meetup_rsvpcount"></span>
-    <a class="next_meetup_event_url" href="#">RSVP Now!</a>
+    <a class="next_meetup_event_url" href="https://www.meetup.com/indyrb/">RSVP Now!</a>
   </div>
 </section>
 <section>
@@ -210,92 +209,16 @@ He&rsquo;s the co-founder of Woven, exploring better ways to hire software engin
   <h1>Chat</h1>
   <ul>
     <li>Join us at #indy_rb on <a href="https://indyhackers-slack.herokuapp.com/">Slack</a></li>
-    <li>Join our <a href="https://www.flowdock.com/invitations/94a1bf817fd42ec852f693da30f685ddccb57a7c">Flowdock channel</a></li>
     <li>Join us at #indyrb on <a href="http://webchat.freenode.net/">Freenode IRC</a></li>
   </ul>
 </section>
 <section>
-  <h1>Sponsors</h1>
-  <div class="sponsors">
-
-    <div class="sponsor">
-      <div class="img-container">
-        <a href="http://www.getfretless.com"><img src="/images/fretless_logo.png" style="width:200px;margin:0 8px 2px 0;padding:2px;"></a>
-      </div>
-      <p>
-        <strong>
-          Sponsored by Fretless
-        </strong>
-      </p>
-      <p>
-        <a href="http://www.getfretless.com" target="_blank">Fretless</a>
-        automates businesses with quality software. We&#8217;re a consultancy in Indianapolis that works with companies like yours to build solutions to automate and streamline your business.
-      </p>
-    </div>
-
-    <div class="sponsor">
-      <div class="img-container">
-        <a href="http://www.lessonly.com/"><img src="/images/lessonly_logo.png" style="width:200px;margin:0 8px 2px 0;padding:2px;background-color: #292933"></a>
-      </div>
-      <p>
-        <strong>
-          Sponsored by Lessonly
-        </strong>
-      </p>
-      <p>
-        <a href="http://www.lessonly.com/" target="_blank">Lessonly</a>
-        is modern learning software used by teams to translate important work knowledge into Lessons that accelerate productivity.
-      </p>
-    </div>
-
-    <div class="sponsor">
-      <div class="img-container">
-        <a href="http://springbuk.com"><img src="/images/springbuk_logo.png" style="width:200px;margin:0 8px 2px 0"></a>
-      </div>
-      <p>
-        <strong>
-          Sponsored by Springbuk
-        </strong>
-      </p>
-      <p>
-        <a href="http://ourhealth.org" target="_blank">Springbuk</a>
-        is a health analytics solution that offers a <strong>complete view</strong> of an employer population.
-      </p>
-    </div>
-
-    <div class="sponsor">
-      <div class="img-container">
-        <a href="http://flowdock.com"><img src="/images/flowdock_logo.png" style="width:200px;margin:0 8px 2px 0;padding:2px;"></a>
-      </div>
-      <p>
-        <strong>
-          Sponsored by Flowdock
-        </strong>
-      </p>
-      <p>
-        <a href="http://flowdock.com" target="_blank">Flowdock</a>
-        is a team collaboration app for desktop, mobile and web. Work on things that matter, be transparent and solve problems across tools, teams and time zones.
-      </p>
-    </div>
-  </div>
-
- <script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.4.0/slick.min.js"></script>
-
-  <script type="text/javascript">
-    $(document).ready(function(){
-      $('.sponsors').slick({
-        autoplay: true,
-        autoplaySpeed: 4000,
-        arrows: false,
-        fade: true,
-        speed: 100
-      });
-    });
-  </script>
-</section>
-<section>
   <h1>Recent Meetings</h1>
   <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/posts/2023/02/08/meetup-february-8/">Meetup February 8th, 2023</a>
+      </li>
     
       <li class="post">
         <a href="/posts/2020/01/08/meetup-jan8/">Meetup January 8th, 2020</a>
@@ -311,10 +234,6 @@ He&rsquo;s the co-founder of Woven, exploring better ways to hire software engin
     
       <li class="post">
         <a href="/posts/2019/09/11/meetup-sep11/">Meetup September 11th, 2019</a>
-      </li>
-    
-      <li class="post">
-        <a href="/posts/2019/06/17/meetup-jun17/">Meetup June 17th, 2019</a>
       </li>
     
   </ul>
@@ -359,7 +278,7 @@ He&rsquo;s the co-founder of Woven, exploring better ways to hire software engin
     </div>
   </div>
   <footer role="contentinfo"><p>
-  Copyright &copy; 2020 - The Indianapolis Ruby Brigade -
+  Copyright &copy; 2023 - The Indianapolis Ruby Brigade -
   <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
 </p>
 

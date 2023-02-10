@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Steve Grossi | IndyRB.org]]></title>
   <link href="http://indyrb.github.io/blog/categories/steve-grossi/atom.xml" rel="self"/>
   <link href="http://indyrb.github.io/"/>
-  <updated>2020-01-20T16:41:49-05:00</updated>
+  <updated>2023-02-10T11:11:51-05:00</updated>
   <id>http://indyrb.github.io/</id>
   <author>
     <name><![CDATA[The Indianapolis Ruby Brigade]]></name>
@@ -42,7 +42,7 @@
   <entry>
     <title type="html"><![CDATA[Meetup July 8, 2015]]></title>
     <link href="http://indyrb.github.io/posts/2015/07/08/meetup-july-8/"/>
-    <updated>2015-07-08T22:00:00-04:00</updated>
+    <updated>2015-07-08T21:00:00-05:00</updated>
     <id>http://indyrb.github.io/posts/2015/07/08/meetup-july-8</id>
     <content type="html"><![CDATA[<h3><a href="https://twitter.com/stevegrossi">Steve Grossi</a> - Ruby News</h3>
 
@@ -76,7 +76,7 @@
   <entry>
     <title type="html"><![CDATA[Meetup March 11]]></title>
     <link href="http://indyrb.github.io/posts/2015/03/11/meetup-march-11/"/>
-    <updated>2015-03-11T22:00:00-04:00</updated>
+    <updated>2015-03-11T21:00:00-05:00</updated>
     <id>http://indyrb.github.io/posts/2015/03/11/meetup-march-11</id>
     <content type="html"><![CDATA[<h3><a href="https://twitter.com/stevegrossi">Steve Grossi</a> - Load Testing Rails apps with Apache Bench, Siege, and JMeter</h3>
 
